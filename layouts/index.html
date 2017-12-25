@@ -1,0 +1,17 @@
+{{ partial "header" . }}
+
+<main id='main' class='main'>
+  
+  <div class='list-container'>
+    <ul class='list'>
+      {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+      {{ range $paginator.Pages }}
+         {{ .Render "li" }}
+      {{ end }}
+    </ul>
+
+    {{ partial "nav/pagination" . }}
+
+</main>
+
+<!-- {{ partial "footer" . }} -->
