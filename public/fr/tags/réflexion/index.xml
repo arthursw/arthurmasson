@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Réflexion on Français</title>
+    <link>http://arthurmasson.xyz/fr/tags/r%C3%A9flexion/</link>
+    <description>Recent content in Réflexion on Français</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 18 Oct 2017 15:06:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/fr/tags/r%C3%A9flexion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Société Ouverte] Lettre à Xavier</title>
+      <link>http://arthurmasson.xyz/fr/societe-ouverte-lettre-a-xavier/</link>
+      <pubDate>Wed, 18 Oct 2017 15:06:41 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/societe-ouverte-lettre-a-xavier/</guid>
+      <description>Cher Ksawery,
+Je viens juste d’avoir une révélation que je dois absolument te partager.
+J’ai récemment rencontré Hugues et les indiens, il me semble que tu connais ces makers fous qui s’appliquent à transmettre leur philosophie du partage issue du monde du libre. Ces bricoleurs bienveillants qui prônent le Do-It-Yourself m’ont enseigné leurs convictions. [que je résumerai grossierement ainsi :
+se réapproprier les moyens de production et de transmission, s’impliquer dans des projets pour mieux cerner les tenants et aboutissant de chaque technologie, mieux comprendre les enjeux et avoir un sens plus aiguisé des réalitées, et pour s’accomplir à travers des projets concrets,</description>
+    </item>
+    
+    <item>
+      <title>Plateforme de réflexion collaborative</title>
+      <link>http://arthurmasson.xyz/fr/plateforme-de-reflexion-collaborative/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:07 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/plateforme-de-reflexion-collaborative/</guid>
+      <description>J&amp;rsquo;ai écris un article qui explique pourquoi il est temps de créer une plateforme de réflexion collaborative, et qui donne des pistes pour y parvenir.
+Cet article existe en version courte et en version longue.</description>
+    </item>
+    
+  </channel>
+</rss>

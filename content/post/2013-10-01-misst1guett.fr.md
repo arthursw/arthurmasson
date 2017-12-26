@@ -6,6 +6,7 @@ title: Misst1guett
 url: /fr/misst1guett/
 tags:
   - website
+  - 1 à 18 jours
 ---
 
 En 2013, j'ai développé [misst1guett.com](http://www.misst1guett.com/) pour la fabuleuse illustratrice Misst1guett !

@@ -1,14 +1,13 @@
 ---
 author: arthur.sw
 date: 2017-10-18T15:06:41Z
-guid: /?p=371
-id: 371
 image: /wp-content/uploads/2017/10/00046u-thumb.jpg
 title: '[Société Ouverte] Lettre à Xavier'
-url: /societe-ouverte-lettre-a-xavier/
+url: /fr/societe-ouverte-lettre-a-xavier/
 tags:
   - reflection
   - artwork
+  - 1 à 18 heures
 ---
 
 ![Lettre à Ksawery n°1](/wp-content/uploads/2017/10/00046u.jpg)

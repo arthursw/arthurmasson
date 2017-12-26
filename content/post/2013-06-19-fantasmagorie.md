@@ -9,6 +9,7 @@ tags:
   - experiment
   - interactive
   - la-sophiste
+  - 1 to 18 days
 ---
 
 ![Fantasmagorie](/wp-content/uploads/2017/06/fantasmagorie.jpg)

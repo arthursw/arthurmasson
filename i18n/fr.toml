@@ -1,0 +1,66 @@
+[home]
+other = "Accueil"
+
+[tag]
+one = "Tag"
+other = "Tags"
+
+[Experiment]
+one = "Expérience"
+other = "Expériences"
+
+[Action-script]
+one = "ActionScript"
+other = "ActionScript"
+
+[Application]
+one = "Application"
+other = "Applications"
+
+[Artwork]
+one = "Art"
+other = "Art"
+
+[Configuration]
+one = "Configuration"
+other = "Configurations"
+
+[Electronics]
+one = "Electronique"
+other = "Electroniques"
+
+[Idlv]
+one = "IDLV"
+other = "IDLV"
+
+[Interactive]
+one = "Interactif"
+other = "Interactif"
+
+[La-sophiste]
+one = "La Sophiste"
+other = "La Sophiste"
+
+[Opengraph]
+one = "Opengraph"
+other = "Opengraph"
+
+[Pages]
+one = "Page"
+other = "Pages"
+
+[Posts]
+one = "Post"
+other = "Posts"
+
+[Reflection]
+one = "Réflexion"
+other = "Réflexions"
+
+[Visual]
+one = "Visuel"
+other = "Visuel"
+
+[Website]
+one = "Website"
+other = "Websites"

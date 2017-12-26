@@ -9,6 +9,7 @@ tags:
   - experiment
   - interactive
   - la-sophiste
+  - 1 à 18 jours
 ---
 
 ![Tranches de vie](/wp-content/uploads/2017/06/tranches-de-vie.jpg)

@@ -9,6 +9,7 @@ tags:
   - experiment
   - interactive
   - la-sophiste
+  - 1 à 18 heures
 ---
 
 > Création de : Arthur Masson  & Gaëtan Hervé
@@ -31,10 +32,10 @@ Le jeu se déroule sur une grille à deux dimensions, dont les cellules peuvent 
 
 Une autre implémentation sur carte graphique est disponible [ici](http://xpl.github.io/expression/). Dans cette version, chaque pixel est une cellule. Il est possible de zoomer pour voir l'algorithme tourner plus précisément. Il est possible d'y modifier les règles du jeu (le nombre de voisins qui donne lui à une naissance, au même état, ou à la mort).
 
-La création finale, réalisée avec Thomas Girault et Gaetan Hervé, est disponible sur github:
+La création finale, réalisée avec Thomas Girault et Gaetan Hervé, est disponible sur github :
 
-  * L'application: <https://arthursw.github.io/dx7-gears/>
-  * Le code: <https://github.com/arthursw/dx7-gears>
+  * L'application : <https://arthursw.github.io/dx7-gears/>
+  * Le code : <https://github.com/arthursw/dx7-gears>
 
 Les petites choses à essayer :
 
@@ -47,3 +48,7 @@ Les petites choses à essayer :
   * etc.
 
 Autre références sur le jeu de la vie:
+ - https://www.youtube.com/watch?v=C2vgICfQawE
+ - https://www.youtube.com/watch?v=xP5-iIeKXE8
+ - https://www.youtube.com/watch?v=Su1Uu4_wIak
+ - https://www.youtube.com/watch?v=S-W0NX97DB0

@@ -9,6 +9,7 @@ tags:
   - experiment
   - interactive
   - la-sophiste
+  - 1 to 18 days
 ---
 
 ![Ondes portées](/wp-content/uploads/2014/10/ondes-portees2.jpg)

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idlv on English</title>
+    <link>http://arthurmasson.xyz/tags/idlv/</link>
+    <description>Recent content in Idlv on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Jun 2017 17:49:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/tags/idlv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tipibot</title>
+      <link>http://arthurmasson.xyz/tipibot/</link>
+      <pubDate>Sat, 10 Jun 2017 17:49:04 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/tipibot/</guid>
+      <description>The Tipibot is an open source vertical plotter to draw images with different tools (pencils, felt pen, marker, spray paint, etc.)
+http://idlv.co/robograff/
+http://idlv.co/grande-synthe/</description>
+    </item>
+    
+    <item>
+      <title>IDLV.co</title>
+      <link>http://arthurmasson.xyz/idlv-co/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:55 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/idlv-co/</guid>
+      <description>The website of Indiens Dans La Ville is online!
+The minimalist CMS behind this minimalist site is ghost.js.
+This node.js framework works well but it lacks of important features : media management (finding, sorting, deleting, resizing, displaying images) and internationalization / multilingual tools.
+I used the theme Vapor which you can see in action on Hipster Ghost.
+I also used the PhotoSwipe image gallery, very efficient and minimalist, which require a bit of work to set up.</description>
+    </item>
+    
+  </channel>
+</rss>

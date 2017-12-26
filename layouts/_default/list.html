@@ -15,7 +15,8 @@
           {{- if eq .Data.Singular "author" -}}
             {{- partial "data/author/displayName" . -}}
           {{- else -}}
-            {{- .Title -}}
+            {{- i18n .Title -}}
+            
           {{- end -}}
         </h1>
 

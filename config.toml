@@ -78,57 +78,84 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "AM"
-weight = -220
-identifier = "arthurmasson"
-url = "/"
-
-[[menu.main]]
-name = "Applications"
-identifier = "applications"
-url = "/tags/application"
-
-[[menu.main]]
-name = "Reflections"
-identifier = "reflections"
-url = "/tags/reflection"
-
-[[menu.main]]
-name = "Experiments"
-identifier = "experiments"
-url = "/tags/experiment"
-
-[[menu.main]]
-name = "Websites"
-identifier = "websites"
-url = "/tags/website"
-
-[[menu.main]]
-name = "Art"
-identifier = "art"
-url = "/tags/artwork"
-
-[[menu.main]]
-name = "La Sophiste"
-identifier = "la-sophiste"
-url = "/tags/la-sophiste"
-
-[[menu.main]]
-name = "IDLV"
-identifier = "idlv"
-url = "/tags/idlv"
-
 [blackfriday]
 hrefTargetBlank = true
 
 [Languages]
 [Languages.en]
-title = "AM"
+title = "English"
+languageName = "English"
 weight = 1
+[[Languages.en.menu.main]]
+name = "AM"
+weight = -220
+identifier = "arthurmasson"
+url = "/"
+[[Languages.en.menu.main]]
+name = "Applications"
+identifier = "applications"
+url = "/tags/application"
+[[Languages.en.menu.main]]
+name = "Reflections"
+identifier = "reflections"
+url = "/tags/reflection"
+[[Languages.en.menu.main]]
+name = "Experiments"
+identifier = "experiments"
+url = "/tags/experiment"
+[[Languages.en.menu.main]]
+name = "Websites"
+identifier = "websites"
+url = "/tags/website"
+[[Languages.en.menu.main]]
+name = "Art"
+identifier = "art"
+url = "/tags/artwork"
+[[Languages.en.menu.main]]
+name = "La Sophiste"
+identifier = "la-sophiste"
+url = "/tags/la-sophiste"
+[[Languages.en.menu.main]]
+name = "IDLV"
+identifier = "idlv"
+url = "/tags/idlv"
 
 [Languages.fr]
-title = "AM"
+title = "Français"
+languageName = "Français"
 weight = 2
 [languages.fr.blackfriday]
 angledQuotes = true
+[[Languages.fr.menu.main]]
+name = "AM"
+weight = -220
+identifier = "arthurmasson"
+url = "/fr/"
+[[Languages.fr.menu.main]]
+name = "Applications"
+identifier = "applications"
+url = "/fr/tags/application"
+[[Languages.fr.menu.main]]
+name = "Réflexions"
+identifier = "reflection"
+url = "/fr/tags/reflection"
+[[Languages.fr.menu.main]]
+name = "Expérience"
+identifier = "experiment"
+url = "/fr/tags/experiment"
+[[Languages.fr.menu.main]]
+name = "Site web"
+identifier = "website"
+url = "/fr/tags/website"
+[[Languages.fr.menu.main]]
+name = "Art"
+identifier = "artwork"
+url = "/fr/tags/artwork"
+[[Languages.fr.menu.main]]
+name = "La Sophiste"
+identifier = "la-sophiste"
+url = "/fr/tags/la-sophiste"
+[[Languages.fr.menu.main]]
+name = "IDLV"
+identifier = "idlv"
+url = "/fr/tags/idlv"

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site-web on Français</title>
+    <link>http://arthurmasson.xyz/fr/tags/site-web/</link>
+    <description>Recent content in Site-web on Français</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/fr/tags/site-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IDLV.co</title>
+      <link>http://arthurmasson.xyz/fr/idlv-co/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:55 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/idlv-co/</guid>
+      <description>Le site des Indiens Dans La Ville est en ligne !
+Derrière son look minimaliste se cache un CMS qui l&amp;rsquo;est tout autant : ghost.js.
+Ce framework node.js fonctionne correctement, mais il lui manque deux fonctionnalités primordiales : la gestion des médias (redimensionnement des images lors du téléchargement, gestion de galerie, etc.) et des outils d&amp;rsquo;internationalisation.
+Je me suis basé sur le thème Vapor, que l&amp;rsquo;on peut voir sous un autre angle sur Hipster Ghost.</description>
+    </item>
+    
+    <item>
+      <title>Misst1guett</title>
+      <link>http://arthurmasson.xyz/fr/misst1guett/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:13 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/misst1guett/</guid>
+      <description>En 2013, j&amp;rsquo;ai développé misst1guett.com pour la fabuleuse illustratrice Misst1guett !
+la page d&amp;rsquo;accueil affiche une chouette illustration, une timeline du superbe TimelineJS et les nuages de projets.
+Voici quelques-une des illustrations que l&amp;rsquo;on peut trouver sur le site:
+                                                      </description>
+    </item>
+    
+    <item>
+      <title>arthurmasson.perso</title>
+      <link>http://arthurmasson.xyz/fr/arthurmasson-perso/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/arthurmasson-perso/</guid>
+      <description>En 2010, je me suis créé arthurmasson.old.portfolio. À l&amp;rsquo;époque, cette technologie était loin d&amp;rsquo;être abandonnée, elle semblait même avoir un bon avenir !
+J&amp;rsquo;ai beaucoup aimé développer en ActionScript 3.0, ce langage est simple, performant, moderne, à peu près portable et complet. Ces qualités sont rarement réunies au sein d&amp;rsquo;une même technologie. Pour autant, ce langage à maintenant quasiment disparu du web, car il oblige la compilation, ne donne pas accès aux sources des applications, et ne respecte pas assez les standards du web.</description>
+    </item>
+    
+    <item>
+      <title>PG-Lease</title>
+      <link>http://arthurmasson.xyz/fr/pg-lease/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:10 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/pg-lease/</guid>
+      <description>J&amp;rsquo;ai réalisé un petit site web au format d&amp;rsquo;une carte de visite flash pour la société de courtage PG-Lease.</description>
+    </item>
+    
+    <item>
+      <title>Comme une fée</title>
+      <link>http://arthurmasson.xyz/fr/comme-une-fee/</link>
+      <pubDate>Thu, 30 Jul 2009 00:00:53 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/comme-une-fee/</guid>
+      <description>J&amp;rsquo;ai réalisé un site e-commerce avec une version flash et une version basé sur Joomla et Virtuemart en 2009.
+J&amp;rsquo;ai porté de multiple casquettes lors de ce projet, graphiste, développeur, designer UX, etc. Ce fut intense, très intéressant et vraiment enrichissant 🙂</description>
+    </item>
+    
+  </channel>
+</rss>

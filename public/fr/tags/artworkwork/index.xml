@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artworkwork on Français</title>
+    <link>http://arthurmasson.xyz/fr/tags/artworkwork/</link>
+    <description>Recent content in Artworkwork on Français</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Nov 2008 00:00:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/fr/tags/artworkwork/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graphic design</title>
+      <link>http://arthurmasson.xyz/graphic-design/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:47 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/graphic-design/</guid>
+      <description>En première année d&amp;rsquo;école d&amp;rsquo;ingénieur, je me suis amusé à faire une petite présentation flash sur le graphisme pour un cours d&amp;rsquo;anglais, et voila le résultat 🙂 Je pense qu&amp;rsquo;on peut voir que je ne suis pas graphiste, mais que j&amp;rsquo;aime le graphisme.</description>
+    </item>
+    
+    <item>
+      <title>Générateur de sons</title>
+      <link>http://arthurmasson.xyz/fr/sound-generator/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:47 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/sound-generator/</guid>
+      <description>Une de mes première application a été ce petit générateur de son. Il est très simple, mais peu en théorie simuler n&amp;rsquo;importe quel son, puisqu&amp;rsquo;il est possible d&amp;rsquo;ajouter « une infinité » de sinusoïdes 🙂</description>
+    </item>
+    
+    <item>
+      <title>3D</title>
+      <link>http://arthurmasson.xyz/fr/3d/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:35 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/3d/</guid>
+      <description>Quelques réalisations 3D issues de mon auto-apprentissages, de projets de jeux vidéos, ou de travaux en tant qu&amp;rsquo;artiste 3D.
+                                                                  </description>
+    </item>
+    
+  </channel>
+</rss>

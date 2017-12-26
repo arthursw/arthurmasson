@@ -2,13 +2,14 @@
 author: arthur.sw
 date: 2016-10-01T00:00:24Z
 image: /wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-14.19.04-thumb.png
-title: Engrenage musical
+title: Musical Gears
 url: /engrenage-musical-musical-game-of-life/
 tags:
   - artwork
   - experiment
   - interactive
   - la-sophiste
+  - 1 to 18 hours
 ---
 
 > Création de : Arthur Masson  & Gaëtan Hervé
@@ -16,34 +17,37 @@ tags:
 ![Engrenage musical](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-14.19.04.png)
 
 
-[Musical Gears](https://arthursw.github.io/dx7-gears/) is an artwork which takes inspiration from [the game of life](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) designed by [John Horton Conway](https://fr.wikipedia.org/wiki/John_Horton_Conway "John Horton Conway") in 1970.
+[Musical Gears](https://arthursw.github.io/dx7-gears/) is an artwork which takes inspiration from [the game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) designed by [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway "John Horton Conway") in 1970.
 
-> Cet algorithme rendit Conway rapidement célèbre mais il ouvrit aussi un nouveau champ de recherche mathématique, celui des automates cellulaires. En effet, les analogies du jeu de la vie avec le développement, le déclin et les altérations d’une colonie de micro-organismes, le rapprochent des jeux de simulation qui miment les processus de la vie réelle.
+> The game made Conway instantly famous, but it also opened up a whole new field of mathematical research, the field of cellular automata ... Because of Life's analogies with the rise, fall and alterations of a society of living organisms, it belongs to a growing class of what are called "simulation games" (games that resemble real life processes).
 
-Le jeu se déroule sur une grille à deux dimensions, dont les cellules peuvent prendre deux états distincts : « vivantes » ou « mortes ».
+The game takes place on a two-dimensional grid on which cells can take two distinct states: "alive" or "dead".
 
-À chaque étape, l’évolution d’une cellule est déterminée par l’état de ses huit voisines :
+At each step, the evolution of the cell depends on its eight neighbours:
+ - a dead cell which has exactly three living neighbours becomes alive (birth),
+ - a living cell which has two or three living cell remains alive, otherwise it dies.
 
-  * Une cellule morte possédant exactement trois voisines vivantes devient vivante (elle naît).
-  * Une cellule vivante possédant deux ou trois voisines vivantes le reste, sinon elle meurt.
+[An implementation of the Game of Life](https://www.khanacademy.org/computer-programming/game-of-life/879123336) in javascript is available on the Khan Academy. It helps understanding easily the game and its code.
 
-[Une implémentation du Game of Life](https://www.khanacademy.org/computer-programming/game-of-life/879123336) en javascript est disponible sur la Khan Academy. Elle permet de comprendre simplement comment fonctionne le jeu, et de lire le code de l'algorithme.
+Another implementation on GPU is [available here](http://xpl.github.io/expression/). In this version, each pixel is a cell. It is possible to zoom to see the algorithm running precisely. It is possible to modify the rules of the game (the number of neighbours which gives birth or death or keep the same state).
 
-Une autre implémentation sur carte graphique est disponible [ici](http://xpl.github.io/expression/). Dans cette version, chaque pixel est une cellule. Il est possible de zoomer pour voir l'algorithme tourner plus précisément. Il est possible d'y modifier les règles du jeu (le nombre de voisins qui donne lui à une naissance, au même état, ou à la mort).
+The final artwork, made with Thomas Girault and Gaetan Hervé, is available on github:
 
-La création finale, réalisée avec Thomas Girault et Gaetan Hervé, est disponible sur github:
+  - The application: <https://arthursw.github.io/dx7-gears/>
+  - The code: <https://github.com/arthursw/dx7-gears>
 
-  * L'application: <https://arthursw.github.io/dx7-gears/>
-  * Le code: <https://github.com/arthursw/dx7-gears>
+A few things to try :
+  
+  - play one note for a while (press a key and keep the key down),
+  - try with two notes and let it evolve,
+  - try symetric patterns,
+  - paint with the mouse,
+  - use a midi keyboard to really play melodies,
+  - open midi files,
+  - etc.
 
-Les petites choses à essayer :
-
-  * rester appuyer sur une touche,
-  * allumer deux lignes puis laisser évoluer,
-  * essayer les figures symétriques,
-  * peindre des notes avec la souris,
-  * utiliser un clavier midi pour faire des mélodies,
-  * lancer les fichiers midi,
-  * etc.
-
-Autre références sur le jeu de la vie:
+Other videos about the game of life:
+ - https://www.youtube.com/watch?v=C2vgICfQawE
+ - https://www.youtube.com/watch?v=xP5-iIeKXE8
+ - https://www.youtube.com/watch?v=Su1Uu4_wIak
+ - https://www.youtube.com/watch?v=S-W0NX97DB0

@@ -7,6 +7,7 @@ url: /arthurmasson-perso/
 tags:
   - website
   - action-script
+  - 1 to 18 days
 ---
 
 I created a [personal website](http:/arthurmasson.xyz/old/index.html) in 2010. At this time, flash was far from being abandoned, it seemed to have a great future !

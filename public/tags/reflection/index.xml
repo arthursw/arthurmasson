@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflection on English</title>
+    <link>http://arthurmasson.xyz/tags/reflection/</link>
+    <description>Recent content in Reflection on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 18 Oct 2017 15:06:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Société Ouverte] Lettre à Xavier</title>
+      <link>http://arthurmasson.xyz/societe-ouverte-lettre-a-xavier/</link>
+      <pubDate>Wed, 18 Oct 2017 15:06:41 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/societe-ouverte-lettre-a-xavier/</guid>
+      <description>Cher Ksawery,
+Je viens juste d’avoir une révélation que je dois absolument te partager.
+J’ai récemment rencontré Hugues et les indiens, il me semble que tu connais ces makers fous qui s’appliquent à transmettre leur philosophie du partage issue du monde du libre. Ces bricoleurs bienveillants qui prônent le Do-It-Yourself m’ont enseigné leurs convictions. [que je résumerai grossierement ainsi :
+se réapproprier les moyens de production et de transmission, s’impliquer dans des projets pour mieux cerner les tenants et aboutissant de chaque technologie, mieux comprendre les enjeux et avoir un sens plus aiguisé des réalitées, et pour s’accomplir à travers des projets concrets,</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Reflection Platform</title>
+      <link>http://arthurmasson.xyz/collaborative-reflection-platform/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:07 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/collaborative-reflection-platform/</guid>
+      <description>I wrote an article which explains why it is time to create a collaborative reflection platform, and gave some ideas to reach this goal.
+This article exists in short version and in long version.</description>
+    </item>
+    
+  </channel>
+</rss>
