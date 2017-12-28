@@ -7,7 +7,7 @@ url: /fr/arthurmasson-perso/
 tags:
   - website
   - action-script
-  - 1 à 18 jours
+  - from1to18days
 ---
 
 En 2010, je me suis créé [arthurmasson.old.portfolio](http:/arthurmasson.xyz/old/index.html). À l'époque, cette technologie était loin d'être abandonnée, elle semblait même avoir un bon avenir !

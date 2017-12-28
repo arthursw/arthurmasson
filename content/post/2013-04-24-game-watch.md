@@ -9,7 +9,7 @@ tags:
   - experiment
   - interactive
   - la-sophiste
-  - 1 to 18 days
+  - from1to18days
 ---
 
 ![Game'n'watch](/wp-content/uploads/2017/06/game-n-watch.jpg)

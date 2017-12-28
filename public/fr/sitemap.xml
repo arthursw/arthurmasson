@@ -393,24 +393,6 @@
   </url>
   
   <url>
-    <loc>http://arthurmasson.xyz/fr/tags/1-%C3%A0-18-heures/</loc>
-    <lastmod>2017-10-18T15:06:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://arthurmasson.xyz/fr/tags/1-%C3%A0-18-jours/</loc>
-    <lastmod>2017-06-20T17:19:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://arthurmasson.xyz/fr/tags/1-%C3%A0-18-mois/</loc>
-    <lastmod>2017-06-10T17:49:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://arthurmasson.xyz/fr/tags/action-script/</loc>
     <lastmod>2010-06-01T00:00:49+00:00</lastmod>
     <priority>0</priority>
@@ -537,6 +519,54 @@
   </url>
   
   <url>
+    <loc>http://arthurmasson.xyz/fr/tags/from1to18days/</loc>
+    <lastmod>2017-06-20T17:19:34+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/tags/from1to18days/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/tags/from1to18days/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://arthurmasson.xyz/fr/tags/from1to18hours/</loc>
+    <lastmod>2017-10-18T15:06:41+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/tags/from1to18hours/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/tags/from1to18hours/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://arthurmasson.xyz/fr/tags/from1to18months/</loc>
+    <lastmod>2017-06-10T17:49:04+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/tags/from1to18months/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/tags/from1to18months/"
+                />
+  </url>
+  
+  <url>
     <loc>http://arthurmasson.xyz/fr/tags/idlv/</loc>
     <lastmod>2017-06-10T17:49:04+00:00</lastmod>
     <priority>0</priority>
@@ -634,7 +664,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/tags/</loc>
-    <lastmod>2017-10-18T15:06:41+00:00</lastmod>
+    <lastmod>2010-06-01T00:00:49+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

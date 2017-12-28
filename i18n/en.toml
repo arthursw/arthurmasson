@@ -64,3 +64,16 @@ other = "Visual"
 [Website]
 one = "Website"
 other = "Websites"
+
+[From1to18hours]
+one = "From 1 to 18 hours"
+other = "From 1 to 18 hours"
+
+[From1to18days]
+one = "From 1 to 18 days"
+other = "From 1 to 18 days"
+
+[From1to18months]
+one = "From 1 to 18 months"
+other = "From 1 to 18 months"
+

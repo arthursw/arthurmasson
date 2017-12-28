@@ -5,37 +5,10 @@
     <link>http://arthurmasson.xyz/fr/tags/</link>
     <description>Recent content in Tags on Français</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 Oct 2017 15:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2010 00:00:49 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>1 à 18 heures</title>
-      <link>http://arthurmasson.xyz/fr/tags/1-%C3%A0-18-heures/</link>
-      <pubDate>Wed, 18 Oct 2017 15:06:41 +0000</pubDate>
-      
-      <guid>http://arthurmasson.xyz/fr/tags/1-%C3%A0-18-heures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1 à 18 jours</title>
-      <link>http://arthurmasson.xyz/fr/tags/1-%C3%A0-18-jours/</link>
-      <pubDate>Tue, 20 Jun 2017 17:19:34 +0000</pubDate>
-      
-      <guid>http://arthurmasson.xyz/fr/tags/1-%C3%A0-18-jours/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1 à 18 mois</title>
-      <link>http://arthurmasson.xyz/fr/tags/1-%C3%A0-18-mois/</link>
-      <pubDate>Sat, 10 Jun 2017 17:49:04 +0000</pubDate>
-      
-      <guid>http://arthurmasson.xyz/fr/tags/1-%C3%A0-18-mois/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Action-script</title>
@@ -79,6 +52,33 @@
       <pubDate>Tue, 20 Jun 2017 17:19:34 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/fr/tags/experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From1to18days</title>
+      <link>http://arthurmasson.xyz/fr/tags/from1to18days/</link>
+      <pubDate>Tue, 20 Jun 2017 17:19:34 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/tags/from1to18days/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From1to18hours</title>
+      <link>http://arthurmasson.xyz/fr/tags/from1to18hours/</link>
+      <pubDate>Wed, 18 Oct 2017 15:06:41 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/tags/from1to18hours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From1to18months</title>
+      <link>http://arthurmasson.xyz/fr/tags/from1to18months/</link>
+      <pubDate>Sat, 10 Jun 2017 17:49:04 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/tags/from1to18months/</guid>
       <description></description>
     </item>
     

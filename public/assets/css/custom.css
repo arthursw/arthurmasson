@@ -1,3 +1,22 @@
+
+#main-menu {
+	display: flex;
+	flex-direction: row;
+}
+
+.translations {
+	color: #455a64;
+	display: inline-block;
+	list-style: none;
+	align-self: flex-end;
+	text-transform: uppercase;
+    margin-left: auto;
+}
+
+.translations li a {
+	color: #455a64;
+}
+
 .list-item:first-of-type, .list-item {
 	margin: 1em;
 }
@@ -76,4 +95,8 @@
 
 .entry-content figure a {
 	border-bottom: none;
+}
+
+.pagination {
+    margin-bottom: 50px;
 }

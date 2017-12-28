@@ -9,7 +9,7 @@ tags:
   - experiment
   - interactive
   - la-sophiste
-  - 1 à 18 jours
+  - from1to18days
 ---
 
 ![My tailer is rich](/wp-content/uploads/2017/06/my-tailer-is-rich.jpg)

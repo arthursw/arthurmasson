@@ -6,7 +6,7 @@ title: ProBuilder
 url: /fr/probuilder/
 tags:
   - application
-  - 1 à 18 mois
+  - from1to18months
 ---
 
 ![ProBuilder 1](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-23-à-17.42.44.png)

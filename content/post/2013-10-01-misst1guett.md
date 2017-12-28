@@ -6,7 +6,7 @@ title: Misst1guett
 url: /misst1guett/
 tags:
   - website
-  - 1 to 18 days
+  - from1to18days
 ---
 
 I developed [misst1guett.com](http://www.misst1guett.com/) in 2013 for the wonderful illustrator Misst1guett!

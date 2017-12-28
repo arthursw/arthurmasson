@@ -6,7 +6,7 @@ title: Plateforme de réflexion collaborative
 url: /fr/plateforme-de-reflexion-collaborative/
 tags:
   - reflection
-  - 1 à 18 jours
+  - from1to18days
 ---
 
 ![Plateforme de réflexion collaborative](/wp-content/uploads/2017/06/nuit-debout.png)

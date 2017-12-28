@@ -8,7 +8,7 @@ tags:
   - artwork
   - experiment
   - action-script
-  - 1 à 18 heures
+  - from1to18hours
 ---
 
 ![sound generator](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-18.36.14.png)

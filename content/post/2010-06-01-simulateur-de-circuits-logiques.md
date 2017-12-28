@@ -8,7 +8,7 @@ tags:
   - application
   - experiment
   - action-script
-  - 1 to 18 days
+  - from1to18days
 ---
 
 ![Simulateur de circuits logiques](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-17.34.38.png)

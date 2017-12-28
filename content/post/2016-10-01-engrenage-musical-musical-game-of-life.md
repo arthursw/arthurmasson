@@ -9,7 +9,7 @@ tags:
   - experiment
   - interactive
   - la-sophiste
-  - 1 to 18 hours
+  - from1to18hours
 ---
 
 > Création de : Arthur Masson  & Gaëtan Hervé

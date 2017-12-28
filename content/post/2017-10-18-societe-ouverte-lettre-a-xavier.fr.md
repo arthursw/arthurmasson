@@ -7,7 +7,7 @@ url: /fr/societe-ouverte-lettre-a-xavier/
 tags:
   - reflection
   - artwork
-  - 1 à 18 heures
+  - from1to18hours
 ---
 
 ![Lettre à Ksawery n°1](/wp-content/uploads/2017/10/00046u.jpg)
