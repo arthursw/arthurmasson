@@ -13,7 +13,7 @@ tags:
 
 ![Simulateur de circuits logiques](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-17.34.38.png)
 
-Mon [projet de fin de deuxième année](http://arthurmasson.xyz/old/LogicGateSimulator.html) à l'ESIR est un simulateur de circuits logiques.
+Mon [projet de fin de deuxième année](/old/LogicGateSimulator.html) à l'ESIR est un simulateur de circuits logiques.
 
 Je suis content d'avoir créé cette application dynamique qui illustre de manière animée la propagation des signaux dans le circuit.
 

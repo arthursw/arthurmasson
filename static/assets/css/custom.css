@@ -2,15 +2,21 @@
 #main-menu {
 	display: flex;
 	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.main-menu {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	font-size: 14px;
+    margin: 5px;
 }
 
 .translations {
-	color: #455a64;
-	display: inline-block;
-	list-style: none;
-	align-self: flex-end;
-	text-transform: uppercase;
-    margin-left: auto;
+	align-self: flex-start;
+    // margin-left: auto;
 }
 
 .translations li a {
@@ -44,6 +50,16 @@
 	}
 }
 
+@media (max-width: 1024px) {
+
+	#main-menu {
+		flex-direction: column;
+	}
+	.main-menu {
+		flex-direction: row;
+	}
+}
+
 @media (max-width: 760px) {
 	.list, .gallery {
 		grid-template-areas: "col1";
@@ -67,7 +83,7 @@
 }
 
 .comments-container #disqus_thread, .entry-content, .entry-cover, .entry-cover figcaption, .entry-footer, .entry-nav, .entry-toc, .footer, .header, .home-sections, .list, .pagination, .term-cloud {
-	max-width: 1200px;
+	max-width: 1050px;
 }
 
 .entry-nav::before, .footer::before, .prev-entry ~ .next-entry::before {
@@ -86,13 +102,9 @@
     margin-bottom: 30px;
 }
 
-.prev-entry a span {
-	display: inline-block;
-}
-
 .next-entry {
-    width: 100%;
 	text-align: right;
+    margin-left: auto;
 }
 
 .entry-content figure a {
@@ -101,4 +113,8 @@
 
 .pagination {
     margin-bottom: 50px;
+}
+
+iframe {
+    border: 0;
 }

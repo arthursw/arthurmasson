@@ -91,34 +91,46 @@ name = "AM"
 weight = -220
 identifier = "arthurmasson"
 url = "/"
-[[Languages.en.menu.main]]
+[[Languages.en.menu.tags]]
 name = "Applications"
-identifier = "applications"
-url = "/tags/application"
-[[Languages.en.menu.main]]
+identifier = "application"
+url = "/tags/application/"
+[[Languages.en.menu.tags]]
 name = "Reflections"
-identifier = "reflections"
-url = "/tags/reflection"
-[[Languages.en.menu.main]]
+identifier = "reflection"
+url = "/tags/reflection/"
+[[Languages.en.menu.tags]]
 name = "Experiments"
-identifier = "experiments"
-url = "/tags/experiment"
-[[Languages.en.menu.main]]
+identifier = "experiment"
+url = "/tags/experiment/"
+[[Languages.en.menu.tags]]
 name = "Websites"
 identifier = "websites"
-url = "/tags/website"
-[[Languages.en.menu.main]]
+url = "/tags/website/"
+[[Languages.en.menu.tags]]
 name = "Art"
 identifier = "art"
-url = "/tags/artwork"
-[[Languages.en.menu.main]]
+url = "/tags/artwork/"
+[[Languages.en.menu.co]]
 name = "La Sophiste"
 identifier = "la-sophiste"
-url = "/tags/la-sophiste"
-[[Languages.en.menu.main]]
+url = "/tags/la-sophiste/"
+[[Languages.en.menu.co]]
 name = "IDLV"
 identifier = "idlv"
-url = "/tags/idlv"
+url = "/tags/idlv/"
+[[Languages.en.menu.workamount]]
+name = "1 to 18 hours"
+identifier = "from1to18hours"
+url = "/tags/from1to18hours/"
+[[Languages.en.menu.workamount]]
+name = "1 to 18 days"
+identifier = "from1to18days"
+url = "/tags/from1to18days/"
+[[Languages.en.menu.workamount]]
+name = "1 to 18 months"
+identifier = "from1to18months"
+url = "/tags/from1to18months/"
 
 [Languages.fr]
 title = "Français"
@@ -126,36 +138,52 @@ languageName = "Français"
 weight = 2
 [languages.fr.blackfriday]
 angledQuotes = true
+# [languages.fr.settings]
+# date & time format: https://golang.org/pkg/time/
+# dateFormat = "02 January 2006"
+# listDateFormat = "02 January 2006"
 [[Languages.fr.menu.main]]
 name = "AM"
 weight = -220
 identifier = "arthurmasson"
 url = "/fr/"
-[[Languages.fr.menu.main]]
+[[Languages.fr.menu.tags]]
 name = "Applications"
-identifier = "applications"
-url = "/fr/tags/application"
-[[Languages.fr.menu.main]]
+identifier = "application"
+url = "/fr/tags/application/"
+[[Languages.fr.menu.tags]]
 name = "Réflexions"
 identifier = "reflection"
-url = "/fr/tags/reflection"
-[[Languages.fr.menu.main]]
-name = "Expérience"
+url = "/fr/tags/reflection/"
+[[Languages.fr.menu.tags]]
+name = "Expériences"
 identifier = "experiment"
-url = "/fr/tags/experiment"
-[[Languages.fr.menu.main]]
-name = "Site web"
+url = "/fr/tags/experiment/"
+[[Languages.fr.menu.tags]]
+name = "Sites web"
 identifier = "website"
-url = "/fr/tags/website"
-[[Languages.fr.menu.main]]
+url = "/fr/tags/website/"
+[[Languages.fr.menu.tags]]
 name = "Art"
 identifier = "artwork"
-url = "/fr/tags/artwork"
-[[Languages.fr.menu.main]]
+url = "/fr/tags/artwork/"
+[[Languages.fr.menu.co]]
 name = "La Sophiste"
 identifier = "la-sophiste"
-url = "/fr/tags/la-sophiste"
-[[Languages.fr.menu.main]]
+url = "/fr/tags/la-sophiste/"
+[[Languages.fr.menu.co]]
 name = "IDLV"
 identifier = "idlv"
-url = "/fr/tags/idlv"
+url = "/fr/tags/idlv/"
+[[Languages.fr.menu.workamount]]
+name = "1 à 18 heures"
+identifier = "from1to18hours"
+url = "/fr/tags/from1to18hours/"
+[[Languages.fr.menu.workamount]]
+name = "1 à 18 jours"
+identifier = "from1to18days"
+url = "/fr/tags/from1to18days/"
+[[Languages.fr.menu.workamount]]
+name = "1 à 18 mois"
+identifier = "from1to18months"
+url = "/fr/tags/from1to18months/"

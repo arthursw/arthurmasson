@@ -10,7 +10,7 @@ tags:
   - from1to18days
 ---
 
-En 2010, je me suis créé [arthurmasson.old.portfolio](http:/arthurmasson.xyz/old/index.html). À l'époque, cette technologie était loin d'être abandonnée, elle semblait même avoir un bon avenir !
+En 2010, je me suis créé [un site portfolio](/old/index.html). À l'époque, cette technologie était loin d'être abandonnée, elle semblait même avoir un bon avenir !
 
 ![arthurmasson](/wp-content/uploads/2017/06/arthurmasson.perso-2088x1396.png)
 

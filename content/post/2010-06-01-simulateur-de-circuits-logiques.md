@@ -13,7 +13,7 @@ tags:
 
 ![Simulateur de circuits logiques](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-17.34.38.png)
 
-My second year project at ESIR was a [logical circuit simulator](http://arthurmasson.xyz/old/LogicGateSimulator.html).
+My second year project at ESIR was a [logical circuit simulator](/old/LogicGateSimulator.html).
 
 I developed a dynamic version which show of logical signals propagate in the circuits.
 

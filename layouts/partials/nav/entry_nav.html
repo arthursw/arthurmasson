@@ -21,7 +21,7 @@
           {{- print " " ( i18n "previous" ) -}}
         </span>
         <span class='screen-reader'>{{ i18n "previousPost" }}: </span>
-        {{- .PrevInSection.Title -}}
+        <span class="prev-title">{{- .PrevInSection.Title -}}</span>
       </a>
     </div>
     {{- end -}}
@@ -34,7 +34,7 @@
           {{- partial "svg/icons" "next" -}}
         </span>
         <span class='screen-reader'>{{ i18n "nextPost" }}: </span>
-        {{- .NextInSection.Title -}}
+        <span class="next-title">{{- .NextInSection.Title -}}</span>
       </a>
     </div>
     {{- end -}}

@@ -10,7 +10,7 @@ tags:
   - from1to18days
 ---
 
-I created a [personal website](http:/arthurmasson.xyz/old/index.html) in 2010. At this time, flash was far from being abandoned, it seemed to have a great future !
+I created a [personal website](/old/index.html) in 2010. At this time, flash was far from being abandoned, it seemed to have a great future !
 
 ![arthurmasson](/wp-content/uploads/2017/06/arthurmasson.perso-2088x1396.png)
 

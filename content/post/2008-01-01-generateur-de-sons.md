@@ -13,5 +13,5 @@ tags:
 
 ![sound generator](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-18.36.14.png)
 
-This [sound generator](http://arthurmasson.xyz/old/WaveGenerator.html) was one of my very first application. 
+This [sound generator](/old/WaveGenerator.html) was one of my very first application. 
 It is very simple, but can theoretically simulate any sound since it is possible to add an "infinite" amount of sine waves :-)

@@ -3,7 +3,7 @@ author: arthur.sw
 date: 2017-10-25T15:06:41Z
 image: /wp-content/uploads/2017/10/esquisse-thumb.jpg
 title: '[Société Ouverte] Lettre à Xavier n°2'
-url: /societe-ouverte-lettre-a-xavier-2/
+url: /fr/societe-ouverte-lettre-a-xavier-2/
 tags:
   - reflection
   - artwork
