@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idlv on Français</title>
+    <link>http://arthurmasson.xyz/fr/tags/idlv/</link>
+    <description>Recent content in Idlv on Français</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 15 Oct 2017 15:06:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/fr/tags/idlv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comme un Dessein</title>
+      <link>http://arthurmasson.xyz/fr/comme-un-dessein/</link>
+      <pubDate>Sun, 15 Oct 2017 15:06:41 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/comme-un-dessein/</guid>
+      <description>Festival Maintenant - 10 au 15 octobre 2017
+Théâtre du Vieux St-Etienne - Rennes (Fr)
+  « La démocratie participative fait-elle réellement émerger l’intérêt général ? »
+ L’installation Comme un dessein fait écho à cette question actuelle et invite le public, du 10 au 15 octobre 2017 à l&amp;rsquo;occasion du festival Maitenant, à débattre et à proposer des dessins qui viendront progressivement composer une fresque collective grâce à une interface web connectée à un traceur vertical disposé dans le Théâtre du Vieux St-Étienne.</description>
+    </item>
+    
+    <item>
+      <title>Tipibot</title>
+      <link>http://arthurmasson.xyz/fr/tipibot/</link>
+      <pubDate>Sat, 10 Jun 2017 17:49:04 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/tipibot/</guid>
+      <description>Le Tipibot est un traceur vertical open source qui permet de tracer avec différents outils (crayons, feutres, marqueurs, bombes de peinture, etc.).
+http://idlv.co/robograff/
+http://idlv.co/grande-synthe/</description>
+    </item>
+    
+    <item>
+      <title>IDLV.co</title>
+      <link>http://arthurmasson.xyz/fr/idlv-co/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:55 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/idlv-co/</guid>
+      <description>Le site des Indiens Dans La Ville est en ligne !
+Derrière son look minimaliste se cache un CMS qui l&amp;rsquo;est tout autant : ghost.js.
+Ce framework node.js fonctionne correctement, mais il lui manque deux fonctionnalités primordiales : la gestion des médias (redimensionnement des images lors du téléchargement, gestion de galerie, etc.) et des outils d&amp;rsquo;internationalisation.
+Je me suis basé sur le thème Vapor, que l&amp;rsquo;on peut voir sous un autre angle sur Hipster Ghost.</description>
+    </item>
+    
+    <item>
+      <title>Odyssée Urbaine</title>
+      <link>http://arthurmasson.xyz/fr/odyssee-urbaine/</link>
+      <pubDate>Thu, 30 Jun 2016 00:00:55 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/odyssee-urbaine/</guid>
+      <description>Robograff - Odyssée Urbaine 2016
+Musique : Funky DL &amp;amp; Nujabes - Don&amp;rsquo;t even try it
+ A l’occasion du Festival Odyssée Urbaine 2016, le collectif IDLV entreprend un projet qui motive depuis leurs début les expérimentations menés avec le robot qui dessine : pour la première fois, le robot utilisera une bombe à peinture et non plus des crayons pour dessiner!
+Pour ce projet, le collectif est allé à la rencontre des enfants de l’école primaire rennaise Sonia Delaunay en leur proposant de dessiner la nature dont ils rêvent : des plantes, des arbres, des fleurs… Avec l’intention d’impliquer les enfants dans un processus de création, à travers la découverte d’une pratique artistique et l’usage d’une technologie numérique.</description>
+    </item>
+    
+  </channel>
+</rss>

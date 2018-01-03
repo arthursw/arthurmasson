@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifsicmedia>
+	<images>
+		<item>
+			<description>Image processing : Histogram equalization.</description>
+			<link>EgalisationHistogramme.jpg</link>
+		</item>
+		
+		<item>
+			<description>Equation in Partial Derivatives for image analysis : Convolution-based Operations.</description>
+			<link>EDPconv.jpg</link>
+		</item>
+		
+		<item>
+			<description>Equation in Partial Derivatives for image analysis : Inpainting.</description>
+			<link>EDPinpainting.jpg</link>
+		</item>
+		
+		<item>
+			<description>Equation in Partial Derivatives for image analysis : Inpainting.</description>
+			<link>EDPinpainting2.jpg</link>
+		</item>
+		
+		<item>
+			<description>Equation in Partial Derivatives for image analysis : Segmentation.</description>
+			<link>EDPsegmentation.jpg</link>
+		</item>
+		
+		<item>
+			<description>Equation in Partial Derivatives for image analysis : Segmentation.</description>
+			<link>EDPsegmentation2.jpg</link>
+		</item>
+		
+		<item>
+			<description>Equation in Partial Derivatives for image analysis : Motion analysis.</description>
+			<link>EDPflotOptique.jpg</link>
+		</item>
+		
+		<item>
+			<description>Equation in Partial Derivatives for image analysis : Image restoration.</description>
+			<link>Restauration.jpg</link>
+		</item>
+		
+		<item>
+			<description>Analog and digital signal processing.</description>
+			<link>TSD.jpg</link>
+		</item>
+		
+		<item>
+			<description>Graph theory.</description>
+			<link>Graphe.jpg</link>
+		</item>
+		
+		<item>
+			<description>Algorithm and complexity : trees and AVL trees.</description>
+			<link>ACavlabr.jpg</link>
+		</item>
+		
+		<item>
+			<description>Algorithm and complexity : 2-3-4 trees and bicolors trees.</description>
+			<link>ArbresBicolors234.jpg</link>
+		</item>
+		
+		<item>
+			<description>Image Processing : Image Transform and Fourier/Wavelet Transform.</description>
+			<link>TTIrotation.jpg</link>
+		</item>
+		
+		<item>
+			<description>Image Processing : Image Transform and Fourier/Wavelet Transform.</description>
+			<link>TTIexamples.jpg</link>
+		</item>
+		
+		<item>
+			<description>Image Processing : Image Transform and Fourier/Wavelet Transform.</description>
+			<link>TTI2dWavelet.jpg</link>
+		</item>
+		
+		<item>
+			<description>UML course.</description>
+			<link>UML.jpg</link>
+		</item>
+		
+		<item>
+			<description>Computer Graphics and OpenGL.</description>
+			<link>SDIopenGL.jpg</link>
+		</item>
+	</images>
+</ifsicmedia>

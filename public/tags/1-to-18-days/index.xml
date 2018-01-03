@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 to 18 days on English</title>
+    <link>http://arthurmasson.xyz/tags/1-to-18-days/</link>
+    <description>Recent content in 1 to 18 days on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/tags/1-to-18-days/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D</title>
+      <link>http://arthurmasson.xyz/3d/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:35 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/3d/</guid>
+      <description>A few of my 3D artworks designed when I was self-learning 3D modeling or working on various video game projects.
+                                                                  </description>
+    </item>
+    
+  </channel>
+</rss>

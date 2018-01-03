@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on English</title>
+    <link>http://arthurmasson.xyz/tags/website/</link>
+    <description>Recent content in Website on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IDLV.co</title>
+      <link>http://arthurmasson.xyz/idlv-co/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:55 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/idlv-co/</guid>
+      <description>The website of Indiens Dans La Ville is online!
+The minimalist CMS behind this minimalist site is ghost.js.
+This node.js framework works well but it lacks of important features : media management (finding, sorting, deleting, resizing, displaying images) and internationalization / multilingual tools.
+I used the theme Vapor which you can see in action on Hipster Ghost.
+I also used the PhotoSwipe image gallery, very efficient and minimalist, which require a bit of work to set up.</description>
+    </item>
+    
+    <item>
+      <title>Misst1guett</title>
+      <link>http://arthurmasson.xyz/misst1guett/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:13 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/misst1guett/</guid>
+      <description>I developed misst1guett.com in 2013 for the wonderful illustrator Misst1guett!
+The home page displays a pretty drawing, a timeline form the great TimelineJS and some clouds of projects.
+Here are a few illustrations of her:
+                                                      </description>
+    </item>
+    
+    <item>
+      <title>arthurmasson.perso</title>
+      <link>http://arthurmasson.xyz/arthurmasson-perso/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/arthurmasson-perso/</guid>
+      <description>I created a personal website in 2010. At this time, flash was far from being abandoned, it seemed to have a great future !
+I enjoyed working with ActionScript 3.0, this language is simple, powerful and somehow portable and complete. Those qualities are rarely met within a single technology. However, this language almost disappeared from the web since it requires to compile, does not give the possibility to distribute the source codes by design and does not respect web standards.</description>
+    </item>
+    
+    <item>
+      <title>PG-Lease</title>
+      <link>http://arthurmasson.xyz/pg-lease/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:10 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/pg-lease/</guid>
+      <description>I developed a small flash website for PG_Lease, a small brokerage company.</description>
+    </item>
+    
+    <item>
+      <title>Comme une fée</title>
+      <link>http://arthurmasson.xyz/comme-une-fee/</link>
+      <pubDate>Thu, 30 Jul 2009 00:00:53 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/comme-une-fee/</guid>
+      <description>I created an e-commerce website with a flash version and a Joomla / Virtuemart version in 2009.
+This job required me to develop different skills : graphic designer, web developer, UX designer etc. This project was intense, very interesting and rewarding :-)</description>
+    </item>
+    
+  </channel>
+</rss>

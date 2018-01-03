@@ -83,7 +83,7 @@ hrefTargetBlank = true
 
 [Languages]
 [Languages.en]
-title = "English"
+title = "AM"
 languageName = "English"
 weight = 1
 [[Languages.en.menu.main]]
@@ -133,7 +133,7 @@ identifier = "from1to18months"
 url = "/tags/from1to18months/"
 
 [Languages.fr]
-title = "Français"
+title = "AM"
 languageName = "Français"
 weight = 2
 [languages.fr.blackfriday]

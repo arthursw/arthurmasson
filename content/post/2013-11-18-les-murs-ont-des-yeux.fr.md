@@ -5,11 +5,11 @@ image: /images/les-murs-ont-des-yeux/1-1500x1000-thumb.jpg
 title: Les murs ont des yeux
 url: /fr/les-murs-ont-des-yeux/
 tags:
-  - artwork
-  - experiment
-  - interactive
-  - la-sophiste
-  - from1to18days
+ - artwork
+ - experiment
+ - interactive
+ - la-sophiste
+ - from1to18days
 ---
 
 ![Les murs ont des yeux](/images/les-murs-ont-des-yeux/1-1500x1000.jpg)

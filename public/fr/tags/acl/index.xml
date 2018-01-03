@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acl on Français</title>
+    <link>http://arthurmasson.xyz/fr/tags/acl/</link>
+    <description>Recent content in Acl on Français</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/fr/tags/acl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flan</title>
+      <link>http://arthurmasson.xyz/fr/flan/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:04 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/flan/</guid>
+      <description>Flou + Lent = Flan.
+Que devient un son lorsqu&amp;rsquo;il est flouté ?
+L&amp;rsquo;application Flan vise à répondre à cette question en générant deux éléments :
+ des motifs NETS des sons correspondant à ces motifs  La correspondance entre motifs et sons est assez triviale :
+ symboles triangles : sons basés sur des signaux triangles symboles ronds : sons basés sur des signaux sinusoïdaux, symboles rectangles : sons basés sur des signaux carrés,  Chaque ligne de motif génère un son.</description>
+    </item>
+    
+    <item>
+      <title>Engrenage musical</title>
+      <link>http://arthurmasson.xyz/fr/engrenage-musical-musical-game-of-life/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:24 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/engrenage-musical-musical-game-of-life/</guid>
+      <description>Création de : Arthur Masson &amp;amp; Gaëtan Hervé
+ Engrenage musical est une oeuvre qui s&amp;rsquo;inspire du jeu de la vie imaginé par John Horton Conway en 1970.
+ Cet algorithme rendit Conway rapidement célèbre mais il ouvrit aussi un nouveau champ de recherche mathématique, celui des automates cellulaires. En effet, les analogies du jeu de la vie avec le développement, le déclin et les altérations d’une colonie de micro-organismes, le rapprochent des jeux de simulation qui miment les processus de la vie réelle.</description>
+    </item>
+    
+  </channel>
+</rss>

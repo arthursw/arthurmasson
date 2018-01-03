@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application on English</title>
+    <link>http://arthurmasson.xyz/tags/application/</link>
+    <description>Recent content in Application on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Jun 2017 17:49:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/tags/application/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tipibot</title>
+      <link>http://arthurmasson.xyz/tipibot/</link>
+      <pubDate>Sat, 10 Jun 2017 17:49:04 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/tipibot/</guid>
+      <description>The Tipibot is an open source vertical plotter to draw images with different tools (pencils, felt pen, marker, spray paint, etc.)
+http://idlv.co/robograff/
+http://idlv.co/grande-synthe/</description>
+    </item>
+    
+    <item>
+      <title>ProBuilder</title>
+      <link>http://arthurmasson.xyz/probuilder/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:49 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/probuilder/</guid>
+      <description>I have worked 18 month on ProBuilder, a 3D modeling plugin for Unreal Engine which enables to create 3D objects directly within the UE editor. The goal of this project is to provide a large set of features while remaining a very simple user interface.</description>
+    </item>
+    
+    <item>
+      <title>Paper toy</title>
+      <link>http://arthurmasson.xyz/paper-toy/</link>
+      <pubDate>Fri, 25 Dec 2015 00:00:54 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/paper-toy/</guid>
+      <description>A small tool to easily create paper toys. The interface if minimalist and it could be largely improved, but it can already help building all kinds of objects from simple geometric shapes.
+After all, a castle is nothing more than an assembly of cylindres, cones, pyramids and boxes.</description>
+    </item>
+    
+    <item>
+      <title>Romanesco</title>
+      <link>http://arthurmasson.xyz/romanesco/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:49 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/romanesco/</guid>
+      <description>I always wanted to study and exploit the potential of the internet. More specifically I am interested in the way people collaborate and create together. Hence I started working on Romanesco, a collaborative drawing application based on an infinite canvas. The goal of this project is also to bring developers together to create a wide library of diverse drawing tools.</description>
+    </item>
+    
+    <item>
+      <title>Vilaine Ballade</title>
+      <link>http://arthurmasson.xyz/vilaine-ballade/</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:49 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/vilaine-ballade/</guid>
+      <description>I developed at La Sophiste this interactive video mapping application for La Vilaine Ballade organized by Les Ateliers du Vent in 2012.
+The installation was design as a mean for citizens to express how they see the ideal city.
+By moving in specific ways, the visitor can interact with the mapped buildings in different modes. One can choose the textures of the buildings, destroy or rebuild them and paint bricks.</description>
+    </item>
+    
+    <item>
+      <title>Logic Circuit Simulator</title>
+      <link>http://arthurmasson.xyz/logic-circuit-simulator/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:49 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/logic-circuit-simulator/</guid>
+      <description>My second year project at ESIR was a logical circuit simulator.
+I developed a dynamic version which show of logical signals propagate in the circuits.
+The work area is small, but it is possible to navigate on the canvas to create complexe circuits.
+I could then build this 4 bits adder :</description>
+    </item>
+    
+    <item>
+      <title>Spick</title>
+      <link>http://arthurmasson.xyz/spick/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:21 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/spick/</guid>
+      <description>Spick is probably the second application which I developped in ActionScript.
+The goal of this tool is to organize ideas with multiple types of hierarchy. This experiment is similar to mind-mapping apps, but at this time is was not democratized and I didn&amp;rsquo;t know anything about it.
+Each text box can be : - simple paragraphs - comments - &amp;ldquo;folders&amp;rdquo; which contains a sub-network of boxes (which can also contain other sub-boxes)</description>
+    </item>
+    
+  </channel>
+</rss>

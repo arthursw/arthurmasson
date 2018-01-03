@@ -1,0 +1,31 @@
+p {
+	font-size: 14;
+	margin-left: 10;  
+	text-align:left;
+	color:#CCCCCC;
+}
+
+h2 {
+	font-size: 16;
+	text-decoration:underline;
+	color:#C8FC00;
+}
+
+h3 {
+	font-size: 14;
+	color:#C8FC00;
+}
+
+h4 {
+	font-size: 14;
+	color:#C8FC00;
+}
+
+h5 {
+	font-size: 14;
+	font-weight:bold;
+}
+
+a {
+	text-decoration:underline;
+}

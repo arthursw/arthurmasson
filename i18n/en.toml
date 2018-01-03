@@ -77,3 +77,14 @@ other = "From 1 to 18 days"
 one = "From 1 to 18 months"
 other = "From 1 to 18 months"
 
+[Acl]
+other = "ACL"
+
+[Drafts]
+other = "Drafts"
+
+[Image-processing]
+other = "Image processing"
+
+[Makers]
+other = "Makers"

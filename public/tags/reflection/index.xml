@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflection on English</title>
+    <link>http://arthurmasson.xyz/tags/reflection/</link>
+    <description>Recent content in Reflection on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 Oct 2017 15:06:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Société Ouverte] Lettre à Xavier n°2</title>
+      <link>http://arthurmasson.xyz/societe-ouverte-lettre-a-xavier-2/</link>
+      <pubDate>Wed, 25 Oct 2017 15:06:41 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/societe-ouverte-lettre-a-xavier-2/</guid>
+      <description>Cher Ksawery,
+Je vois que ma lettre ne t’a pas laissé insensible, et je m’en réjoui. Le fait que tu ne plonge pas dans un optimisme débridé me plait, c’est grace à ces critiques constructives que nous pourrons créer de solides bases pour une société ouverte.
+Pourtant, moi même trop optimiste, j’ai du mal à m’imaginer tous les dérapages qui pourraient advenir.
+Comment la société ouverte pourrait-elle virer au cauchemar ?</description>
+    </item>
+    
+    <item>
+      <title>[Société Ouverte] Lettre à Xavier</title>
+      <link>http://arthurmasson.xyz/societe-ouverte-lettre-a-xavier/</link>
+      <pubDate>Wed, 18 Oct 2017 15:06:41 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/societe-ouverte-lettre-a-xavier/</guid>
+      <description>Cher Ksawery,
+Je viens juste d’avoir une révélation que je dois absolument te partager.
+J’ai récemment rencontré Hugues et les indiens, il me semble que tu connais ces makers fous qui s’appliquent à transmettre leur philosophie du partage issue du monde du libre. Ces bricoleurs bienveillants qui prônent le Do-It-Yourself m’ont enseigné leurs convictions. [que je résumerai grossierement ainsi :
+se réapproprier les moyens de production et de transmission, s’impliquer dans des projets pour mieux cerner les tenants et aboutissant de chaque technologie, mieux comprendre les enjeux et avoir un sens plus aiguisé des réalitées, et pour s’accomplir à travers des projets concrets,</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Reflection Platform</title>
+      <link>http://arthurmasson.xyz/collaborative-reflection-platform/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:07 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/collaborative-reflection-platform/</guid>
+      <description>I wrote an article which explains why it is time to create a collaborative reflection platform, and gave some ideas to reach this goal.
+This article exists in short version and in long version.</description>
+    </item>
+    
+    <item>
+      <title>OIIO</title>
+      <link>http://arthurmasson.xyz/oiio/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:21 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/oiio/</guid>
+      <description>OIIO (Opensource Interfaced Inputs / Outputs) is a modular interface concept which aims at establishing a communication between different artistic medias and disciplines.
+This concept was developed in response to the emergence of interactive digital art. It is highly related (if not bypassed) by Spacebrew, an open, dynamically re-routable software toolkit for choreographing interactive spaces.
+Read the full concept: - OIIO 1 - OIIO 2 - OIIO 3</description>
+    </item>
+    
+  </channel>
+</rss>

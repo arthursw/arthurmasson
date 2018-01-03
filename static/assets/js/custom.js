@@ -18,10 +18,27 @@ let changeTitle = function() {
 		// index++;
 		// if(index >= titleString.length) {
 		// 	index = 0;
-		// }
-		title.innerHTML = index > 0 ? '&#9679;&#9632;AM&#9632;&#9679;' : '&#9632;&#9679;AM&#9679;&#9632;';
+		// } 
+
+		let triangle = '&#9650';
+		let circle = '&#9679';
+		let square = '&#9632';
+		let time = '&times';
+
+		title.innerHTML = index > 0 ? circle + square + 'AM' + square + circle : square + circle + 'AM' + circle + square;
 		index = index > 0 ? 0 : 1;
 	}
 }
 
 setInterval(changeTitle, 1000);
+
+document.addEventListener("click", function(event) {
+	if(event.target.tagName.toLowerCase() == 'video') {
+		if(event.target.currentTime == 0) {
+			event.target.play();
+		} else {
+			event.target.pause();
+			event.target.currentTime = 0;
+		}
+	}
+});

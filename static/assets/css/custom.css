@@ -1,4 +1,3 @@
-
 #main-menu {
 	display: flex;
 	flex-direction: row;
@@ -84,6 +83,10 @@
 
 .comments-container #disqus_thread, .entry-content, .entry-cover, .entry-cover figcaption, .entry-footer, .entry-nav, .entry-toc, .footer, .header, .home-sections, .list, .pagination, .term-cloud {
 	max-width: 1050px;
+}
+
+#footer {
+    margin-top: 30px;
 }
 
 .entry-nav::before, .footer::before, .prev-entry ~ .next-entry::before {

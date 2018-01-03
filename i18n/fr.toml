@@ -76,3 +76,15 @@ other = "De 1 à 18 jours"
 [From1to18months]
 one = "De 1 à 18 mois"
 other = "De 1 à 18 mois"
+
+[Acl]
+other = "ACL"
+
+[Drafts]
+other = "Drafts"
+
+[Image-processing]
+other = "Image processing"
+
+[Makers]
+other = "Makers"
