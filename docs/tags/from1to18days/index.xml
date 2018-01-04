@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>From1to18days on AM</title>
+    <link>http://arthurmasson.xyz/tags/from1to18days/</link>
+    <description>Recent content in From1to18days on AM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Jun 2017 17:19:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/tags/from1to18days/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gif Jokey</title>
+      <link>http://arthurmasson.xyz/gif-jokey/</link>
+      <pubDate>Tue, 20 Jun 2017 17:19:34 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/gif-jokey/</guid>
+      <description>Gif Jokey (pronounce GJ) is a VJing app based on a gif-o-maton / a machine to build GIFs.
+I was inspired by Felix Turner&amp;rsquo;s Bad TV Shader and by getmosh.io and gifpal.com.</description>
+    </item>
+    
+    <item>
+      <title>IDLV.co</title>
+      <link>http://arthurmasson.xyz/idlv-co/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:55 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/idlv-co/</guid>
+      <description>The website of Indiens Dans La Ville is online!
+The minimalist CMS behind this minimalist site is ghost.js.
+This node.js framework works well but it lacks of important features : media management (finding, sorting, deleting, resizing, displaying images) and internationalization / multilingual tools.
+I used the theme Vapor which you can see in action on Hipster Ghost.
+I also used the PhotoSwipe image gallery, very efficient and minimalist, which require a bit of work to set up.</description>
+    </item>
+    
+    <item>
+      <title>BrailleRap</title>
+      <link>http://arthurmasson.xyz/braillerap/</link>
+      <pubDate>Sat, 22 Oct 2016 00:00:21 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/braillerap/</guid>
+      <description>The goal of the BrailleRap project is to use a 3D printer to write braille on a sheet of paper.
+A software converts text into braille and gcode instructions to control the nozzle of a 3D printer to print the corresponding dots. A custom printer head was designed with OpenSCAD and 3D printed to hold the perfect pin to obtain better results.
+This project took place at the Fabrikarium organized by My Human Kit at Airbus in Toulouse.</description>
+    </item>
+    
+    <item>
+      <title>Odyssée Urbaine</title>
+      <link>http://arthurmasson.xyz/odyssee-urbaine/</link>
+      <pubDate>Thu, 30 Jun 2016 00:00:55 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/odyssee-urbaine/</guid>
+      <description>Robograff - Odyssée Urbaine 2016
+Music : Funky DL &amp;amp; Nujabes - Don&amp;rsquo;t even try it
+ At the Odyssée Urbaine Festival in 2016, IDLV began a project which was thought at the very beginning of the tipibot story: for the first time, the robot will use a spray paint to draw!
+For this project, the collective met children at the Sonia Delaunay primary school and proposed them to draw the nature of their dream : plants, trees, flowers&amp;hellip; Children were involved in a creative process, through the dicovery of an artistic practice and the usage of digital technologies.</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Reflection Platform</title>
+      <link>http://arthurmasson.xyz/collaborative-reflection-platform/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:07 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/collaborative-reflection-platform/</guid>
+      <description>I wrote an article which explains why it is time to create a collaborative reflection platform, and gave some ideas to reach this goal.
+This article exists in short version and in long version.</description>
+    </item>
+    
+    <item>
+      <title>Euphony Mapping</title>
+      <link>http://arthurmasson.xyz/euphony-mapping/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:53 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/euphony-mapping/</guid>
+      <description> Euphony Mapping
+ </description>
+    </item>
+    
+    <item>
+      <title>Interactive Crowd</title>
+      <link>http://arthurmasson.xyz/interactive-crowd/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:08 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/interactive-crowd/</guid>
+      <description>Interactive crowd This design project is an attempt to provide interaction between a crowd of people and a large scale application (video projection mapping). Interactive installations generally provide controlers to a few individuals (http://pixelpyros.org/).
+The idea of Interactive crowd is to provide simple and cheap controlers to anybody in the crowd.
+Different versions In the first version, controlers are simple laser LEDs which display a dot on the artwork (typically a video projection on a building) which are tracked with a camera.</description>
+    </item>
+    
+    <item>
+      <title>Ondes Portées</title>
+      <link>http://arthurmasson.xyz/ondes-portees/</link>
+      <pubDate>Sat, 04 Oct 2014 00:00:38 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/ondes-portees/</guid>
+      <description>Ondes portées is an interactive installation which emerges the public in a interactive vector field made of wavy images and sounds.
+People&amp;rsquo;s motion acts on the sonor and visual universe, the artwork invites to experiment moves to influence the final composition.</description>
+    </item>
+    
+    <item>
+      <title>Les murs ont des yeux</title>
+      <link>http://arthurmasson.xyz/les-murs-ont-des-yeux/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:36 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/les-murs-ont-des-yeux/</guid>
+      <description>Les murs ont des yeux tracks, stares, fixes, oppresses, inspects, controls the visitor, and questions the la banalization of digital surveillance and how we face it.
+This installation is composed of a camera (2D or Kinect) placed under a projection screen, and connected to a tracking software which controls the eye grid in the direction of the visitor.
+                                        </description>
+    </item>
+    
+    <item>
+      <title>Misst1guett</title>
+      <link>http://arthurmasson.xyz/misst1guett/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:13 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/misst1guett/</guid>
+      <description>I developed misst1guett.com in 2013 for the wonderful illustrator Misst1guett!
+The home page displays a pretty drawing, a timeline form the great TimelineJS and some clouds of projects.
+Here are a few illustrations of her:
+                                                      </description>
+    </item>
+    
+    <item>
+      <title>Body Building</title>
+      <link>http://arthurmasson.xyz/bodybuilding/</link>
+      <pubDate>Mon, 12 Aug 2013 15:06:41 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/bodybuilding/</guid>
+      <description>Here is a very quick &amp;amp; dirty demo of an interactive dance app I made with OpenCV and Openframeworks. This is supposed to be used with a Kinect on a theatre or a cinema to create interactive art. This demo looks very bad, but I hope it shows the infinite possibilities one can compose with this kind of tool&amp;hellip;
+I don&amp;rsquo;t really remember how to tweak every effects I implemented in this app, and I didn&amp;rsquo;t show everything, there is probably much more to experiment on stage.</description>
+    </item>
+    
+    <item>
+      <title>Fantasmagorie</title>
+      <link>http://arthurmasson.xyz/fantasmagorie/</link>
+      <pubDate>Wed, 19 Jun 2013 00:00:50 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fantasmagorie/</guid>
+      <description>Fantasmagorie is composed of 8 columns disposed in such way that one can move inside. The spectator placed in the center of the installation can manipulate images and sounds all around him by moving. The image penetrates 6 vertical and horizontal layers on which visuals and sounds criss-corss so that the spectator dives into an immersive world.
+I developing my knownledge about shaders thanks to this artwork.</description>
+    </item>
+    
+    <item>
+      <title>Game&#39;n&#39;Watch</title>
+      <link>http://arthurmasson.xyz/game-watch/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:53 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/game-watch/</guid>
+      <description> Game&amp;rsquo;n&amp;rsquo;Watch
+ </description>
+    </item>
+    
+    <item>
+      <title>My tailer is rich</title>
+      <link>http://arthurmasson.xyz/my-tailer-is-rich/</link>
+      <pubDate>Sun, 24 Feb 2013 00:00:36 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/my-tailer-is-rich/</guid>
+      <description>My Tailer is Rich
+ This installation is a complete programming interface for a light fresco. I made it with Quartz Composer so that other artists could easily modify the software.
+In the end, the software was so complex that it is far from easy to understand it, so this technological choice was probably not the best, but it was a fun technical challenge.
+I am pretty happy of the result which we presented at the Pim&amp;rsquo;s, a night club in which I would have never gone otherwise.</description>
+    </item>
+    
+    <item>
+      <title>Tranches de Vie</title>
+      <link>http://arthurmasson.xyz/tranches-de-vie/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:49 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/tranches-de-vie/</guid>
+      <description>I enhanced my video processing skills with the artistic installation &amp;ldquo;Tranche de vie&amp;rdquo;&amp;rdquo; (built with OpenCV). I developed this project with openframeworks for a large LED screen.
+One of the goal of the installation was to use the special format of the screen which was composed of 5 large vertical stripes.</description>
+    </item>
+    
+    <item>
+      <title>The Show&#39;Box</title>
+      <link>http://arthurmasson.xyz/showbox/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:08 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/showbox/</guid>
+      <description>The Show&amp;rsquo;Box is a karaoke shower box. The idea is simple : one can sing confortably feeling alone under the shower, while being filmed and screened in the large room with the audience! Everything to exhibit in intimacy :-)
+I developed the software which enable to select and play a video with subtitles, to overlay the singers on top of it, and to choose patterns for the background. Built with C++ and openframeworks.</description>
+    </item>
+    
+    <item>
+      <title>Vilaine Ballade</title>
+      <link>http://arthurmasson.xyz/vilaine-ballade/</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:49 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/vilaine-ballade/</guid>
+      <description>I developed at La Sophiste this interactive video mapping application for La Vilaine Ballade organized by Les Ateliers du Vent in 2012.
+The installation was design as a mean for citizens to express how they see the ideal city.
+By moving in specific ways, the visitor can interact with the mapped buildings in different modes. One can choose the textures of the buildings, destroy or rebuild them and paint bricks.</description>
+    </item>
+    
+    <item>
+      <title>Logic Circuit Simulator</title>
+      <link>http://arthurmasson.xyz/logic-circuit-simulator/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:49 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/logic-circuit-simulator/</guid>
+      <description>My second year project at ESIR was a logical circuit simulator.
+I developed a dynamic version which show of logical signals propagate in the circuits.
+The work area is small, but it is possible to navigate on the canvas to create complexe circuits.
+I could then build this 4 bits adder :</description>
+    </item>
+    
+    <item>
+      <title>arthurmasson.perso</title>
+      <link>http://arthurmasson.xyz/arthurmasson-perso/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/arthurmasson-perso/</guid>
+      <description>I created a personal website in 2010. At this time, flash was far from being abandoned, it seemed to have a great future !
+I enjoyed working with ActionScript 3.0, this language is simple, powerful and somehow portable and complete. Those qualities are rarely met within a single technology. However, this language almost disappeared from the web since it requires to compile, does not give the possibility to distribute the source codes by design and does not respect web standards.</description>
+    </item>
+    
+    <item>
+      <title>PG-Lease</title>
+      <link>http://arthurmasson.xyz/pg-lease/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:10 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/pg-lease/</guid>
+      <description>I developed a small flash website for PG_Lease, a small brokerage company.</description>
+    </item>
+    
+    <item>
+      <title>Comme une fée</title>
+      <link>http://arthurmasson.xyz/comme-une-fee/</link>
+      <pubDate>Thu, 30 Jul 2009 00:00:53 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/comme-une-fee/</guid>
+      <description>I created an e-commerce website with a flash version and a Joomla / Virtuemart version in 2009.
+This job required me to develop different skills : graphic designer, web developer, UX designer etc. This project was intense, very interesting and rewarding :-)</description>
+    </item>
+    
+    <item>
+      <title>3D</title>
+      <link>http://arthurmasson.xyz/3d/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:35 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/3d/</guid>
+      <description>A few of my 3D artworks designed when I was self-learning 3D modeling or working on various video game projects.
+                                                                  </description>
+    </item>
+    
+  </channel>
+</rss>

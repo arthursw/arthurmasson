@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drafts on AM</title>
+    <link>http://arthurmasson.xyz/fr/drafts/</link>
+    <description>Recent content in Drafts on AM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Nov 2008 00:00:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/fr/drafts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graphic design</title>
+      <link>http://arthurmasson.xyz/graphic-design/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:47 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/graphic-design/</guid>
+      <description>En première année d&amp;rsquo;école d&amp;rsquo;ingénieur, je me suis amusé à faire une petite présentation flash sur le graphisme pour un cours d&amp;rsquo;anglais, et voila le résultat 🙂 Je pense qu&amp;rsquo;on peut voir que je ne suis pas graphiste, mais que j&amp;rsquo;aime le graphisme.</description>
+    </item>
+    
+  </channel>
+</rss>

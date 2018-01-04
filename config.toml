@@ -19,6 +19,8 @@ pygmentsCodefences = true
 # Missing translations will default to this content language
 DefaultContentLanguage = "en"
 
+publishDir = "docs"
+
 [params.info]
 description = "Arthur Masson works"
 title404 = "Nothing's here!"

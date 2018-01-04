@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Action-script on AM</title>
+    <link>http://arthurmasson.xyz/tags/action-script/</link>
+    <description>Recent content in Action-script on AM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Jun 2010 00:00:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/tags/action-script/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Logic Circuit Simulator</title>
+      <link>http://arthurmasson.xyz/logic-circuit-simulator/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:49 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/logic-circuit-simulator/</guid>
+      <description>My second year project at ESIR was a logical circuit simulator.
+I developed a dynamic version which show of logical signals propagate in the circuits.
+The work area is small, but it is possible to navigate on the canvas to create complexe circuits.
+I could then build this 4 bits adder :</description>
+    </item>
+    
+    <item>
+      <title>arthurmasson.perso</title>
+      <link>http://arthurmasson.xyz/arthurmasson-perso/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/arthurmasson-perso/</guid>
+      <description>I created a personal website in 2010. At this time, flash was far from being abandoned, it seemed to have a great future !
+I enjoyed working with ActionScript 3.0, this language is simple, powerful and somehow portable and complete. Those qualities are rarely met within a single technology. However, this language almost disappeared from the web since it requires to compile, does not give the possibility to distribute the source codes by design and does not respect web standards.</description>
+    </item>
+    
+    <item>
+      <title>PG-Lease</title>
+      <link>http://arthurmasson.xyz/pg-lease/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:10 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/pg-lease/</guid>
+      <description>I developed a small flash website for PG_Lease, a small brokerage company.</description>
+    </item>
+    
+    <item>
+      <title>Comme une fée</title>
+      <link>http://arthurmasson.xyz/comme-une-fee/</link>
+      <pubDate>Thu, 30 Jul 2009 00:00:53 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/comme-une-fee/</guid>
+      <description>I created an e-commerce website with a flash version and a Joomla / Virtuemart version in 2009.
+This job required me to develop different skills : graphic designer, web developer, UX designer etc. This project was intense, very interesting and rewarding :-)</description>
+    </item>
+    
+    <item>
+      <title>Graphic design</title>
+      <link>http://arthurmasson.xyz/fr/graphic-design/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:47 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/graphic-design/</guid>
+      <description>For my first year at engineering school, I had fun working on a flash presentation about graphic design for my english course, and this is the result. As you can see, I was not a graphic designer, but I do like graphic design.</description>
+    </item>
+    
+    <item>
+      <title>Spick</title>
+      <link>http://arthurmasson.xyz/spick/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:21 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/spick/</guid>
+      <description>Spick is probably the second application which I developped in ActionScript.
+The goal of this tool is to organize ideas with multiple types of hierarchy. This experiment is similar to mind-mapping apps, but at this time is was not democratized and I didn&amp;rsquo;t know anything about it.
+Each text box can be : - simple paragraphs - comments - &amp;ldquo;folders&amp;rdquo; which contains a sub-network of boxes (which can also contain other sub-boxes)</description>
+    </item>
+    
+    <item>
+      <title>Sound generator</title>
+      <link>http://arthurmasson.xyz/sound-generator/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:47 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/sound-generator/</guid>
+      <description>This sound generator was one of my very first application. It is very simple, but can theoretically simulate any sound since it is possible to add an &amp;ldquo;infinite&amp;rdquo; amount of sine waves :-)</description>
+    </item>
+    
+  </channel>
+</rss>

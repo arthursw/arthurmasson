@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makers on AM</title>
+    <link>http://arthurmasson.xyz/tags/makers/</link>
+    <description>Recent content in Makers on AM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Jun 2017 17:49:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://arthurmasson.xyz/tags/makers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tipibot</title>
+      <link>http://arthurmasson.xyz/tipibot/</link>
+      <pubDate>Sat, 10 Jun 2017 17:49:04 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/tipibot/</guid>
+      <description>The Tipibot is an open source vertical plotter to draw images with different tools (pencils, felt pen, marker, spray paint, etc.)
+http://idlv.co/robograff/
+http://idlv.co/grande-synthe/</description>
+    </item>
+    
+    <item>
+      <title>BrailleRap</title>
+      <link>http://arthurmasson.xyz/braillerap/</link>
+      <pubDate>Sat, 22 Oct 2016 00:00:21 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/braillerap/</guid>
+      <description>The goal of the BrailleRap project is to use a 3D printer to write braille on a sheet of paper.
+A software converts text into braille and gcode instructions to control the nozzle of a 3D printer to print the corresponding dots. A custom printer head was designed with OpenSCAD and 3D printed to hold the perfect pin to obtain better results.
+This project took place at the Fabrikarium organized by My Human Kit at Airbus in Toulouse.</description>
+    </item>
+    
+  </channel>
+</rss>
