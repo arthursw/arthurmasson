@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>http://arthurmasson.xyz/arthurmasson-xyz/</loc>
+    <lastmod>2018-01-08T00:00:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/arthurmasson-xyz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/arthurmasson-xyz/"
+                />
+  </url>
+  
+  <url>
     <loc>http://arthurmasson.xyz/societe-ouverte-lettres-a-xavier/</loc>
     <lastmod>2017-10-25T15:06:41+00:00</lastmod>
   </url>
@@ -771,7 +786,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/from1to18days/</loc>
-    <lastmod>2017-06-20T17:19:34+00:00</lastmod>
+    <lastmod>2018-01-08T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -951,7 +966,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/post/</loc>
-    <lastmod>2017-10-25T15:06:41+00:00</lastmod>
+    <lastmod>2018-01-08T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1015,7 +1030,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/website/</loc>
-    <lastmod>2017-06-01T00:00:55+00:00</lastmod>
+    <lastmod>2018-01-08T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

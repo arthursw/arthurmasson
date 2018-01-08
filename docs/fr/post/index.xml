@@ -5,10 +5,22 @@
     <link>http://arthurmasson.xyz/fr/post/</link>
     <description>Recent content in Posts on AM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 Oct 2017 15:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:11 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/fr/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>arthurmasson.xyz</title>
+      <link>http://arthurmasson.xyz/fr/arthurmasson-xyz/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/arthurmasson-xyz/</guid>
+      <description>Mon nouveau portfolio généré avec hugo remplace maintenant mon ancien site wordpress.
+Avant
+
+Maintenant</description>
+    </item>
     
     <item>
       <title>[Société Ouverte] Lettres à Xavier</title>
