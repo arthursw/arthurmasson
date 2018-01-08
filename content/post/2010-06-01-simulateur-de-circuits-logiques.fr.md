@@ -1,7 +1,7 @@
 ---
 author: arthur.sw
 date: 2010-06-01T00:00:49Z
-image: /wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-17.34.38-thumb.png
+image: /wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-17.34.38-thumb.png
 title: Simulateur de circuits logiques
 url: /fr/simulateur-de-circuits-logiques/
 tags:
@@ -11,7 +11,7 @@ tags:
   - from1to18days
 ---
 
-![Simulateur de circuits logiques](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-17.34.38.png)
+![Simulateur de circuits logiques](/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-17.34.38.png)
 
 Mon [projet de fin de deuxième année](/old/LogicGateSimulator.html) à l'ESIR est un simulateur de circuits logiques.
 

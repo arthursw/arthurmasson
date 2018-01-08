@@ -1,7 +1,7 @@
 ---
 author: arthur.sw
 date: 2016-10-01T00:00:24Z
-image: /wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-14.19.04-thumb.png
+image: /wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-14.19.04-thumb.png
 title: Engrenage musical
 url: /fr/engrenage-musical-musical-game-of-life/
 tags:
@@ -15,7 +15,7 @@ tags:
 
 > Création de : Arthur Masson  & Gaëtan Hervé
 
-![Engrenage musical](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-14.19.04.png)
+![Engrenage musical](/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-14.19.04.png)
 
 
 [Engrenage musical](https://arthursw.github.io/dx7-gears/) est une oeuvre qui s'inspire du [jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) imaginé par [John Horton Conway](https://fr.wikipedia.org/wiki/John_Horton_Conway "John Horton Conway") en [1970](https://fr.wikipedia.org/wiki/1970 "1970").

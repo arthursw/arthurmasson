@@ -1,7 +1,7 @@
 ---
 author: arthur.sw
 date: 2016-10-01T00:00:24Z
-image: /wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-14.19.04-thumb.png
+image: /wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-14.19.04-thumb.png
 title: Musical Gears
 url: /engrenage-musical-musical-game-of-life/
 tags:
@@ -15,7 +15,7 @@ tags:
 
 > Création de : Arthur Masson  & Gaëtan Hervé
 
-![Engrenage musical](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-14.19.04.png)
+![Engrenage musical](/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-14.19.04.png)
 
 
 [Musical Gears](https://arthursw.github.io/dx7-gears/) is an artwork which takes inspiration from [the game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) designed by [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway "John Horton Conway") in 1970.

@@ -1,7 +1,7 @@
 ---
 author: arthur.sw
 date: 2010-06-01T00:00:49Z
-image: /wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-17.34.38-thumb.png
+image: /wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-17.34.38-thumb.png
 title: Logic Circuit Simulator
 url: /logic-circuit-simulator/
 tags:
@@ -11,7 +11,7 @@ tags:
   - from1to18days
 ---
 
-![Simulateur de circuits logiques](/wp-content/uploads/2017/06/Capture-d’écran-2017-06-20-à-17.34.38.png)
+![Simulateur de circuits logiques](/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-17.34.38.png)
 
 My second year project at ESIR was a [logical circuit simulator](/old/LogicGateSimulator.html).
 
