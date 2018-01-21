@@ -125,14 +125,17 @@ url = "/tags/idlv/"
 name = "1 to 18 hours"
 identifier = "from1to18hours"
 url = "/tags/from1to18hours/"
+weight = 1
 [[Languages.en.menu.workamount]]
 name = "1 to 18 days"
 identifier = "from1to18days"
 url = "/tags/from1to18days/"
+weight = 2
 [[Languages.en.menu.workamount]]
 name = "1 to 18 months"
 identifier = "from1to18months"
 url = "/tags/from1to18months/"
+weight = 3
 
 [Languages.fr]
 title = "AM"
@@ -181,11 +184,14 @@ url = "/fr/tags/idlv/"
 name = "1 à 18 heures"
 identifier = "from1to18hours"
 url = "/fr/tags/from1to18hours/"
+weight = 1
 [[Languages.fr.menu.workamount]]
 name = "1 à 18 jours"
 identifier = "from1to18days"
 url = "/fr/tags/from1to18days/"
+weight = 2
 [[Languages.fr.menu.workamount]]
 name = "1 à 18 mois"
 identifier = "from1to18months"
 url = "/fr/tags/from1to18months/"
+weight = 3
