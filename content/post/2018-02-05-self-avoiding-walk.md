@@ -9,7 +9,10 @@ tags:
   - from1to18hours
 ---
 
-![SAW](/images/saw.png)]
+![SAW](/images/saw.png)
+
+[SAW](https://arthursw.github.io/self-avoiding-walk/)
+[Sources](https://github.com/arthursw/self-avoiding-walk)
 
 A naïve [Self Avoiding Walk](https://en.wikipedia.org/wiki/Self-avoiding_walk) algorithm which generates music.
 
