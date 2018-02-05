@@ -26,6 +26,16 @@ How does it work? A Hilbert curve is computed from a grayscale image, refined wh
     </item>
     
     <item>
+      <title>Self Avoiding Walk</title>
+      <link>http://arthurmasson.xyz/self-avoiding-walk/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/self-avoiding-walk/</guid>
+      <description>]
+A naïve Self Avoiding Walk algorithm which generates music.</description>
+    </item>
+    
+    <item>
       <title>arthurmasson.xyz</title>
       <link>http://arthurmasson.xyz/arthurmasson-xyz/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>

@@ -51,6 +51,16 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&amp;r
     </item>
     
     <item>
+      <title>Self Avoiding Walk</title>
+      <link>http://arthurmasson.xyz/fr/self-avoiding-walk/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/self-avoiding-walk/</guid>
+      <description>]
+Un algorithme naïf de Self Avoiding Walk qui génère de la musique.</description>
+    </item>
+    
+    <item>
       <title>arthurmasson.xyz</title>
       <link>http://arthurmasson.xyz/fr/arthurmasson-xyz/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>

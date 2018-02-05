@@ -5,29 +5,21 @@
   <meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <meta name='description' content=']
-Hilbert est &ldquo;un générateur de courbe de hilbert basé sur une image&rdquo;.
-L&rsquo;algorithme génère une image à partir d&rsquo;un seul tracé qui ne se croise jamais.
-Sources.
-Glissez-déposez l&rsquo;image de votre choix sur l&rsquo;image pour générer une version &ldquo;courbe de hilbert&rdquo;.
-Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo;une image noir et blanc, raffinée la ou l&rsquo;image est plus sombre que le seuil définie.'>
+Un algorithme naïf de Self Avoiding Walk qui génère de la musique.'>
 
-<meta property='og:title' content='Hilbert • AM'>
+<meta property='og:title' content='Self Avoiding Walk • AM'>
 <meta property='og:description' content=']
-Hilbert est &ldquo;un générateur de courbe de hilbert basé sur une image&rdquo;.
-L&rsquo;algorithme génère une image à partir d&rsquo;un seul tracé qui ne se croise jamais.
-Sources.
-Glissez-déposez l&rsquo;image de votre choix sur l&rsquo;image pour générer une version &ldquo;courbe de hilbert&rdquo;.
-Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo;une image noir et blanc, raffinée la ou l&rsquo;image est plus sombre que le seuil définie.'>
-<meta property='og:url' content='http://arthurmasson.xyz/fr/hilbert/'>
+Un algorithme naïf de Self Avoiding Walk qui génère de la musique.'>
+<meta property='og:url' content='http://arthurmasson.xyz/fr/self-avoiding-walk/'>
 <meta property='og:site_name' content='AM'>
 <meta property='og:type' content='article'><meta property='article:section' content='Post'><meta property='article:tag' content='artwork'><meta property='article:tag' content='from1to18hours'><meta property='article:published_time' content='2018-01-08T00:00:11Z'/><meta property='article:modified_time' content='2018-01-08T00:00:11Z'/><meta name='twitter:card' content='summary'>
 
 <meta name="generator" content="Hugo 0.31.1" />
 
-  <title>Hilbert • AM</title>
-  <link rel='canonical' href='http://arthurmasson.xyz/fr/hilbert/'>
+  <title>Self Avoiding Walk • AM</title>
+  <link rel='canonical' href='http://arthurmasson.xyz/fr/self-avoiding-walk/'>
   
-  <link rel='alternate' hreflang='fr' href='http://arthurmasson.xyz/fr/hilbert/'><link rel='alternate' hreflang='en' href='http://arthurmasson.xyz/hilbert/'><link rel='alternate' hreflang='x-default' href='http://arthurmasson.xyz/hilbert/'>
+  <link rel='alternate' hreflang='fr' href='http://arthurmasson.xyz/fr/self-avoiding-walk/'><link rel='alternate' hreflang='en' href='http://arthurmasson.xyz/self-avoiding-walk/'><link rel='alternate' hreflang='x-default' href='http://arthurmasson.xyz/self-avoiding-walk/'>
   <link rel='icon' href='/favicon.ico'>
 <link rel='stylesheet' href='/assets/css/main.7a50ccd3.css'><link rel='stylesheet' href='/assets/css/custom.css'>
 </head>
@@ -99,7 +91,7 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo
   <ul class="main-menu translations">
       
       <li>
-          <a href="http://arthurmasson.xyz/hilbert/">English</a>
+          <a href="http://arthurmasson.xyz/self-avoiding-walk/">English</a>
       </li>
       
   </ul>
@@ -116,7 +108,7 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo
     <header class='header-container'>
   <div class='header entry-header'>
     <div class='header-info'>
-      <h1 class='title'>Hilbert</h1>
+      <h1 class='title'>Self Avoiding Walk</h1>
       
 
     </div>
@@ -142,7 +134,7 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo
   <polyline points="12 6 12 12 15 15"/>
   
 </svg>
-2 minutes de lecture
+Une minute de lecture
 </span>
 
 
@@ -156,87 +148,9 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo
     
 
     <div class='entry-content'>
-  
+  <p><img src="/images/saw.png" alt="SAW" />]</p>
 
-<p><img src="/images/hilbert.png" alt="Hilbert" />]</p>
-
-<p><a href="https://arthursw.github.io/hilbert/" target="_blank">Hilbert</a> est &ldquo;un générateur de courbe de hilbert basé sur une image&rdquo;.</p>
-
-<p>L&rsquo;algorithme génère une image à partir d&rsquo;un seul tracé qui ne se croise jamais.</p>
-
-<p><a href="https://github.com/arthursw/hilbert/" target="_blank">Sources</a>.</p>
-
-<p>Glissez-déposez l&rsquo;image de votre choix sur l&rsquo;image pour générer une version &ldquo;courbe de hilbert&rdquo;.</p>
-
-<h2 id="comment-cela-fonctionne">Comment cela fonctionne ?</h2>
-
-<p>Une <a href="https://en.wikipedia.org/wiki/Hilbert_curve" target="_blank">courbe de Hilbert</a> est générée à partir d&rsquo;une image noir et blanc, raffinée la ou l&rsquo;image est plus sombre que le seuil définie.</p>
-
-<ul>
-<li>Générer les images mipmaps: séquence d&rsquo;image précalculées, suite progressive d&rsquo;image de résolution de plus en plus faible,</li>
-<li>Subdiviser l&rsquo;image avec la plus basse résolution en 4 cadrants, et pour chaque cadrant :
-
-<ul>
-<li>si le cadrant est plus foncé que le seuil :
-
-<ul>
-<li>resubdiviser en cadrants et continuer de manière récursive jusqu&rsquo;à ce que les cadrants soient assez clairs,</li>
-</ul></li>
-<li>sinon dessiner la courbe de hilbert correspondante à l&rsquo;échelle</li>
-</ul></li>
-</ul>
-
-<!-- 
-
-
-  1____2
-  |    | 
-  |    | 
-  0    3
-
- ___    __
- |  |  |  |
- |  |__|  |
- |___   __|
-    |  |
- ___|  |___
-
- 
- --> 
-
-<p>La difficulté est de tourner la courbe dans la bonne direction quand elle doit être raffinée.</p>
-
-<p>Le premier et le dernier cadrants doivent être orientés dans des directions opposées ; l&rsquo;ordre de parcours des cadrant doit être inversé, et en fonction de l&rsquo;étape précédente les rotations peuvent avoir lieu dans un sens ou dans l&rsquo;autre.</p>
-
-<p>L&rsquo;algorithme final mémorise les rotations qui s&rsquo;additionnent à chaque itération, et détermine si les rotations doivent être inversées ou non.</p>
-
-<p>À chaque résolution, l&rsquo;image peut être divisé en 4 cadrants, numérotés de 0 à 3.</p>
-
-<p>L&rsquo;objectif est de calculer l&rsquo;ordre de parcours de la courbe (par exemple [0, 1, 2, 3], [3, 0, 1, 2], etc.).</p>
-
-<p>A chaque iteration, la rotation et l&rsquo;inversion sont calculés de cette façon :</p>
-
-<ul>
-<li>pour le cadrant 0:
-
-<ul>
-<li>rotation += inversion ? -1 : 1</li>
-<li>inversion = !inversion</li>
-<li>inverser l&rsquo;ordre de parcours des cadrants</li>
-</ul></li>
-<li>pour le cadrant 1:
-
-<ul>
-<li>rotation += inversion ? 1 : -1</li>
-<li>inversion = !inversion</li>
-<li>inverser l&rsquo;ordre de parcours des cadrants</li>
-</ul></li>
-<li>pour les cadrans 2 et 3:
-
-<ul>
-<li>ne rien changer</li>
-</ul></li>
-</ul>
+<p>Un algorithme naïf de <a href="https://en.wikipedia.org/wiki/Self-avoiding_walk" target="_blank">Self Avoiding Walk</a> qui génère de la musique.</p>
 
 </div>
 
@@ -261,7 +175,7 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo
   
 <nav class='entry-nav-container'>
   <div class='entry-nav'><div class='prev-entry'>
-      <a href='/fr/self-avoiding-walk/'>
+      <a href='/fr/arthurmasson-xyz/'>
         <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
   
   <line x1="20" y1="12" x2="4" y2="12"/>
@@ -270,7 +184,19 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo
 </svg>
  Précédent</span>
         <span class='screen-reader'>Billet précédent: </span>
-        <span class="prev-title">Self Avoiding Walk</span>
+        <span class="prev-title">arthurmasson.xyz</span>
+      </a>
+    </div><div class='next-entry'>
+      <a href='/fr/hilbert/'>
+        <span aria-hidden='true'>Suivant <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+        <span class='screen-reader'>Billet suivant: </span>
+        <span class="next-title">Hilbert</span>
       </a>
     </div></div>
 </nav>
