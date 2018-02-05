@@ -12,6 +12,7 @@ tags:
 ![SAW](/images/saw.png)
 
 [SAW](https://arthursw.github.io/self-avoiding-walk/)
+
 [Sources](https://github.com/arthursw/self-avoiding-walk)
 
 Un algorithme naïf de [Self Avoiding Walk](https://en.wikipedia.org/wiki/Self-avoiding_walk) qui génère de la musique.
