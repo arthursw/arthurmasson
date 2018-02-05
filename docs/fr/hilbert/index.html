@@ -164,7 +164,7 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo
 
 <p>L&rsquo;algorithme génère une image à partir d&rsquo;un seul tracé qui ne se croise jamais.</p>
 
-<p><a href="https://arthursw.github.io/hilbert/" target="_blank">Sources</a>.</p>
+<p><a href="https://github.com/arthursw/hilbert/" target="_blank">Sources</a>.</p>
 
 <p>Glissez-déposez l&rsquo;image de votre choix sur l&rsquo;image pour générer une version &ldquo;courbe de hilbert&rdquo;.</p>
 
@@ -214,17 +214,29 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&rsquo
 
 <p>L&rsquo;objectif est de calculer l&rsquo;ordre de parcours de la courbe (par exemple [0, 1, 2, 3], [3, 0, 1, 2], etc.).</p>
 
-<p>A chaque iteration, la rotation et l&rsquo;inversion sont calculés de cette façon :
- - pour le cadrant 0:
-   - rotation += inversion ? -1 : 1
-   - inversion = !inversion
-   - inverser l&rsquo;ordre de parcours des cadrants
- - pour le cadrant 1:
-   - rotation += inversion ? 1 : -1
-   - inversion = !inversion
-   - inverser l&rsquo;ordre de parcours des cadrants
- - pour les cadrans 2 et 3:
-   - ne rien changer</p>
+<p>A chaque iteration, la rotation et l&rsquo;inversion sont calculés de cette façon :</p>
+
+<ul>
+<li>pour le cadrant 0:
+
+<ul>
+<li>rotation += inversion ? -1 : 1</li>
+<li>inversion = !inversion</li>
+<li>inverser l&rsquo;ordre de parcours des cadrants</li>
+</ul></li>
+<li>pour le cadrant 1:
+
+<ul>
+<li>rotation += inversion ? 1 : -1</li>
+<li>inversion = !inversion</li>
+<li>inverser l&rsquo;ordre de parcours des cadrants</li>
+</ul></li>
+<li>pour les cadrans 2 et 3:
+
+<ul>
+<li>ne rien changer</li>
+</ul></li>
+</ul>
 
 </div>
 

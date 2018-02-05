@@ -166,7 +166,7 @@ How does it work? A Hilbert curve is computed from a grayscale image, refined wh
 
 <p>It generates an image from a single non-self-intersecting path.</p>
 
-<p><a href="https://arthursw.github.io/hilbert/" target="_blank">Sources</a>.</p>
+<p><a href="https://github.com/arthursw/hilbert/" target="_blank">Sources</a>.</p>
 
 <p>Drag&rsquo;n&rsquo;drop the image of your choice on the canvas to generate a hilbert version.</p>
 
@@ -215,17 +215,29 @@ The first and last quadrant must be rotated in opposite direction, the traversin
 
 <p>The goal is to compute the traversing order of the quadrants (for example [0, 1, 2, 3], [3, 0, 1, 2], etc.).</p>
 
-<p>At each iteration, the rotation and inversion is computed in the following way:
- - for quadrant 0:
-   - rotation += inversion ? -1 : 1
-   - inversion = !inversion
-   - inverse the traversing order of the quadrants
- - for quadrant 1:
-   - rotation += inversion ? 1 : -1
-   - inversion = !inversion
-   - inverse the traversing order of the quadrants
- - for quadrant 2 and 3:
-   - do not change anything</p>
+<p>At each iteration, the rotation and inversion is computed in the following way:</p>
+
+<ul>
+<li>for quadrant 0:
+
+<ul>
+<li>rotation += inversion ? -1 : 1</li>
+<li>inversion = !inversion</li>
+<li>inverse the traversing order of the quadrants</li>
+</ul></li>
+<li>for quadrant 1:
+
+<ul>
+<li>rotation += inversion ? 1 : -1</li>
+<li>inversion = !inversion</li>
+<li>inverse the traversing order of the quadrants</li>
+</ul></li>
+<li>for quadrant 2 and 3:
+
+<ul>
+<li>do not change anything</li>
+</ul></li>
+</ul>
 
 </div>
 
