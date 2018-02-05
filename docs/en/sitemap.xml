@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>http://arthurmasson.xyz/hilbert/</loc>
+    <lastmod>2018-01-08T00:00:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/hilbert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/hilbert/"
+                />
+  </url>
+  
+  <url>
     <loc>http://arthurmasson.xyz/arthurmasson-xyz/</loc>
     <lastmod>2018-01-08T00:00:11+00:00</lastmod>
     <xhtml:link
@@ -704,7 +719,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/artwork/</loc>
-    <lastmod>2017-10-25T15:06:41+00:00</lastmod>
+    <lastmod>2018-01-08T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -802,7 +817,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/from1to18hours/</loc>
-    <lastmod>2017-10-25T15:06:41+00:00</lastmod>
+    <lastmod>2018-01-08T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

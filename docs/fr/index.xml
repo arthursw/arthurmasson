@@ -37,6 +37,20 @@ facebook.com/collectiflasophiste</description>
     </item>
     
     <item>
+      <title>Hilbert</title>
+      <link>http://arthurmasson.xyz/fr/hilbert/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/hilbert/</guid>
+      <description>]
+Hilbert est &amp;ldquo;un générateur de courbe de hilbert basé sur une image&amp;rdquo;.
+L&amp;rsquo;algorithme génère une image à partir d&amp;rsquo;un seul tracé qui ne se croise jamais.
+Sources.
+Glissez-déposez l&amp;rsquo;image de votre choix sur l&amp;rsquo;image pour générer une version &amp;ldquo;courbe de hilbert&amp;rdquo;.
+Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&amp;rsquo;une image noir et blanc, raffinée la ou l&amp;rsquo;image est plus sombre que le seuil définie.</description>
+    </item>
+    
+    <item>
       <title>arthurmasson.xyz</title>
       <link>http://arthurmasson.xyz/fr/arthurmasson-xyz/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>

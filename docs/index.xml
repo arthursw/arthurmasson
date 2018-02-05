@@ -37,6 +37,21 @@ facebook.com/collectiflasophiste</description>
     </item>
     
     <item>
+      <title>Hilbert</title>
+      <link>http://arthurmasson.xyz/hilbert/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/hilbert/</guid>
+      <description>]
+Hilbert is an &amp;ldquo;image based Hilbert curve generator&amp;rdquo;.
+It generates an image from a single non-self-intersecting path.
+Sources.
+Drag&amp;rsquo;n&amp;rsquo;drop the image of your choice on the canvas to generate a hilbert version.
+How does it work? A Hilbert curve is computed from a grayscale image, refined where the image is darker than thredhold.
+ Generate image mipmaps: pre-calculated, optimized sequences of images, each of which is a progressively lower resolution representation of the same image Subdivide the image with the lowest resolution in four quadrants and for each quadrant:  if the quadrant is darker than threshold:  resubdivide in quadrant and continue recursively until the quadrant is light enough  otherwise draw the corresponding hilbert curve at proper scale   The tricky part is to rotate the curve in the proper way when it must be refined.</description>
+    </item>
+    
+    <item>
       <title>arthurmasson.xyz</title>
       <link>http://arthurmasson.xyz/arthurmasson-xyz/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>

@@ -49,10 +49,10 @@ params:
                 icon: fa-globe
                 url: //arthurmasson.xyz/
                 title: arthurmasson.xyz/
-            # -   class: linkedin
-            #     icon: fa-linkedin
-            #     url: //linkedin.com/in/johndoe
-            #     title: linkedin.com/in/johndoe
+            -   class: linkedin
+                icon: fa-linkedin
+                url: //linkedin.com/in/arthur-masson/?locale=en_US
+                title: linkedin.com/in/arthur-masson
             -   class: github
                 icon: fa-github
                 url: //github.com/arthursw
