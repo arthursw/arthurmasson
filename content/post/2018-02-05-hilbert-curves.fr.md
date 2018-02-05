@@ -15,7 +15,7 @@ tags:
 
 L'algorithme génère une image à partir d'un seul tracé qui ne se croise jamais.
 
-[Sources](https://arthursw.github.io/hilbert/).
+[Sources](https://github.com/arthursw/hilbert/).
 
 Glissez-déposez l'image de votre choix sur l'image pour générer une version "courbe de hilbert".
 
@@ -58,6 +58,7 @@ L'algorithme final mémorise les rotations qui s'additionnent à chaque itérati
 L'objectif est de calculer l'ordre de parcours de la courbe (par exemple [0, 1, 2, 3], [3, 0, 1, 2], etc.).
 
 A chaque iteration, la rotation et l'inversion sont calculés de cette façon :
+
  - pour le cadrant 0: 
    - rotation += inversion ? -1 : 1
    - inversion = !inversion

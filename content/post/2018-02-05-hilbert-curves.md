@@ -15,7 +15,7 @@ tags:
 
 It generates an image from a single non-self-intersecting path.
 
-[Sources](https://arthursw.github.io/hilbert/).
+[Sources](https://github.com/arthursw/hilbert/).
 
 Drag'n'drop the image of your choice on the canvas to generate a hilbert version.
 
@@ -57,6 +57,7 @@ At each resolution, the image can be divided into four quadrants, numbered from 
 The goal is to compute the traversing order of the quadrants (for example [0, 1, 2, 3], [3, 0, 1, 2], etc.).
 
 At each iteration, the rotation and inversion is computed in the following way:
+
  - for quadrant 0: 
    - rotation += inversion ? -1 : 1
    - inversion = !inversion
