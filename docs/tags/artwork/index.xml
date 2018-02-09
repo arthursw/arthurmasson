@@ -11,21 +11,6 @@
     
     
     <item>
-      <title>Hilbert</title>
-      <link>http://arthurmasson.xyz/hilbert/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
-      
-      <guid>http://arthurmasson.xyz/hilbert/</guid>
-      <description>]
-Hilbert is an &amp;ldquo;image based Hilbert curve generator&amp;rdquo;.
-It generates an image from a single non-self-intersecting path.
-Sources.
-Drag&amp;rsquo;n&amp;rsquo;drop the image of your choice on the canvas to generate a hilbert version.
-How does it work? A Hilbert curve is computed from a grayscale image, refined where the image is darker than thredhold.
- Generate image mipmaps: pre-calculated, optimized sequences of images, each of which is a progressively lower resolution representation of the same image Subdivide the image with the lowest resolution in four quadrants and for each quadrant:  if the quadrant is darker than threshold:  resubdivide in quadrant and continue recursively until the quadrant is light enough  otherwise draw the corresponding hilbert curve at proper scale   The tricky part is to rotate the curve in the proper way when it must be refined.</description>
-    </item>
-    
-    <item>
       <title>Self Avoiding Walk</title>
       <link>http://arthurmasson.xyz/self-avoiding-walk/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
@@ -34,6 +19,20 @@ How does it work? A Hilbert curve is computed from a grayscale image, refined wh
       <description>SAW
 Sources
 A naïve Self Avoiding Walk algorithm which generates music.</description>
+    </item>
+    
+    <item>
+      <title>Space Filling Curves</title>
+      <link>http://arthurmasson.xyz/space-filling-curves/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/space-filling-curves/</guid>
+      <description>]
+Space Filling Curves is an &amp;ldquo;image based space-filling curve generator&amp;rdquo;.
+It&amp;rsquo;s a sort of artwork.
+ Sources Demo  Drag&amp;rsquo;n&amp;rsquo;drop the image of your choice on the canvas to generate a hilbert or gosper curve version.
+How does it work? A Space Filling Curve (Hilbert curve or a Gosper curve) is computed from a grayscale image, refined where the image is darker than thredhold.
+General idea The image is recusively divided in tiles.</description>
     </item>
     
     <item>

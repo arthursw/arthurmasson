@@ -11,20 +11,6 @@
     
     
     <item>
-      <title>Hilbert</title>
-      <link>http://arthurmasson.xyz/fr/hilbert/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
-      
-      <guid>http://arthurmasson.xyz/fr/hilbert/</guid>
-      <description>]
-Hilbert est &amp;ldquo;un générateur de courbe de hilbert basé sur une image&amp;rdquo;.
-L&amp;rsquo;algorithme génère une image à partir d&amp;rsquo;un seul tracé qui ne se croise jamais.
-Sources.
-Glissez-déposez l&amp;rsquo;image de votre choix sur l&amp;rsquo;image pour générer une version &amp;ldquo;courbe de hilbert&amp;rdquo;.
-Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&amp;rsquo;une image noir et blanc, raffinée la ou l&amp;rsquo;image est plus sombre que le seuil définie.</description>
-    </item>
-    
-    <item>
       <title>Self Avoiding Walk</title>
       <link>http://arthurmasson.xyz/fr/self-avoiding-walk/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
@@ -33,6 +19,19 @@ Comment cela fonctionne ? Une courbe de Hilbert est générée à partir d&amp;r
       <description>SAW
 Sources
 Un algorithme naïf de Self Avoiding Walk qui génère de la musique.</description>
+    </item>
+    
+    <item>
+      <title>Space Filling Curve</title>
+      <link>http://arthurmasson.xyz/fr/space-filling-curve/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/space-filling-curve/</guid>
+      <description>]
+Space Filling Curves est un générateur de courbe de remplissage de l&amp;rsquo;espace basé sur une image.
+L&amp;rsquo;algorithme génère une image à partir d&amp;rsquo;un seul tracé qui ne se croise jamais.
+ Sources Démo  Glissez-déposez l&amp;rsquo;image de votre choix sur l&amp;rsquo;image pour générer une version &amp;ldquo;courbe de remplissage&amp;rdquo; (courbe de Hilber ou de Gosper).
+Comment cela fonctionne ? Une courbe de remplissage de l&amp;rsquo;espace (une courbe de Hilbert ou une courbe de Gosper) est générée à partir d&amp;rsquo;une image noir et blanc, raffinée la ou l&amp;rsquo;image est plus sombre que le seuil définie.</description>
     </item>
     
     <item>
