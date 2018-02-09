@@ -237,17 +237,29 @@ General idea The image is recusively divided in tiles.'>
 
 <p>The final algorithm keeps track of the rotation which sums up at each iteration, and whether or not rotation inversion must happen.</p>
 
-<p>At each iteration, the rotation and inversion is computed in the following way:
- - for quadrant 0:
-   - rotation += inversion ? -1 : 1
-   - inversion = !inversion
-   - inverse the traversing order of the quadrants
- - for quadrant 1:
-   - rotation += inversion ? 1 : -1
-   - inversion = !inversion
-   - inverse the traversing order of the quadrants
- - for quadrant 2 and 3:
-   - do not change anything</p>
+<p>At each iteration, the rotation and inversion is computed in the following way:</p>
+
+<ul>
+<li>for quadrant 0:
+
+<ul>
+<li>rotation += inversion ? -1 : 1</li>
+<li>inversion = !inversion</li>
+<li>inverse the traversing order of the quadrants</li>
+</ul></li>
+<li>for quadrant 1:
+
+<ul>
+<li>rotation += inversion ? 1 : -1</li>
+<li>inversion = !inversion</li>
+<li>inverse the traversing order of the quadrants</li>
+</ul></li>
+<li>for quadrant 2 and 3:
+
+<ul>
+<li>do not change anything</li>
+</ul></li>
+</ul>
 
 </div>
 

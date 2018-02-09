@@ -78,6 +78,7 @@ The first and last quadrant must be rotated in opposite direction, the traversin
 The final algorithm keeps track of the rotation which sums up at each iteration, and whether or not rotation inversion must happen.
 
 At each iteration, the rotation and inversion is computed in the following way:
+
  - for quadrant 0: 
    - rotation += inversion ? -1 : 1
    - inversion = !inversion
