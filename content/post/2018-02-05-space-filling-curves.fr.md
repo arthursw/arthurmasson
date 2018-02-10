@@ -9,8 +9,8 @@ tags:
   - from1to18hours
 ---
 
-![Gosper](/images/gosper.png)]
-![Hilbert](/images/hilbert.png)]
+![Gosper](/images/gosper.png)
+![Hilbert](/images/hilbert.png)
 
 [Space Filling Curves](https://arthursw.github.io/space-filling-curves/) est un générateur de courbe de remplissage de l'espace basé sur une image.
 
