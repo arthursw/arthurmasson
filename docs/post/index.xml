@@ -27,7 +27,7 @@ A naïve Self Avoiding Walk algorithm which generates music.</description>
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/space-filling-curves/</guid>
-      <description>]
+      <description>] ]
 Space Filling Curves is an &amp;ldquo;image based space-filling curve generator&amp;rdquo;.
 It&amp;rsquo;s a sort of artwork.
  Sources Demo  Drag&amp;rsquo;n&amp;rsquo;drop the image of your choice on the canvas to generate a hilbert or gosper curve version.

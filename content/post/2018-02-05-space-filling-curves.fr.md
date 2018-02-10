@@ -1,7 +1,7 @@
 ---
 author: arthur.sw
 date: 2018-01-08T00:00:11Z
-image: /images/hilbert-thumb.png
+image: /images/gosper-thumb.png
 title: Space Filling Curve
 url: /fr/space-filling-curve/
 tags:
@@ -9,6 +9,7 @@ tags:
   - from1to18hours
 ---
 
+![Gosper](/images/gosper.png)]
 ![Hilbert](/images/hilbert.png)]
 
 [Space Filling Curves](https://arthursw.github.io/space-filling-curves/) est un générateur de courbe de remplissage de l'espace basé sur une image.

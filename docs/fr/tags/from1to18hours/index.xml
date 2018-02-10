@@ -27,7 +27,7 @@ Un algorithme naïf de Self Avoiding Walk qui génère de la musique.</descripti
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/fr/space-filling-curve/</guid>
-      <description>]
+      <description>] ]
 Space Filling Curves est un générateur de courbe de remplissage de l&amp;rsquo;espace basé sur une image.
 L&amp;rsquo;algorithme génère une image à partir d&amp;rsquo;un seul tracé qui ne se croise jamais.
  Sources Démo  Glissez-déposez l&amp;rsquo;image de votre choix sur l&amp;rsquo;image pour générer une version &amp;ldquo;courbe de remplissage&amp;rdquo; (courbe de Hilber ou de Gosper).
