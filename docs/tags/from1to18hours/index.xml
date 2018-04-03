@@ -54,6 +54,7 @@ se réapproprier les moyens de production et de transmission, s’impliquer dans
       <guid>http://arthurmasson.xyz/pots-de-fleurs-g%C3%A9n%C3%A9ratifs/</guid>
       <description>  Parametric flower pots
  Flower pots programmed with OpenSCAD.
+Made with Quentin Orhant for Indiens Dans La Ville.
 Thanks to code (it could also be describes with nodes or other means), it is possible to modify the size, the diameters or the number of faces to generate a new object. Once the digital object is created, it can easily be 3D printed.
 Sources:  VasesFixed.scad Vase.scad Vase-2.scad  </description>
     </item>

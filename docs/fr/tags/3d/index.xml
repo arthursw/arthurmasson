@@ -16,9 +16,11 @@
       <pubDate>Tue, 26 Sep 2017 00:00:08 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/fr/pots-de-fleurs-g%C3%A9n%C3%A9ratifs/</guid>
-      <description>  Pots de fleurs parametriques
- Pots de fleurs programmés à l’aide du logiciel OpenSCAD. Écrire un objet permet de plus facilement le modifier par la suite, dans ce cas, il suffit de modifier la taille, les diamètres ou le nombre de faces pour générer un nouvel objet. L’objet numérique créé, il ne reste plus qu’à l’imprimer en 3D.
-Sources:  VasesFixed.scad Vase.scad Vase-2.scad  </description>
+      <description>Pots de fleurs parametriques
+ Pots de fleurs programmés à l’aide du logiciel OpenSCAD.
+Fabriqué avec Quentin Orhant pour Indiens Dans La Ville.
+Écrire un objet permet de plus facilement le modifier par la suite, dans ce cas, il suffit de modifier la taille, les diamètres ou le nombre de faces pour générer un nouvel objet. L’objet numérique créé, il ne reste plus qu’à l’imprimer en 3D.
+Sources:  VasesFixed.</description>
     </item>
     
   </channel>

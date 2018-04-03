@@ -17,6 +17,8 @@ tags:
 
 Flower pots programmed with [OpenSCAD](http://www.openscad.org/).
 
+Made with [Quentin Orhant](http://cirion.tumblr.com) for [Indiens Dans La Ville](http://idlv.co/).
+
 Thanks to code (it could also be describes with nodes or other means), it is possible to modify the size, the diameters or the number of faces to generate a new object. Once the digital object is created, it can easily be 3D printed.
 
 ##### Sources:

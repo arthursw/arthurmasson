@@ -15,7 +15,12 @@ tags:
 
  > Pots de fleurs parametriques
 
-Pots de fleurs programmés à l’aide du logiciel [OpenSCAD](http://www.openscad.org/). Écrire un objet permet de plus facilement le modifier par la suite, dans ce cas, il suffit de modifier la taille, les diamètres ou le nombre de faces pour générer un nouvel objet. L’objet numérique créé, il ne reste plus qu’à l’imprimer en 3D.
+
+Pots de fleurs programmés à l’aide du logiciel [OpenSCAD](http://www.openscad.org/). 
+
+Fabriqué avec [Quentin Orhant](http://cirion.tumblr.com) pour [Indiens Dans La Ville](http://idlv.co/).
+
+Écrire un objet permet de plus facilement le modifier par la suite, dans ce cas, il suffit de modifier la taille, les diamètres ou le nombre de faces pour générer un nouvel objet. L’objet numérique créé, il ne reste plus qu’à l’imprimer en 3D.
 
 ##### Sources:
  - [VasesFixed.scad](/files/3D/vaseFixed.scad)
