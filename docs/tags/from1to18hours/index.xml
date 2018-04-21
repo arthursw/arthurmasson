@@ -11,11 +11,11 @@
     
     
     <item>
-      <title>Space Filling Curves</title>
-      <link>http://arthurmasson.xyz/space-filling-curves/</link>
+      <title>Game of Shapes</title>
+      <link>http://arthurmasson.xyz/game-of-shapes/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:11 +0000</pubDate>
       
-      <guid>http://arthurmasson.xyz/space-filling-curves/</guid>
+      <guid>http://arthurmasson.xyz/game-of-shapes/</guid>
       <description> Game of Shapes Game of shapes
 Shapes generated from a 1D game of life.
 1) each rule (group of 3 cells) corresponds to a shape 2) shapes are organised into column, a column corresponds to a serie of similar cells

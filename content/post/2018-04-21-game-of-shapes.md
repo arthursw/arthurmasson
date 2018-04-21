@@ -1,9 +1,9 @@
 ---
 author: arthur.sw
 date: 2018-04-21T00:00:11Z
-image: /images/gosper-thumb.png
-title: Space Filling Curves
-url: /space-filling-curves/
+image: /images/game-of-shapes-thumb.png
+title: Game of Shapes
+url: /game-of-shapes/
 tags:
   - artwork
   - from1to18hours
