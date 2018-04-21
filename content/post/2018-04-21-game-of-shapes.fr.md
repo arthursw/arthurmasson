@@ -1,6 +1,6 @@
 ---
 author: arthur.sw
-date: 2018-01-08T00:00:11Z
+date: 2018-04-21T00:00:11Z
 image: /images/game-of-shapes-thumb.png
 title: Game of Shapes
 url: /game-of-shapes/

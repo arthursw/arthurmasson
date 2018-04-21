@@ -5,10 +5,22 @@
     <link>http://arthurmasson.xyz/tags/from1to18hours/</link>
     <description>Recent content in From1to18hours on AM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Jan 2018 00:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Apr 2018 00:00:11 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/tags/from1to18hours/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Space Filling Curves</title>
+      <link>http://arthurmasson.xyz/space-filling-curves/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/space-filling-curves/</guid>
+      <description> Game of Shapes Game of shapes
+Shapes generated from a 1D game of life.
+1) each rule (group of 3 cells) corresponds to a shape 2) shapes are organised into column, a column corresponds to a serie of similar cells
+Rule to shape conversions  000: nothing 001: rectangle 010: circle 011: down triangle 100: horizontal rectangle 101: vertical rectangle 110: small circle 111: up triangle  Controls  space: play / pause animation left / right: go to previous / next rule of the game of life up / down: go to previous / next iteration of the game of life click / drag (on the top most part): go to the iteration corresponding to the position of the mouse  </description>
+    </item>
     
     <item>
       <title>Self Avoiding Walk</title>
@@ -32,18 +44,6 @@ It&amp;rsquo;s a sort of artwork.
  Sources Demo  Drag&amp;rsquo;n&amp;rsquo;drop the image of your choice on the canvas to generate a hilbert or gosper curve version.
 How does it work? A Space Filling Curve (Hilbert curve or a Gosper curve) is computed from a grayscale image, refined where the image is darker than thredhold.
 General idea The image is recusively divided in tiles.</description>
-    </item>
-    
-    <item>
-      <title>Space Filling Curves</title>
-      <link>http://arthurmasson.xyz/space-filling-curves/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
-      
-      <guid>http://arthurmasson.xyz/space-filling-curves/</guid>
-      <description> Game of Shapes Game of shapes
-Shapes generated from a 1D game of life.
-1) each rule (group of 3 cells) corresponds to a shape 2) shapes are organised into column, a column corresponds to a serie of similar cells
-Rule to shape conversions  000: nothing 001: rectangle 010: circle 011: down triangle 100: horizontal rectangle 101: vertical rectangle 110: small circle 111: up triangle  Controls  space: play / pause animation left / right: go to previous / next rule of the game of life up / down: go to previous / next iteration of the game of life click / drag (on the top most part): go to the iteration corresponding to the position of the mouse  </description>
     </item>
     
     <item>
