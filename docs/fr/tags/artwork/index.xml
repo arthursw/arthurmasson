@@ -11,6 +11,18 @@
     
     
     <item>
+      <title>Game of Shapes</title>
+      <link>http://arthurmasson.xyz/game-of-shapes/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/game-of-shapes/</guid>
+      <description> Game of Shapes Game of shapes
+Formes générées à partir d&amp;rsquo;un jeu de la vie 1D.
+1) Chaque règle (groupe de 3 cellules) correspond à une forme 2) Les formes sont organisées en colonnes ; une colonne correspond à une série de cellule similaire
+Conversions règle vers forme  000: rien 001: rectangle 010: cercle 011: triangle vers le bas 100: rectangle horizontale 101: rectangle vertical 110: petit cercel 111: triangle vers le haut  Contrôles  space: play / pause l&amp;rsquo;animation gauche / droite: va à la règle précédente / suivante du jeu de la vie haut / bas: va à l&amp;rsquo;itération précédente / suivante du jeu de la vie click / drag (dans la partie supérieur): va à l&amp;rsquo;itération correpondant à la position de la souris  </description>
+    </item>
+    
+    <item>
       <title>Self Avoiding Walk</title>
       <link>http://arthurmasson.xyz/fr/self-avoiding-walk/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
