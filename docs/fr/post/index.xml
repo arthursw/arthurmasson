@@ -5,10 +5,20 @@
     <link>http://arthurmasson.xyz/fr/post/</link>
     <description>Recent content in Posts on AM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Apr 2018 00:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 May 2018 00:00:11 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/fr/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Plantoid</title>
+      <link>http://arthurmasson.xyz/fr/plantoid/</link>
+      <pubDate>Sun, 20 May 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/plantoid/</guid>
+      <description>Plantoid  Contrôleur et simulateur Sources modèle 3D Blender Serveur  Un controleur et simulateur pour les trois Plantoids qui seront construit pour Bruning Man 2018.
+J&amp;rsquo;ai fait ces applications avec deux objectifs en tête : - simuler le Plantoïd, qui ne sont pas encore terminés, pour pouvoir travailler sur les effets visuels dès maintenant, - avoir une GUI pour contrôler les rubans LED: choisir les effets visuels, quelles LED seront allumées / éteintes (toutes les LED ne seront pas allumées), etc.</description>
+    </item>
     
     <item>
       <title>Game of Shapes</title>

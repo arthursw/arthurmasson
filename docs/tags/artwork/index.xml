@@ -5,10 +5,20 @@
     <link>http://arthurmasson.xyz/tags/artwork/</link>
     <description>Recent content in Artwork on AM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Apr 2018 00:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 May 2018 00:00:11 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/tags/artwork/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Plantoid</title>
+      <link>http://arthurmasson.xyz/plantoid/</link>
+      <pubDate>Sun, 20 May 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/plantoid/</guid>
+      <description>Plantoid  Controller and simulator Sources Blender 3D model Server  A controller and simulator for the three Plantoids which will be built for Burning Man 2018.
+I created those apps with two objectives in mind: - simulate the plantoid, which are not finished yet, to be able to work on visual effects right away, - have a GUI to control the LED strips: choose visual effects, control which LED will be on and off (not every led of the LED strip must be lighten), etc.</description>
+    </item>
     
     <item>
       <title>Game of Shapes</title>

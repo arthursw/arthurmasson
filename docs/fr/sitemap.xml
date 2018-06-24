@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>http://arthurmasson.xyz/fr/plantoid/</loc>
+    <lastmod>2018-05-20T00:00:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/plantoid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/plantoid/"
+                />
+  </url>
+  
+  <url>
     <loc>http://arthurmasson.xyz/fr/game-of-shapes/</loc>
     <lastmod>2018-04-21T00:00:11+00:00</lastmod>
     <xhtml:link
@@ -749,7 +764,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/tags/artwork/</loc>
-    <lastmod>2018-04-21T00:00:11+00:00</lastmod>
+    <lastmod>2018-05-20T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -843,7 +858,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/tags/from1to18hours/</loc>
-    <lastmod>2018-04-21T00:00:11+00:00</lastmod>
+    <lastmod>2018-05-20T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1003,7 +1018,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/post/</loc>
-    <lastmod>2018-04-21T00:00:11+00:00</lastmod>
+    <lastmod>2018-05-20T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
