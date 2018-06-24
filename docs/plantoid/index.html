@@ -167,14 +167,14 @@ I created those apps with two objectives in mind: - simulate the plantoid, which
  - simulate the plantoid, which are not finished yet, to be able to work on visual effects right away,
  - have a GUI to control the LED strips: choose visual effects, control which LED will be on and off (not every led of the LED strip must be lighten), etc.</p>
 
-<h1 id="configuration">Configuration</h1>
+<h2 id="configuration">Configuration</h2>
 
 <p>The 3D model can be modified to fit any scupture and any LED strip configuration.
 The only requirement is that the names in the 3D blender file match with the ones in the configuration in main.js.</p>
 
 <p>The number of LED can also be modified in the configuration.</p>
 
-<h1 id="controller-usage">Controller usage</h1>
+<h2 id="controller-usage">Controller usage</h2>
 
 <p>Two effects (there could be many more) can be applied to the LED strips:
  - wave interpolation between two colors: choose two colors and a wave signal (sine, triangle or square, with its frequency and speed) to interpolate between those two colors,
@@ -182,7 +182,7 @@ The only requirement is that the names in the 3D blender file match with the one
 
 <p>Clicking on a LED will add / remove it from the ignore mask (ignored LED wont be lighten).</p>
 
-<h1 id="how-does-it-work">How does it work?</h1>
+<h2 id="how-does-it-work">How does it work?</h2>
 
 <p>The controller sends all information to the server to websocket ; then the server dispatches is to the LED strips (controlled by ESP8266) also in websocket.</p>
 
