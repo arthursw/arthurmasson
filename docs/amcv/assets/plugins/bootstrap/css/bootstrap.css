@@ -188,7 +188,7 @@ th {
   padding: 0;
 }
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
-@media print {
+/*@media print {
   *,
   *:before,
   *:after {
@@ -259,7 +259,7 @@ th {
   .table-bordered td {
     border: 1px solid #ddd !important;
   }
-}
+}*/
 @font-face {
   font-family: 'Glyphicons Halflings';
 
@@ -6713,7 +6713,8 @@ button.close {
 .visible-print {
   display: none !important;
 }
-@media print {
+
+/*@media print {
   .visible-print {
     display: block !important;
   }
@@ -6727,27 +6728,27 @@ button.close {
   td.visible-print {
     display: table-cell !important;
   }
-}
+}*/
 .visible-print-block {
   display: none !important;
 }
-@media print {
+/*@media print {
   .visible-print-block {
     display: block !important;
   }
-}
+}*/
 .visible-print-inline {
   display: none !important;
 }
-@media print {
+/*@media print {
   .visible-print-inline {
     display: inline !important;
   }
-}
+}*/
 .visible-print-inline-block {
   display: none !important;
 }
-@media print {
+/*@media print {
   .visible-print-inline-block {
     display: inline-block !important;
   }
@@ -6756,5 +6757,5 @@ button.close {
   .hidden-print {
     display: none !important;
   }
-}
+}*/
 /*# sourceMappingURL=bootstrap.css.map */

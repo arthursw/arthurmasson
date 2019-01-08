@@ -715,6 +715,100 @@
   </url>
   
   <url>
+    <loc>http://arthurmasson.xyz/fr/authors/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://arthurmasson.xyz/fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://arthurmasson.xyz/fr/drafts/</loc>
+    <lastmod>2008-11-01T00:00:47+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/drafts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/drafts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://arthurmasson.xyz/fr/page/</loc>
+    <lastmod>2017-12-01T00:00:35+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://arthurmasson.xyz/fr/post/</loc>
+    <lastmod>2018-05-20T00:00:11+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://arthurmasson.xyz/fr/tags/</loc>
+    <lastmod>2017-09-26T00:00:08+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>http://arthurmasson.xyz/fr/tags/acl/</loc>
     <lastmod>2016-11-01T00:00:04+00:00</lastmod>
     <priority>0</priority>
@@ -775,52 +869,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://arthurmasson.xyz/fr/tags/artwork/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://arthurmasson.xyz/fr/authors/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://arthurmasson.xyz/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://arthurmasson.xyz/fr/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://arthurmasson.xyz/fr/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://arthurmasson.xyz/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://arthurmasson.xyz/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://arthurmasson.xyz/fr/drafts/</loc>
-    <lastmod>2008-11-01T00:00:47+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://arthurmasson.xyz/drafts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://arthurmasson.xyz/fr/drafts/"
                 />
   </url>
   
@@ -1001,38 +1049,6 @@
   </url>
   
   <url>
-    <loc>http://arthurmasson.xyz/fr/page/</loc>
-    <lastmod>2017-12-01T00:00:35+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://arthurmasson.xyz/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://arthurmasson.xyz/fr/page/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://arthurmasson.xyz/fr/post/</loc>
-    <lastmod>2018-05-20T00:00:11+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://arthurmasson.xyz/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://arthurmasson.xyz/fr/post/"
-                />
-  </url>
-  
-  <url>
     <loc>http://arthurmasson.xyz/fr/tags/reflection/</loc>
     <lastmod>2017-10-25T15:06:41+00:00</lastmod>
     <priority>0</priority>
@@ -1045,22 +1061,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://arthurmasson.xyz/fr/tags/reflection/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://arthurmasson.xyz/fr/tags/</loc>
-    <lastmod>2017-09-26T00:00:08+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://arthurmasson.xyz/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://arthurmasson.xyz/fr/tags/"
                 />
   </url>
   

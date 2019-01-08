@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open-source on AM</title>
+    <title>open-source on AM</title>
     <link>http://arthurmasson.xyz/tags/open-source/</link>
-    <description>Recent content in Open-source on AM</description>
+    <description>Recent content in open-source on AM</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 26 Sep 2017 00:00:08 +0000</lastBuildDate>
     

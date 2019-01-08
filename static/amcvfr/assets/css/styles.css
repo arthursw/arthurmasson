@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Orbit - Responsive Resume/CV Template for Developers
  * Version: 1.0
  * Author: Xiaoying Riley
@@ -10,7 +10,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Roboto', sans-serif;
-  color: #545e6c;
+  color: #545E6C;
   background: #f5f5f5;
   font-size: 14px;
   padding: 30px;
@@ -43,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #42a8c0;
+  background: #42A8C0;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -52,7 +52,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #42a8c0;
+  background: #42A8C0;
   position: absolute;
   right: 0;
   width: 240px;
@@ -156,6 +156,7 @@ p {
   background: #fff;
   padding: 60px;
   padding-right: 300px;
+  page-break-before: always;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
@@ -189,6 +190,7 @@ p {
 }
 .main-wrapper .section {
   margin-bottom: 60px;
+  /*page-break-inside: avoid;*/
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
@@ -199,7 +201,7 @@ p {
   margin-bottom: 2px;
 }
 .main-wrapper .job-title {
-  color: #3f4650;
+  color: #3F4650;
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 0;
@@ -209,11 +211,11 @@ p {
   position: absolute;
   right: 0;
   top: 0;
-  color: #97aac3;
+  color: #97AAC3;
 }
 .main-wrapper .company {
   margin-bottom: 10px;
-  color: #97aac3;
+  color: #97AAC3;
 }
 .main-wrapper .project-title {
   font-size: 16px;
@@ -238,11 +240,11 @@ p {
 }
 .skillset .level-bar {
   height: 12px;
-  background: #f5f5f5;
+  background: #f5f5f5 !important;
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #7bc2d3;
+  background: #7bc2d3 !important;
 }
 .footer {
   padding: 30px;
@@ -250,11 +252,15 @@ p {
 }
 .footer .copyright {
   line-height: 1.6;
-  color: #545e6c;
+  color: #545E6C;
   font-size: 13px;
 }
 .footer .fa-heart {
   color: #fb866a;
+}
+.btn-translate {
+  background-color: #276472;
+  border-color: #41a7be;
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
@@ -280,12 +286,12 @@ p {
   .skillset .level-title {
     display: inline-block;
     float: left;
-    width: 40%;
+    width: 30%;
     margin-bottom: 0;
   }
   .skillset .level-bar {
     display: inline-block;
-    width: 60%;
+    width: 70%;
     float: left;
     position: relative;
     top: 1px;
@@ -293,3 +299,34 @@ p {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+
+
+@media print {
+  
+  body {
+    padding: 10px!important;
+  }
+
+  .sidebar-wrapper {
+    background: #42a8c0;
+    position: absolute!important;
+    right: 0!important;
+    width: 240px!important;
+    height: 100%!important;
+    min-height: 800px!important;
+    color: #fff;
+  }
+
+  .main-wrapper {
+    background: #fff;
+    padding: 40px!important;
+    padding-right: 300px!important;
+  }
+  .main-wrapper p {
+    text-align: justify;
+  }
+  
+  .item {
+    page-break-inside: avoid;
+  }
+}

@@ -7,3 +7,4 @@ weight: -200
 
 
 <iframe src="/amcv/index.html" width="100%" height="2000px"></iframe>
+[Printable version](/amcv/index.html)
