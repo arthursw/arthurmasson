@@ -36,6 +36,7 @@ C’est un vertiable plaisir de partager cet imaginaire avec toi, j’espère av
   
 Artuš
 
+[Réponse de Ksawery n°1](https://xavcc.github.io/epistole/2017/10/10/societe_ouverte_1/)
 
 ### Lettre à Ksawery n°2
 
@@ -64,3 +65,5 @@ Promis, demain je résèrve des places pour la conférence d’Alain Damasio.
 C’était un plaisir de lire ta lettre, un autre de te répondre, et j’attends la suite avec impatience,
 
 Arthur
+
+[Réponse de Ksawery n°2](https://xavcc.github.io/epistole/2018/01/02/societe_ouverte_2/)
