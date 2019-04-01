@@ -2,8 +2,8 @@
 author: arthur.sw
 date: 2017-09-26T00:00:08Z
 image: /images/pots-fleurs-thumb.jpg
-title: Pot de fleurs génératifs
-url: /pots-de-fleurs-génératifs/
+title: Parametric flower pots
+url: /parametric-flower-pots/
 tags:
   - 3D
   - open-source
