@@ -5,10 +5,20 @@
     <link>http://arthurmasson.xyz/post/</link>
     <description>Recent content in Posts on AM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 May 2018 00:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:11 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Collective Thinking Platform</title>
+      <link>http://arthurmasson.xyz/collective-thinking-platform/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/collective-thinking-platform/</guid>
+      <description>Cooperation on the Internet needs an ecosystem (multiple communities / think tanks, with academic researchers, digital actors, and users) to enlighten us on cultures (uses, behaviors, guidelines) and technologies (tools, platforms, systems) which favor collective intelligence and general interest.
+From a technical point of view, it is important to question and improve voting tools, reputation mechanisms, comment system, surveys, forums, chats, wikis, etc. From a sociological point of view, we need to study communities, social interactions, socialization, cooperation mechanisms, etc.</description>
+    </item>
     
     <item>
       <title>Plantoid</title>

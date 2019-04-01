@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>http://arthurmasson.xyz/fr/collective-thinking-platform/</loc>
+    <lastmod>2018-12-01T00:00:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/collective-thinking-platform/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/collective-thinking-platform/"
+                />
+  </url>
+  
+  <url>
     <loc>http://arthurmasson.xyz/fr/plantoid/</loc>
     <lastmod>2018-05-20T00:00:11+00:00</lastmod>
     <xhtml:link
@@ -778,7 +793,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/post/</loc>
-    <lastmod>2018-05-20T00:00:11+00:00</lastmod>
+    <lastmod>2018-12-01T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -922,7 +937,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/tags/from1to18months/</loc>
-    <lastmod>2017-10-15T15:06:41+00:00</lastmod>
+    <lastmod>2018-12-01T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1050,7 +1065,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/tags/reflection/</loc>
-    <lastmod>2017-10-25T15:06:41+00:00</lastmod>
+    <lastmod>2018-12-01T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
