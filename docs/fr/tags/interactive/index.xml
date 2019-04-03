@@ -5,10 +5,31 @@
     <link>http://arthurmasson.xyz/fr/tags/interactive/</link>
     <description>Recent content in interactive on AM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Jun 2017 17:19:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2018 00:00:11 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/fr/tags/interactive/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ESS</title>
+      <link>http://arthurmasson.xyz/fr/ess/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/ess/</guid>
+      <description>Effondrement + Super Intelligence = Sobriété J&amp;rsquo;ai imaginé la performance Effondrement + Super Intelligence = Sobriété comme un dialogue entre différents médiums artistiques dans une salle de cinéma. Cette volontée est directement issue du concept OIIO que j&amp;rsquo;ai développée avec La Sophiste plusieurs années auparavant.
+L&amp;rsquo;oeuvre prend la forme d&amp;rsquo;un dialogue d&amp;rsquo;illustrations procédurales visuelles et sonores, émergeant d&amp;rsquo;une interaction entre le son, l&amp;rsquo;image et le performeur. L&amp;rsquo;artiste imagine une création et l&amp;rsquo;initie grace à des contrôleurs midi ; celle-ci prend vie, s&amp;rsquo;anime, s&amp;rsquo;incarne sous forme sonore ; elle s&amp;rsquo;influence, devient auto-réalisatrice, puis inspire le créateur qui réagit à ces nouveaux stimuli.</description>
+    </item>
+    
+    <item>
+      <title>Tchack Poum</title>
+      <link>http://arthurmasson.xyz/fr/tchack-poum/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/tchack-poum/</guid>
+      <description>Tchack Poum Tchack Poum est une petite boite à musique graphique que j&amp;rsquo;ai développé en partie à partir d&amp;rsquo;anciens projets.
+Cette experience est très minimaliste, je n&amp;rsquo;ai pas pris le temps de trouver de bon sons et de travailler le graphisme, de faire une grille interactive pour activer et desactiver les notes et beats, etc.
+Je considère ce projet comme un brouillon qui évoluera peut-être un jour&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Gif Jokey</title>

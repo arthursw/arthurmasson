@@ -33,8 +33,23 @@
   </url>
   
   <url>
+    <loc>http://arthurmasson.xyz/spheres/</loc>
+    <lastmod>2019-03-05T00:00:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/spheres/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/spheres/"
+                />
+  </url>
+  
+  <url>
     <loc>http://arthurmasson.xyz/collective-thinking-platform/</loc>
-    <lastmod>2018-12-01T00:00:11+00:00</lastmod>
+    <lastmod>2019-02-20T00:00:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -44,6 +59,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://arthurmasson.xyz/collective-thinking-platform/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://arthurmasson.xyz/ess/</loc>
+    <lastmod>2018-12-17T00:00:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/ess/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/ess/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://arthurmasson.xyz/tchack-poum/</loc>
+    <lastmod>2018-12-17T00:00:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/tchack-poum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/tchack-poum/"
                 />
   </url>
   
@@ -801,7 +846,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/post/</loc>
-    <lastmod>2018-12-01T00:00:11+00:00</lastmod>
+    <lastmod>2019-03-05T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -881,7 +926,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/artwork/</loc>
-    <lastmod>2018-05-20T00:00:11+00:00</lastmod>
+    <lastmod>2019-03-05T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -897,7 +942,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/experiment/</loc>
-    <lastmod>2017-10-15T15:06:41+00:00</lastmod>
+    <lastmod>2019-03-05T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -913,7 +958,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/from1to18days/</loc>
-    <lastmod>2018-01-08T00:00:11+00:00</lastmod>
+    <lastmod>2019-03-05T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -945,7 +990,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/from1to18months/</loc>
-    <lastmod>2018-12-01T00:00:11+00:00</lastmod>
+    <lastmod>2019-02-20T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -993,7 +1038,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/interactive/</loc>
-    <lastmod>2017-06-20T17:19:34+00:00</lastmod>
+    <lastmod>2018-12-17T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -1073,7 +1118,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/reflection/</loc>
-    <lastmod>2018-12-01T00:00:11+00:00</lastmod>
+    <lastmod>2019-02-20T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

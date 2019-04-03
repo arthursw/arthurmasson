@@ -1,7 +1,7 @@
 ---
 author: arthur.sw
-date: 2018-12-01T00:00:11Z
-image: /images/participative-ecosystem.png
+date: 2019-02-20T00:00:11Z
+image: /images/participative-ecosystem-thumb.png
 title: La Plateforme Collective Thinking
 url: /fr/collective-thinking-platform/
 tags:

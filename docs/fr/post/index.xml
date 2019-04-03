@@ -5,19 +5,51 @@
     <link>http://arthurmasson.xyz/fr/post/</link>
     <description>Recent content in Posts on AM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:11 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/fr/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Spheres</title>
+      <link>http://arthurmasson.xyz/fr/spheres/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/spheres/</guid>
+      <description>Spheres Spheres est un ensemble d&amp;rsquo;algorithmes pour générer des patrons de sphères ou de formes géométriques.
+L&amp;rsquo;idée est de faire des lampes à partir d&amp;rsquo;une fine plaque de bois, carton bois ou autres matériaux.
+J&amp;rsquo;aime particulièrement le pliage en peau d&amp;rsquo;orange et la fleur :</description>
+    </item>
+    
+    <item>
       <title>La Plateforme Collective Thinking</title>
       <link>http://arthurmasson.xyz/fr/collective-thinking-platform/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:11 +0000</pubDate>
+      <pubDate>Wed, 20 Feb 2019 00:00:11 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/fr/collective-thinking-platform/</guid>
       <description>De la même manière que le projet Reset de la Fing entend développer les réflexions pour réinventer le numérique ; la coopération sur Internet a besoin d&amp;rsquo;un écosystème (plusieurs communautés / think tanks, composées de chercheurs, d&amp;rsquo;acteur du numérique et d&amp;rsquo;utilisateurs) pour nous éclairer sur les cultures (usages, pratiques, comportements) et technologies (outils, plateformes, techniques) qui favorisent l&amp;rsquo;intelligence collective et l&amp;rsquo;intérêt général.
 D&amp;rsquo;un point de vue technique, il s&amp;rsquo;agit de questionner les outils de vote, de réputation, d&amp;rsquo;évaluation, de commentaires, de sondages, les forums, chats, wikis, etc.</description>
+    </item>
+    
+    <item>
+      <title>ESS</title>
+      <link>http://arthurmasson.xyz/fr/ess/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/ess/</guid>
+      <description>Effondrement + Super Intelligence = Sobriété J&amp;rsquo;ai imaginé la performance Effondrement + Super Intelligence = Sobriété comme un dialogue entre différents médiums artistiques dans une salle de cinéma. Cette volontée est directement issue du concept OIIO que j&amp;rsquo;ai développée avec La Sophiste plusieurs années auparavant.
+L&amp;rsquo;oeuvre prend la forme d&amp;rsquo;un dialogue d&amp;rsquo;illustrations procédurales visuelles et sonores, émergeant d&amp;rsquo;une interaction entre le son, l&amp;rsquo;image et le performeur. L&amp;rsquo;artiste imagine une création et l&amp;rsquo;initie grace à des contrôleurs midi ; celle-ci prend vie, s&amp;rsquo;anime, s&amp;rsquo;incarne sous forme sonore ; elle s&amp;rsquo;influence, devient auto-réalisatrice, puis inspire le créateur qui réagit à ces nouveaux stimuli.</description>
+    </item>
+    
+    <item>
+      <title>Tchack Poum</title>
+      <link>http://arthurmasson.xyz/fr/tchack-poum/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/tchack-poum/</guid>
+      <description>Tchack Poum Tchack Poum est une petite boite à musique graphique que j&amp;rsquo;ai développé en partie à partir d&amp;rsquo;anciens projets.
+Cette experience est très minimaliste, je n&amp;rsquo;ai pas pris le temps de trouver de bon sons et de travailler le graphisme, de faire une grille interactive pour activer et desactiver les notes et beats, etc.
+Je considère ce projet comme un brouillon qui évoluera peut-être un jour&amp;hellip;</description>
     </item>
     
     <item>
