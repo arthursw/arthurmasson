@@ -11,8 +11,6 @@ tags:
   - from1to18days
 ---
 
-# Tchack Poum
-
 ![Tchack Poum](/images/tchack-poum.png)
 
 [Tchack Poum](https://arthursw.github.io/tchack-poum/) is small graphical music box experiment that I made partly from older projects.

@@ -11,8 +11,6 @@ tags:
   - from1to18days
 ---
 
-# Tchack Poum
-
 ![Tchack Poum](/images/tchack-poum.png)
 
 [Tchack Poum](https://arthursw.github.io/tchack-poum/) est une petite boite à musique graphique que j'ai développé en partie à partir d'anciens projets.

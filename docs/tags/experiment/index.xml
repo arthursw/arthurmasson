@@ -5,10 +5,21 @@
     <link>http://arthurmasson.xyz/tags/experiment/</link>
     <description>Recent content in experiment on AM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:11 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Glasses Prototype</title>
+      <link>http://arthurmasson.xyz/glasses/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/glasses/</guid>
+      <description>I started building experimental glasses after trying the amazing 3D printed glasses by Quentin Orhant.
+First, I created multiple 3D models with Blender. I thought about creating a 3D tool to generate models directly from 2D bezier curves, then I tried Optimaker, then I decided to create my own handcrafted 3D models.
+Then I realized that I like minimalistic shapes ; so I did a first 2D test with 3mm poplar plywood sheets and the CNC of the IDLV (http://idlv.</description>
+    </item>
     
     <item>
       <title>Spheres</title>
@@ -16,7 +27,7 @@
       <pubDate>Tue, 05 Mar 2019 00:00:11 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/spheres/</guid>
-      <description>Spheres Spheres is a set of algorithms to generate pattern to fold spheres and other geometric shapes.
+      <description>Spheres is a set of algorithms to generate pattern to fold spheres and other geometric shapes.
 Those could be used to create nice lamps from a thin layer of wook, cardboard, or from other materials.
 I particularly like the orange skin and the flower foldings :</description>
     </item>
@@ -37,7 +48,7 @@ The artwork takes life into visual and acoustic procedural illustrations, emergi
       <pubDate>Mon, 17 Dec 2018 00:00:11 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/tchack-poum/</guid>
-      <description>Tchack Poum Tchack Poum is small graphical music box experiment that I made partly from older projects.
+      <description>Tchack Poum is small graphical music box experiment that I made partly from older projects.
 It is very minimalistic ; I did not take time to find proper sounds and graphics, and to create an interactive grid to toggle notes and beats.
 This is a draft that might, one day, evolve into something bigger&amp;hellip;</description>
     </item>
