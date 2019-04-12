@@ -3,7 +3,7 @@ author: arthur.sw
 date: 2018-01-08T00:00:11Z
 image: /images/gosper-thumb.png
 title: Space Filling Curve
-url: /fr/space-filling-curve/
+url: /fr/space-filling-curves/
 tags:
   - artwork
   - from1to18hours

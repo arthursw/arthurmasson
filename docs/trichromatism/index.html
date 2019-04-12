@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='Trichromatism is a tool to convert bitmap images into vector image composed with lines of 3 colors which can then be drawn by a plotter such as the Tipibot.
+A shader computes a preview of the result in real time, enabling to tweak parameters easily.
+The same algorithm is then applied line by line on the CPU. This process is a lot slower, but generates the SVG file that can be sent to any machine.'>
+
+<meta property='og:title' content='Trichromatism • AM'>
+<meta property='og:description' content='Trichromatism is a tool to convert bitmap images into vector image composed with lines of 3 colors which can then be drawn by a plotter such as the Tipibot.
+A shader computes a preview of the result in real time, enabling to tweak parameters easily.
+The same algorithm is then applied line by line on the CPU. This process is a lot slower, but generates the SVG file that can be sent to any machine.'>
+<meta property='og:url' content='http://arthurmasson.xyz/trichromatism/'>
+<meta property='og:site_name' content='AM'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post'><meta property='article:tag' content='artwork'><meta property='article:tag' content='experiment'><meta property='article:tag' content='from1to18days'><meta property='article:published_time' content='2019-04-12T00:00:11Z'/><meta property='article:modified_time' content='2019-04-12T00:00:11Z'/><meta name='twitter:card' content='summary'>
+
+<meta name="generator" content="Hugo 0.53" />
+
+  <title>Trichromatism • AM</title>
+  <link rel='canonical' href='http://arthurmasson.xyz/trichromatism/'>
+  
+  <link rel='alternate' hreflang='en' href='http://arthurmasson.xyz/trichromatism/'><link rel='alternate' hreflang='x-default' href='http://arthurmasson.xyz/trichromatism/'><link rel='alternate' hreflang='fr' href='http://arthurmasson.xyz/fr/trichromatism/'>
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.7a50ccd3.css'><link rel='stylesheet' href='/assets/css/custom.css'>
+</head>
+
+
+<body class='page type-post'>
+  <div class='site'>
+
+    <a class='screen-reader' href='#main'>Skip to Content</a>
+
+    <header id='header' class='header-container'>
+      <div class='header site-header'>
+        <nav id='main-menu' class='main-menu-container' aria-label='Main Menu'><ul class='main-menu'>
+  <li>
+      <a href='/'>AM</a>
+    </li>
+  <li>
+      <a href='/cv/'>CV</a>
+    </li>
+  <li>
+      <a href='/contact/'>Contact</a>
+    </li>
+  
+  </ul>
+
+  <ul class='tags-menu main-menu'>
+    <li>
+        <a href='/tags/application/'>Applications</a>
+      </li>
+    <li>
+        <a href='/tags/artwork/'>Art</a>
+      </li>
+    <li>
+        <a href='/tags/experiment/'>Experiments</a>
+      </li>
+    <li>
+        <a href='/tags/reflection/'>Reflections</a>
+      </li>
+    <li>
+        <a href='/tags/website/'>Websites</a>
+      </li>
+    
+  </ul>
+
+  <ul class='co-menu main-menu'>
+    <li>
+        <a href='/tags/idlv/'>IDLV</a>
+      </li>
+    <li>
+        <a href='/tags/la-sophiste/'>La Sophiste</a>
+      </li>
+    
+  </ul>
+
+  <ul class='workamount-menu main-menu'>
+    <li>
+        <a href='/tags/from1to18hours/'>1 to 18 hours</a>
+      </li>
+    <li>
+        <a href='/tags/from1to18days/'>1 to 18 days</a>
+      </li>
+    <li>
+        <a href='/tags/from1to18months/'>1 to 18 months</a>
+      </li>
+    
+  </ul>
+
+  
+  <ul class="main-menu translations">
+      
+      <li>
+          <a href="http://arthurmasson.xyz/fr/trichromatism/">Français</a>
+      </li>
+      
+  </ul>
+  
+
+</nav>
+
+      </div>
+    </header>
+
+
+<main id='main' class='main'>
+  <article lang='en' class='entry'>
+    <header class='header-container'>
+  <div class='header entry-header'>
+    <div class='header-info'>
+      <h1 class='title'>Trichromatism</h1>
+      
+
+    </div>
+    
+<div class='meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader'>Posted on </span>
+  <time class='date' datetime='2019-04-12T00:00:11Z'>2019, Apr 12</time>
+</span>
+
+  
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+2 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+    
+    
+
+    <div class='entry-content'>
+  
+
+<p><a href="http://arthur.sw.gitlab.io/trichromatism/" target="_blank">Trichromatism</a> is a tool to convert bitmap images into vector image composed with lines of 3 colors which can then be drawn by a plotter such as <a href="http://arthurmasson.xyz/tipibot/" target="_blank">the Tipibot</a>.</p>
+
+<p>A shader computes a preview of the result in real time, enabling to tweak parameters easily.</p>
+
+<p>The same algorithm is then applied line by line on the CPU. This process is a lot slower, but generates the SVG file that can be sent to any machine.</p>
+
+<h2 id="some-results">Some results</h2>
+
+<p><img src="/images/trichromatism/bike.jpg" alt="Bike" />
+<img src="/images/trichromatism/king-fisher.jpg" alt="King Fisher" />
+<img src="/images/trichromatism/nyala.jpg" alt="Nyala" /></p>
+
+<h2 id="rendering">Rendering</h2>
+
+<p>The objective is to perform the following steps:</p>
+
+<ul>
+<li>compute 4 new colors from the three given colors (mix color A with color B, A with C, B with C, and the three together),</li>
+<li>this results in 7 colors + black and white,</li>
+<li>for each pixel of the image, find the closest color,</li>
+<li>draw a line accordingly with the appropriate angle.</li>
+</ul>
+
+<p>The shader is quite complex.</p>
+
+<p>To render the line thickness properly (to have proper end caps), I had to offset the pixel lookup as show on the following image:</p>
+
+<p><img src="/images/trichromatism/line-offset.jpg" alt="Line offset" /></p>
+
+<p>This means that the algorithm must render the image three times (one time per angle) to compute the final pixel color and draw the lines accordingly, as shown in the folling image:</p>
+
+<p><img src="/images/trichromatism/angles.jpg" alt="Angles" /></p>
+
+<p>This enable to have proper line-end caps as on the left image bellow. Without offseting pixel lookups, the line caps would follow the image edges (see right image bellow). This would be cheating ;-) we would still see many details which would not be rendered with straight lines.</p>
+
+<p><img src="/images/trichromatism/edges.jpg" alt="Edges" /></p>
+
+<p>To compute the color difference, I used the <a href="https://en.wikipedia.org/wiki/Color_difference" target="_blank">CIE Lab - delta E* CIE94 formula from Wikipedia</a>.
+I had to implement the color conversions both on the shader and the CPU algorithm.</p>
+
+<p>To mix two colors, I convert their RGB values to CMYK, add them together and divide them by a given weight. The higher the weight, the lighter the colors.</p>
+
+<h2 id="improvements">Improvements</h2>
+
+<p>I could add different rendering modes :</p>
+
+<ul>
+<li>Give N colors, each with an angle, and do not mix them ; just render the closest color.</li>
+<li>Convert the image to CMYK, threshold each color component, and render the lines according to the resulting values. This could work with RGB values as well.</li>
+<li>Change the space between line according to the pixel intensities.</li>
+<li>Use patterns other than straight lines.</li>
+<li>Use a <a href="http://arthurmasson.xyz/space-filling-curves/" target="_blank">space filling curve</a> algorithm to render the image with only 3 or 4 lines (one line for each color component).</li>
+</ul>
+
+</div>
+
+    
+<footer class='entry-footer-container'>
+  <div class='entry-footer'>
+  <div class='tags'>
+  <span class='taxonomyTerm-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M20.59,13.41l-7.17,7.17a2,2,0,0,1-2.83,0L2,12V2H12l8.59,8.59A2,2,0,0,1,20.59,13.41Z"/>
+  <line x1="7" y1="7" x2="7" y2="7"/>
+  
+</svg>
+</span>
+  <span class='screen-reader'>Tags: </span><a class='tag' href='/tags/artwork'>artwork</a>, <a class='tag' href='/tags/experiment'>experiment</a>, <a class='tag' href='/tags/from1to18days'>from1to18days</a></div>
+
+  </div>
+</footer>
+
+
+  </article>
+  
+<nav class='entry-nav-container'>
+  <div class='entry-nav'><div class='prev-entry'>
+      <a href='/glasses/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader'>Previous post: </span>
+        <span class="prev-title">Glasses Prototype</span>
+      </a>
+    </div></div>
+</nav>
+
+  
+</main>
+
+    <footer id='footer' class='footer-container'>
+      <div class='footer'>
+        <div class='social-menu-container'>
+  <nav aria-label='Social Menu'>
+    <ul class='social-menu'><li>
+        <a href='https://github.com/arthursw' target='_blank' rel='noopener'>
+          <span class='screen-reader'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:arthur.yves.robin@gmail.com' target='_blank' rel='noopener'>
+          <span class='screen-reader'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</div>
+        <div class='copyleft'>
+  <p>
+  </p>
+</div>
+
+      </div>
+    </footer>
+
+  </div><script src='/assets/js/main.5871befd.js'></script><script src='/assets/js/custom.js'></script></body>
+
+</html>
+

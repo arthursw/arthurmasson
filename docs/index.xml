@@ -37,6 +37,17 @@ facebook.com/collectiflasophiste</description>
     </item>
     
     <item>
+      <title>Trichromatism</title>
+      <link>http://arthurmasson.xyz/trichromatism/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/trichromatism/</guid>
+      <description>Trichromatism is a tool to convert bitmap images into vector image composed with lines of 3 colors which can then be drawn by a plotter such as the Tipibot.
+A shader computes a preview of the result in real time, enabling to tweak parameters easily.
+The same algorithm is then applied line by line on the CPU. This process is a lot slower, but generates the SVG file that can be sent to any machine.</description>
+    </item>
+    
+    <item>
       <title>Glasses Prototype</title>
       <link>http://arthurmasson.xyz/glasses/</link>
       <pubDate>Fri, 15 Mar 2019 00:00:11 +0000</pubDate>
@@ -56,7 +67,8 @@ Then I realized that I like minimalistic shapes ; so I did a first 2D test with 
       <description>Spheres is a set of algorithms to generate pattern to fold spheres and other geometric shapes.
 I took inspiration from the great article Unfolding the Earth: Myriahedral Projections.
 Those could be used to create nice lamps from a thin layer of wook, cardboard, or from other materials.
-I particularly like the orange skin and the flower foldings :</description>
+I particularly like the orange skin and the flower foldings :
+Sources</description>
     </item>
     
     <item>
@@ -85,7 +97,7 @@ The artwork takes life into visual and acoustic procedural illustrations, emergi
       <pubDate>Mon, 17 Dec 2018 00:00:11 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/tchack-poum/</guid>
-      <description>Tchack Poum (works on Google Chrome) is small graphical music box experiment that I made partly from older projects.
+      <description>Tchack Poum (works on Google Chrome, requires the Web MIDI API module on Firefox) is small graphical music box experiment that I made partly from older projects.
 It is very minimalistic ; I did not take time to find proper sounds and graphics, and to create an interactive grid to toggle notes and beats.
 This is a draft that might, one day, evolve into something bigger&amp;hellip;</description>
     </item>

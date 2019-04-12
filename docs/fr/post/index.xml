@@ -5,10 +5,23 @@
     <link>http://arthurmasson.xyz/fr/post/</link>
     <description>Recent content in Posts on AM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 15 Mar 2019 00:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2019 00:00:11 +0000</lastBuildDate>
     
 	<atom:link href="http://arthurmasson.xyz/fr/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Trichromatism</title>
+      <link>http://arthurmasson.xyz/fr/trichromatism/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:11 +0000</pubDate>
+      
+      <guid>http://arthurmasson.xyz/fr/trichromatism/</guid>
+      <description>Trichromatism est un outil de conversion d&amp;rsquo;image bitmap en image vectorielle composée de lignes de 3 couleurs qui peuvent ensuite être dessinée par un traceur comme le Tipibot.
+Un shader de previsualisation permet de faire un réglage des paramètres en temps réel.
+Un algrithme similaire est ensuite executé sur le CPU pour générer le fichier vectoriel SVG correspondant.
+Quelques resultats Rendu L&amp;rsquo;objectif est le suivant :
+ calculer 4 nouvelles couleurs à partir des 3 couleurs données (mélanger la couleur A avec la couleur B, la A avec la C, la B avec la C, puis les trois ensemble) cela donne donc 7 couleurs, plus le noir et le blanc, pour chaque pixel de l&amp;rsquo;image, trouver la couleur la plus proche, dessiner les lignes correspondantes avec l&amp;rsquo;angle donné.</description>
+    </item>
     
     <item>
       <title>Prototype de Lunettes</title>
@@ -30,7 +43,8 @@ Puis je me suis rendu compte que j&amp;rsquo;aime les formes épurées et minima
       <description>Spheres est un ensemble d&amp;rsquo;algorithmes pour générer des patrons de sphères ou de formes géométriques.
 Je me suis inspiré du superbe article Unfolding the Earth: Myriahedral Projections.
 L&amp;rsquo;idée est de faire des lampes à partir d&amp;rsquo;une fine plaque de bois, carton bois ou autres matériaux.
-J&amp;rsquo;aime particulièrement le pliage en peau d&amp;rsquo;orange et la fleur :</description>
+J&amp;rsquo;aime particulièrement le pliage en peau d&amp;rsquo;orange et la fleur :
+Sources</description>
     </item>
     
     <item>
@@ -59,7 +73,7 @@ L&amp;rsquo;oeuvre prend la forme d&amp;rsquo;un dialogue d&amp;rsquo;illustrati
       <pubDate>Mon, 17 Dec 2018 00:00:11 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/fr/tchack-poum/</guid>
-      <description>Tchack Poum (works on Google Chrome) est une petite boite à musique graphique que j&amp;rsquo;ai développé en partie à partir d&amp;rsquo;anciens projets.
+      <description>Tchack Poum (fonctionne sur Google Chrome, requiert le module Web MIDI API sur Firefox) est une petite boite à musique graphique que j&amp;rsquo;ai développé en partie à partir d&amp;rsquo;anciens projets.
 Cette experience est très minimaliste, je n&amp;rsquo;ai pas pris le temps de trouver de bon sons et de travailler le graphisme, de faire une grille interactive pour activer et desactiver les notes et beats, etc.
 Je considère ce projet comme un brouillon qui évoluera peut-être un jour&amp;hellip;</description>
     </item>
@@ -99,10 +113,10 @@ Un algorithme naïf de Self Avoiding Walk qui génère de la musique.</descripti
     
     <item>
       <title>Space Filling Curve</title>
-      <link>http://arthurmasson.xyz/fr/space-filling-curve/</link>
+      <link>http://arthurmasson.xyz/fr/space-filling-curves/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:11 +0000</pubDate>
       
-      <guid>http://arthurmasson.xyz/fr/space-filling-curve/</guid>
+      <guid>http://arthurmasson.xyz/fr/space-filling-curves/</guid>
       <description>Space Filling Curves est un générateur de courbe de remplissage de l&amp;rsquo;espace basé sur une image.
 L&amp;rsquo;algorithme génère une image à partir d&amp;rsquo;un seul tracé qui ne se croise jamais.
  Sources Démo  Glissez-déposez l&amp;rsquo;image de votre choix sur l&amp;rsquo;image pour générer une version &amp;ldquo;courbe de remplissage&amp;rdquo; (courbe de Hilber ou de Gosper).

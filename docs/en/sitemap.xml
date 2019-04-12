@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>http://arthurmasson.xyz/trichromatism/</loc>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/trichromatism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/trichromatism/"
+                />
+  </url>
+  
+  <url>
     <loc>http://arthurmasson.xyz/glasses/</loc>
     <lastmod>2019-03-15T00:00:11+00:00</lastmod>
     <xhtml:link
@@ -158,7 +173,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://arthurmasson.xyz/fr/space-filling-curve/"
+                href="http://arthurmasson.xyz/fr/space-filling-curves/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -861,7 +876,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/post/</loc>
-    <lastmod>2019-03-15T00:00:11+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -941,7 +956,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/artwork/</loc>
-    <lastmod>2019-03-05T00:00:11+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -957,7 +972,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/experiment/</loc>
-    <lastmod>2019-03-15T00:00:11+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -973,7 +988,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/tags/from1to18days/</loc>
-    <lastmod>2019-03-15T00:00:11+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

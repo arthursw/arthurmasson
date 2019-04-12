@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>http://arthurmasson.xyz/fr/trichromatism/</loc>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://arthurmasson.xyz/trichromatism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://arthurmasson.xyz/fr/trichromatism/"
+                />
+  </url>
+  
+  <url>
     <loc>http://arthurmasson.xyz/fr/lunettes/</loc>
     <lastmod>2019-03-15T00:00:11+00:00</lastmod>
     <xhtml:link
@@ -153,7 +168,7 @@
   </url>
   
   <url>
-    <loc>http://arthurmasson.xyz/fr/space-filling-curve/</loc>
+    <loc>http://arthurmasson.xyz/fr/space-filling-curves/</loc>
     <lastmod>2018-01-08T00:00:11+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -163,7 +178,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://arthurmasson.xyz/fr/space-filling-curve/"
+                href="http://arthurmasson.xyz/fr/space-filling-curves/"
                 />
   </url>
   
@@ -853,7 +868,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/post/</loc>
-    <lastmod>2019-03-15T00:00:11+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -933,7 +948,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/tags/artwork/</loc>
-    <lastmod>2019-03-05T00:00:11+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -949,7 +964,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/tags/experiment/</loc>
-    <lastmod>2019-03-15T00:00:11+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -965,7 +980,7 @@
   
   <url>
     <loc>http://arthurmasson.xyz/fr/tags/from1to18days/</loc>
-    <lastmod>2019-03-15T00:00:11+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:11+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

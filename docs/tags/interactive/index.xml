@@ -26,7 +26,7 @@ The artwork takes life into visual and acoustic procedural illustrations, emergi
       <pubDate>Mon, 17 Dec 2018 00:00:11 +0000</pubDate>
       
       <guid>http://arthurmasson.xyz/tchack-poum/</guid>
-      <description>Tchack Poum (works on Google Chrome) is small graphical music box experiment that I made partly from older projects.
+      <description>Tchack Poum (works on Google Chrome, requires the Web MIDI API module on Firefox) is small graphical music box experiment that I made partly from older projects.
 It is very minimalistic ; I did not take time to find proper sounds and graphics, and to create an interactive grid to toggle notes and beats.
 This is a draft that might, one day, evolve into something bigger&amp;hellip;</description>
     </item>

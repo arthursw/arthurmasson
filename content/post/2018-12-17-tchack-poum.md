@@ -13,7 +13,7 @@ tags:
 
 ![Tchack Poum](/images/tchack-poum.png)
 
-[Tchack Poum](https://arthursw.github.io/tchack-poum/) (works on Google Chrome) is small graphical music box experiment that I made partly from older projects.
+[Tchack Poum](https://arthursw.github.io/tchack-poum/) (works on Google Chrome, requires [the Web MIDI API module](https://addons.mozilla.org/en-US/firefox/addon/web-midi-api/) on Firefox) is small graphical music box experiment that I made partly from older projects.
 
 It is very minimalistic ; I did not take time to find proper sounds and graphics, and to create an interactive grid to toggle notes and beats.
 
