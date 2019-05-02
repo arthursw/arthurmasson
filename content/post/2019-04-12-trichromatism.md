@@ -7,6 +7,7 @@ url: /trichromatism/
 tags:
   - artwork
   - experiment
+  - application
   - from1to18days
 ---
 

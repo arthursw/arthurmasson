@@ -6,6 +6,7 @@ title: La Plateforme Collective Thinking
 url: /fr/collective-thinking-platform/
 tags:
   - reflection
+  - application
   - from1to18months
 ---
 

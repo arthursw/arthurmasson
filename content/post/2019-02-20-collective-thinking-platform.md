@@ -6,6 +6,7 @@ title: The Collective Thinking Platform
 url: /collective-thinking-platform/
 tags:
   - reflection
+  - application
   - from1to18months
 ---
 
