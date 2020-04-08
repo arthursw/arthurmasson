@@ -11,11 +11,13 @@ tags:
   - from1to18days
 ---
 
-[Trichromatism](http://arthur.sw.gitlab.io/trichromatism/) est un outil de conversion d'image bitmap en image vectorielle composée de lignes de 3 couleurs qui peuvent ensuite être dessinée par un traceur comme [le Tipibot](http://arthurmasson.xyz/tipibot/).
+[Trichromatism](https://arthursw.github.io/trichromatism/) est un outil de conversion d'image bitmap en image vectorielle composée de lignes de 3 couleurs qui peuvent ensuite être dessinée par un traceur comme [le Tipibot](http://arthurmasson.xyz/tipibot/).
 
 Un shader de previsualisation permet de faire un réglage des paramètres en temps réel.
 
 Un algrithme similaire est ensuite executé sur le CPU pour générer le fichier vectoriel SVG correspondant.
+
+[Sources](https://github.com/arthursw/trichromatism/)
 
 ## Quelques resultats
 

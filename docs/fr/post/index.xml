@@ -19,6 +19,7 @@
       <description>Trichromatism est un outil de conversion d&amp;rsquo;image bitmap en image vectorielle composée de lignes de 3 couleurs qui peuvent ensuite être dessinée par un traceur comme le Tipibot.
 Un shader de previsualisation permet de faire un réglage des paramètres en temps réel.
 Un algrithme similaire est ensuite executé sur le CPU pour générer le fichier vectoriel SVG correspondant.
+Sources
 Quelques resultats Rendu L&amp;rsquo;objectif est le suivant :
  calculer 4 nouvelles couleurs à partir des 3 couleurs données (mélanger la couleur A avec la couleur B, la A avec la C, la B avec la C, puis les trois ensemble) cela donne donc 7 couleurs, plus le noir et le blanc, pour chaque pixel de l&amp;rsquo;image, trouver la couleur la plus proche, dessiner les lignes correspondantes avec l&amp;rsquo;angle donné.</description>
     </item>
