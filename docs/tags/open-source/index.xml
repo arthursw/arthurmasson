@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>open-source on AM</title>
+    <title>Open-Source on AM</title>
     <link>http://arthurmasson.xyz/tags/open-source/</link>
-    <description>Recent content in open-source on AM</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Open-Source on AM</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 26 Sep 2017 00:00:08 +0000</lastBuildDate>
-    
-	<atom:link href="http://arthurmasson.xyz/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://arthurmasson.xyz/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parametric flower pots</title>
       <link>http://arthurmasson.xyz/parametric-flower-pots/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:08 +0000</pubDate>
-      
       <guid>http://arthurmasson.xyz/parametric-flower-pots/</guid>
-      <description>  Parametric flower pots
- Flower pots programmed with OpenSCAD.
-Made with Quentin Orhant for Indiens Dans La Ville.
-Thanks to code (it could also be describes with nodes or other means), it is possible to modify the size, the diameters or the number of faces to generate a new object. Once the digital object is created, it can easily be 3D printed.
-Sources:  VasesFixed.scad Vase.scad Vase-2.scad  </description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Flower pots&#34; src=&#34;http://arthurmasson.xyz/images/pots-fleurs.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Parametric flower pots&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Flower pots programmed with &lt;a href=&#34;http://www.openscad.org/&#34;&gt;OpenSCAD&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Made with &lt;a href=&#34;http://cirion.tumblr.com&#34;&gt;Quentin Orhant&lt;/a&gt; for &lt;a href=&#34;http://idlv.co/&#34;&gt;Indiens Dans La Ville&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Thanks to code (it could also be describes with nodes or other means), it is possible to modify the size, the diameters or the number of faces to generate a new object. Once the digital object is created, it can easily be 3D printed.&lt;/p&gt;&#xA;&lt;h5 id=&#34;sources&#34;&gt;Sources:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://arthurmasson.xyz/files/3D/vaseFixed.scad&#34;&gt;VasesFixed.scad&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://arthurmasson.xyz/files/3D/vase.scad&#34;&gt;Vase.scad&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://arthurmasson.xyz/files/3D/vase-2.scad&#34;&gt;Vase-2.scad&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>
