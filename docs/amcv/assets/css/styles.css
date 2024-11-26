@@ -306,22 +306,26 @@ p {
   }
 
   .sidebar-wrapper {
-    background: #42a8c012;
+    /*background: #42a8c012;*/
     position: absolute!important;
     right: 0!important;
     width: 240px!important;
     height: 100%!important;
     min-height: 800px!important;
-    color: #3d4548;
+    /*color: #3d4548;*/
   }
   
   .sidebar-wrapper a, .sidebar-wrapper .education-container .meta, .sidebar-wrapper .education-container .time, .sidebar-wrapper .language-container .lang-desc {
-    color: #3d4548;
+    /*color: #3d4548;*/
   }
   
   .sidebar-wrapper .container-block {
     padding: 20px;
     padding-bottom: 0px;
+  }
+
+  .experiences-section h3 {
+    padding-top: 25px;
   }
   
   section.skills-section.section {

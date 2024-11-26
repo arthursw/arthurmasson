@@ -6,6 +6,11 @@ Both  `cvfr/` and `cv/` use the same theme [hugo-orbit-theme](https://github.com
 
 Build the french and english versions of the resume by going to `cvfr/` and `cv/` respectively and by running `hugo` in each directory.
 
+Create the symlinks to the built resumes in `static/`:
+- `cd static/`
+- `ln -s ../cv/public amcv`
+- `ln -s ../cvfr/public amcvfr`
+
 Then, run `hugo` at the root of the project to build the website.
 
 
