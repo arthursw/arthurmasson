@@ -1,0 +1,230 @@
+# Page settings
+
+baseurl: '' # 'http://arthurmasson.xyz/cv/'
+languageCode: en-us
+title: Arthur Masson Resume
+theme: hugo-orbit-theme
+# googleAnalytics = "UA-XXXXXXX-Y"
+
+# Do not build files for websites. Need them? Set to false
+disableRSS: true
+disableSitemap: true
+disable404: true
+
+relativeURLs: true
+canonifyURLs: false
+
+params:
+    # Meta
+    description: Arthur Masson Resume
+    author: 'Arthur Masson'
+
+    # Theme styles
+
+        # The original template comes with 6 colour schemes. You may choose styles below.
+        # "styles.css", "styles-2.css", "styles-3.css", "styles-4.css", "styles-5.css", "styles-6.css"
+        # are available. Also the source LESS files are included so
+        # it’s quick and easy to change the styling and colour scheme.
+
+    styles: styles.css
+
+# Sidebar sections
+
+    # Profile section
+    profile:
+        name: Arthur Masson
+        tagline: Developer & Artist
+        avatar: profile.png
+    
+    # Contact section
+    contact:
+        enable: true
+        list:
+            -   class: email
+                icon: fa-envelope
+                url: 'mailto: arthurmasson@protonmail.com'
+                title: arthurmasson@protonmail.com
+            -   class: phone
+                icon: fa-phone
+                url: 'tel:+33652874225'
+                title: '+33652874225'
+            -   class: website
+                icon: fa-globe
+                url: //arthurmasson.xyz/
+                title: arthurmasson.xyz/
+            -   class: linkedin
+                icon: fa-linkedin
+                url: //linkedin.com/in/arthur-masson/?locale=en_US
+                title: linkedin.com/in/arthur-masson
+            -   class: github
+                icon: fa-github
+                url: //github.com/arthursw
+                title: github.com/arthursw
+            -   class: twitter
+                icon: fa-twitter
+                url: //twitter.com/arthursw
+                title: '@arthursw'
+    education:
+        enable: true
+        title: Education
+        list:
+            
+            # DIIC - Diplôme d’Ingénieur en Informatique et Communication, ESIR, Université
+            # DIIC - Engineering degree in computer science, ESIR, University of Rennes 1.
+
+            -   degree: DIIC - Engineering degree in computer science
+                college: ESIR, University of Rennes 1
+                dates: 2008 - 2011
+            -   degree: DUT GEEI - Electronic and computer science for industry
+                college: IUT GEEI of Rennes 1
+                dates: 2006 - 2008
+    language:
+        enable: true
+        title: Languages
+        list:
+            -   language: French
+                level: Native
+            -   language: English
+                level: Professional
+            -   language: German
+                level: Basic
+    interests:
+        enable: true
+        title: Interests
+        list:
+            - interest: Digital art
+            - interest: Piano
+            - interest: Rock climbing
+            - interest: Graphic novels
+
+# Main body sections
+
+    # You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
+
+    # Summary section
+    summary:
+        enable: true
+        icon: fa-user
+        title: Career Profile
+        summary: "**Computer engineer and artist** I started my career as a research engineer at Inria, then did some freelance missions. At the same time, I was part of two digital art collectives.
+        I'm now a research engineer and artist. This makes me an original developer, able to adapt to different environments."
+    experiences:
+        enable: true
+        icon: fa-briefcase
+        title: Experiences
+    jobs:
+        list:
+            -   position: Research engineer at Sairpico
+                dates: October 2023 - Present
+                company: 'Inria, Rennes'
+                details: "I joined Inria's Experimentation and Development Department (SED) on a permanent basis. I'm currently assigned to the SAIRPICO team, where I'm in charge of developing BioImageIT, a workflow manager designed for image analysis in Biology."
+
+            -   position: Research engineer at Empenn
+                dates: July 2019 - October 2023
+                company: 'Inria, Rennes'
+                details: "My first missions in the [Empenn](https://team.inria.fr/empenn/) team consisted in the integration of [Boutiques](http://boutiques.github.io/) in [medInria](https://med.inria.fr/) and [Shanoir](https://project.inria.fr/shanoir/).
+                Then, I worked for the [OFSEP](www.ofsep.org/en/) and was in charge of evaluating segmentation tools to detect multiple sclerosis lesions.
+                More generally, the context of my mission was the [HD Cohort](http://www.ofsep.org/en/hd-cohort) which aims at determining the predicting factors of the evolution of the disease."
+
+            -   position: Full-stack developer
+                dates: August 2018 - July 2019
+                company: 'AM, Rennes'
+                details: "I developed the *[Collective Thinking](https://http://meta.collectivethinking.pw/)* platform and published some reflexions about online cooperation.
+                The goal is to federate multiple communities (with academic researchers, digital actors and users) to study cultures (uses, behaviors) and technologies (tools, platforms) which favor collective intelligence."
+            
+            -   position: Digital Artist / Full-stack developer
+                dates: 2016 - Present
+                company: 'IDLV'
+                details: "I designed and developed *[Comme un Dessein](https://commeundessein.co/)*, an interactive installation composed of a web interface on which anybody can draw and vote, and a large scale vertical plotter which draws the result of the general will.
+                The purpose of this artwork is to talk about participative democracy and the emerging horizontal and collaborative practices."
+
+            -   position: Software Engineer
+                dates: 2015 - 2017
+                company: "ProCore 3D"
+                details: "[ProBuilder](http://www.procore3d.com/probuilder/) is a Unity for building and editing 3D objects, directly in the level editor. 
+                The goal of this project was to develop a similar plugin for UnrealEngine to provide quick, simple and powerful modeling tool to create real time interactive 3D
+                applications for the video game industry, and potentially for architects and object designers."
+
+            -   position: Interactive application engineer
+                dates: 2012 - 2016
+                company: 'La Sophiste, Rennes'
+                details: "Developed video jockey software and algorithms for music festivals, and interactive kinect applications for artistic events. 
+                The teamwork enabled me to dive into new media art world, and to grasp involved technologies like Openframeworks, WebGL, GLSL, OpenCL, OpenGL, and Quartz Composer."
+
+            -   position: Full-stack developer
+                dates: 2014 - 2015
+                company: 'AM, Rennes'
+                details: "I always wanted to study and exploit the potential of the internet. 
+                More specifically I am interested in the way people collaborate and create together. 
+                Hence I started working on Romanesco, a collaborative drawing application based on an infinite canvas. 
+                The goal of this project is also to bring developers together to create a wide library of diverse drawing tools."
+
+            -   position: Computer vision research engineer
+                dates: February 2013 – August 2014
+                company: 'INRIA, Rennes'
+                details: "Developed a logo detection and identification system in the context of the European project FIIA, a collaboration between the french research laboratory INRIA and the Icelandic computer vision company Videntifier. 
+                This project was a perfect occasion to put the computer vision theory I learned into practice. During this 18 months I enhanced my skills in OpenCV and Qt, and I coped with engineering project management."
+
+            -   position: Website developer
+                dates: 2009 - Present
+                company: 'AM, Rennes'
+                details: "([misst1guett.com](http://www.misst1guett.com/), [arthurmasson.xyz](http://arthurmasson.xyz/), [pglease.com](http://www.pglease.com/), commeunefee.fr, [idlv.co](http://idlv.co/)) Web development requires a wide range of skills. 
+                From graphic design, soft ergonomics to speed optimization and maintainability, web design is immature and complex, thus challenging and interesting."
+    # projects:
+    #     enable: true
+    #     icon: fa-archive
+    #     title: Projects
+    #     intro: "**You can list your side projects or open source libraries in this
+    #         section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #         Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+    #     list:
+    #         -   title: Hugrid
+    #             url: 'https://github.com/aerohub/hugrid'
+    #             tagline: "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or
+    #                 anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+    #         -   title: Simple FAQ Theme for Hugo
+    #             url: 'https://github.com/aerohub/hugo-faq-theme'
+    #             tagline: "Simple FAQ Theme for Hugo. You may use this theme for building very
+    #                 simple FAQs or note lists."
+    #         -   title: Hugo Identity
+    #             url: 'https://github.com/aerohub/hugo-identity-theme'
+    #             tagline: Little profile/card-style template for Hugo.
+    #         -   title: Orbit
+    #             url: 'https://github.com/aerohub/hugo-orbit-theme'
+    #             tagline: Hugo Resume/CV Theme for Developers.
+    #         -   title: Me
+    #             url: 'https://github.com/aerohub/hugo-me-theme'
+    #             tagline: A simple responsive Hugo theme for personal site.
+    skills:
+        enable: true
+        icon: fa-rocket
+        title: Skills & Proficiency
+        list:
+            -   skill: Python (PyTorch, Pandas, etc.)
+                level: 95%
+            -   skill: Typescript, Javascript, CoffeeScript
+                level: 95%
+            -   skill: C++ (OpenGL, OpenCV, Qt, etc.)
+                level: 92%
+            -   skill: HTML5 & CSS
+                level: 90%
+            -   skill: MongoDB
+                level: 72%
+            -   skill: OpenCL, GLSL
+                level: 70%
+            -   skill: Php (Wordpress, Joomla, etc.)
+                level: 65%
+            -   skill: 3Ds Max, Cinema 4D, Adobe creative suite
+                level: 60%
+
+    # Footer section
+
+    # The original template is released under the Creative Commons Attribution 3.0 License.
+    # Please keep the original attribution link when using for your own project.
+    # If you'd like to use the template without the attribution,
+    # you can check out other license options via template author's website: themes.3rdwavemedia.com
+    # 
+    # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
+
+    footer:
+        copyright: 'Arthur Masson'

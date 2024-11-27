@@ -22,8 +22,6 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
-publishDir = "docs"
-
 [params.info]
 description = "Arthur Masson works"
 title404 = "Nothing's here!"
@@ -117,8 +115,8 @@ identifier = "art"
 url = "/tags/artwork/"
 [[languages.en.menu.co]]
 name = "La Sophiste"
-identifier = "la-sophiste"
-url = "/tags/la-sophiste/"
+identifier = "lasophiste"
+url = "/tags/lasophiste/"
 [[languages.en.menu.co]]
 name = "IDLV"
 identifier = "idlv"
@@ -176,8 +174,8 @@ identifier = "artwork"
 url = "/fr/tags/artwork/"
 [[languages.fr.menu.co]]
 name = "La Sophiste"
-identifier = "la-sophiste"
-url = "/fr/tags/la-sophiste/"
+identifier = "lasophiste"
+url = "/fr/tags/lasophiste/"
 [[languages.fr.menu.co]]
 name = "IDLV"
 identifier = "idlv"

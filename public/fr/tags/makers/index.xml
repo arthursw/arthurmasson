@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makers on AM</title>
+    <link>http://arthurmasson.xyz/fr/tags/makers/</link>
+    <description>Recent content in Makers on AM</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 10 Jun 2017 17:49:04 +0000</lastBuildDate>
+    <atom:link href="http://arthurmasson.xyz/fr/tags/makers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tipibot</title>
+      <link>http://arthurmasson.xyz/fr/tipibot/</link>
+      <pubDate>Sat, 10 Jun 2017 17:49:04 +0000</pubDate>
+      <guid>http://arthurmasson.xyz/fr/tipibot/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Tipibot&#34; src=&#34;http://arthurmasson.xyz/wp-content/uploads/2017/06/DCD_P4vUIAAngI1.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le &lt;a href=&#34;http://idlv.co/tipibot/&#34;&gt;Tipibot&lt;/a&gt; est un traceur vertical open source qui permet de tracer avec différents outils (crayons, feutres, marqueurs, bombes de peinture, etc.).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://idlv.co/robograff/&#34;&gt;http://idlv.co/robograff/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://idlv.co/grande-synthe/&#34;&gt;http://idlv.co/grande-synthe/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BrailleRap</title>
+      <link>http://arthurmasson.xyz/fr/braillerap/</link>
+      <pubDate>Sat, 22 Oct 2016 00:00:21 +0000</pubDate>
+      <guid>http://arthurmasson.xyz/fr/braillerap/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;BrailleRap&#34; src=&#34;http://arthurmasson.xyz/images/braille-rap.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le but du &lt;a href=&#34;https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-fr.md&#34;&gt;projet BrailleRap&lt;/a&gt; est d&amp;rsquo;utiliser une imprimante 3D pour écrire du braille sur une feuille de papier.&lt;/p&gt;&#xA;&lt;p&gt;Un logiciel converti du texte en braille et en instructions gcode pour controler une imprimante 3D munie d&amp;rsquo;un pointeau, pour imprimer les points correspondants. Une tête d&amp;rsquo;impression a été conçue spécialement avec OpenSCAD puis imprimée en 3D pour tenir un pointeau spécial pour améliorer les resultats.&lt;/p&gt;&#xA;&lt;p&gt;Ce projet a été développé lors du &lt;a href=&#34;http://myhumankit.org/actualite/fabrikarium-2016-au-croisement-des-mondes/&#34;&gt;Fabrikarium&lt;/a&gt; organisé par &lt;a href=&#34;http://myhumankit.org/&#34;&gt;My Human Kit&lt;/a&gt; à Airbus à Toulouse.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

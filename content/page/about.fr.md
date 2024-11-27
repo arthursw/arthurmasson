@@ -7,7 +7,7 @@ weight: -200
 
 Arthur Masson
 
-[arthur.sw@gmail.com](mailto:arthur.sw@gmail.com)
+[arthurmasson@protonmail.com](mailto:arthurmasson@protonmail.com)
 
 [arthurmasson.xyz](http://arthurmasson.xyz)
 
