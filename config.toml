@@ -8,7 +8,9 @@ theme = "minimo"
 disqusShortname = ""
 googleAnalytics = ""
 
-Paginate = 16
+[pagination]
+  pagerSize = 16
+
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -17,9 +19,8 @@ enableRobotsTXT = true # generate robots.txt
 pygmentsCodefences = true
 
 # Missing translations will default to this content language
-DefaultContentLanguage = "en"
-
-publishDir = "docs"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
 [params.info]
 description = "Arthur Masson works"
@@ -42,6 +43,7 @@ suffix = ""
 dateFormat = "2006, Jan 02"
 listDateFormat = "2006, Jan 02"
 hideEntryNavigation = ["page"] # boolean / array of sections
+hideEntryMeta = ["page"] # boolean / array of sections
 recentPostsLength = 4
 hideSocialMenu = false
 showReadingTime = true
@@ -80,118 +82,124 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[blackfriday]
-hrefTargetBlank = true
-
-[Languages]
-[Languages.en]
+[languages]
+[languages.en]
 title = "AM"
+languageCode = 'en-US'
 languageName = "English"
 weight = 1
-[[Languages.en.menu.main]]
+[[languages.en.menu.main]]
 name = "AM"
 weight = -220
 identifier = "arthurmasson"
 url = "/"
-[[Languages.en.menu.tags]]
+[[languages.en.menu.tags]]
 name = "Applications"
 identifier = "application"
 url = "/tags/application/"
-[[Languages.en.menu.tags]]
+[[languages.en.menu.tags]]
 name = "Reflections"
 identifier = "reflection"
 url = "/tags/reflection/"
-[[Languages.en.menu.tags]]
+[[languages.en.menu.tags]]
 name = "Experiments"
 identifier = "experiment"
 url = "/tags/experiment/"
-[[Languages.en.menu.tags]]
+[[languages.en.menu.tags]]
 name = "Websites"
 identifier = "websites"
 url = "/tags/website/"
-[[Languages.en.menu.tags]]
+[[languages.en.menu.tags]]
 name = "Art"
 identifier = "art"
 url = "/tags/artwork/"
-[[Languages.en.menu.co]]
+[[languages.en.menu.co]]
 name = "La Sophiste"
-identifier = "la-sophiste"
-url = "/tags/la-sophiste/"
-[[Languages.en.menu.co]]
+identifier = "lasophiste"
+url = "/tags/lasophiste/"
+[[languages.en.menu.co]]
 name = "IDLV"
 identifier = "idlv"
 url = "/tags/idlv/"
-[[Languages.en.menu.workamount]]
+[[languages.en.menu.workamount]]
 name = "1 to 18 hours"
 identifier = "from1to18hours"
 url = "/tags/from1to18hours/"
 weight = 1
-[[Languages.en.menu.workamount]]
+[[languages.en.menu.workamount]]
 name = "1 to 18 days"
 identifier = "from1to18days"
 url = "/tags/from1to18days/"
 weight = 2
-[[Languages.en.menu.workamount]]
+[[languages.en.menu.workamount]]
 name = "1 to 18 months"
 identifier = "from1to18months"
 url = "/tags/from1to18months/"
 weight = 3
 
-[Languages.fr]
+[languages.fr]
 title = "AM"
+languageCode = 'fr-FR'
 languageName = "Français"
 weight = 2
-[languages.fr.blackfriday]
 angledQuotes = true
 # [languages.fr.settings]
 # date & time format: https://golang.org/pkg/time/
 # dateFormat = "02 January 2006"
 # listDateFormat = "02 January 2006"
-[[Languages.fr.menu.main]]
+[[languages.fr.menu.main]]
 name = "AM"
 weight = -220
 identifier = "arthurmasson"
 url = "/fr/"
-[[Languages.fr.menu.tags]]
+[[languages.fr.menu.tags]]
 name = "Applications"
 identifier = "application"
 url = "/fr/tags/application/"
-[[Languages.fr.menu.tags]]
+[[languages.fr.menu.tags]]
 name = "Réflexions"
 identifier = "reflection"
 url = "/fr/tags/reflection/"
-[[Languages.fr.menu.tags]]
+[[languages.fr.menu.tags]]
 name = "Expériences"
 identifier = "experiment"
 url = "/fr/tags/experiment/"
-[[Languages.fr.menu.tags]]
+[[languages.fr.menu.tags]]
 name = "Sites web"
 identifier = "website"
 url = "/fr/tags/website/"
-[[Languages.fr.menu.tags]]
+[[languages.fr.menu.tags]]
 name = "Art"
 identifier = "artwork"
 url = "/fr/tags/artwork/"
-[[Languages.fr.menu.co]]
+[[languages.fr.menu.co]]
 name = "La Sophiste"
-identifier = "la-sophiste"
-url = "/fr/tags/la-sophiste/"
-[[Languages.fr.menu.co]]
+identifier = "lasophiste"
+url = "/fr/tags/lasophiste/"
+[[languages.fr.menu.co]]
 name = "IDLV"
 identifier = "idlv"
 url = "/fr/tags/idlv/"
-[[Languages.fr.menu.workamount]]
+[[languages.fr.menu.workamount]]
 name = "1 à 18 heures"
 identifier = "from1to18hours"
 url = "/fr/tags/from1to18hours/"
 weight = 1
-[[Languages.fr.menu.workamount]]
+[[languages.fr.menu.workamount]]
 name = "1 à 18 jours"
 identifier = "from1to18days"
 url = "/fr/tags/from1to18days/"
 weight = 2
-[[Languages.fr.menu.workamount]]
+[[languages.fr.menu.workamount]]
 name = "1 à 18 mois"
 identifier = "from1to18months"
 url = "/fr/tags/from1to18months/"
 weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  mainSections = ["post"]

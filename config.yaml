@@ -1,4 +1,0 @@
-baseURL: http://localhost:8888/wordpress
-disablePathToLower: true
-languageCode: en-us
-title: My New Hugo Site

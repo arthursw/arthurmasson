@@ -8,7 +8,7 @@ tags:
   - artwork
   - experiment
   - interactive
-  - la-sophiste
+  - lasophiste
   - acl
   - from1to18hours
 ---

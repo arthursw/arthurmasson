@@ -11,6 +11,9 @@ disableRSS: true
 disableSitemap: true
 disable404: true
 
+relativeURLs: true
+canonifyURLs: false
+
 params:
     # Meta
     description: Arthur Masson Resume
@@ -39,8 +42,8 @@ params:
         list:
             -   class: email
                 icon: fa-envelope
-                url: 'mailto: arthur.sw@gmail.com'
-                title: arthur.sw@gmail.com
+                url: 'mailto: arthurmasson@protonmail.com'
+                title: arthurmasson@protonmail.com
             -   class: phone
                 icon: fa-phone
                 url: 'tel:+33652874225'
@@ -111,12 +114,12 @@ params:
         title: Experiences
     jobs:
         list:
-            -   position: Research engineer
+            -   position: Research engineer at Sairpico
                 dates: October 2023 - Present
                 company: 'Inria, Rennes'
                 details: "I joined Inria's Experimentation and Development Department (SED) on a permanent basis. I'm currently assigned to the SAIRPICO team, where I'm in charge of developing BioImageIT, a workflow manager designed for image analysis in Biology."
 
-            -   position: Research engineer
+            -   position: Research engineer at Empenn
                 dates: July 2019 - October 2023
                 company: 'Inria, Rennes'
                 details: "My first missions in the [Empenn](https://team.inria.fr/empenn/) team consisted in the integration of [Boutiques](http://boutiques.github.io/) in [medInria](https://med.inria.fr/) and [Shanoir](https://project.inria.fr/shanoir/).

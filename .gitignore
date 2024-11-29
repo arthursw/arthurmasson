@@ -1,6 +1,9 @@
 .DS_Store
+.hugo_build.lock
 themes/minimo/
-docs/amcvfr/themes/
-docs/amcv/themes
+cv/public/
+cvfr/public/
 cv/themes/
 cvfr/themes/
+static/amcv/
+static/amcvfr/

@@ -8,7 +8,7 @@ tags:
  - application
  - experiment
  - interactive
- - la-sophiste
+ - lasophiste
  - from1to18days
 ---
 
