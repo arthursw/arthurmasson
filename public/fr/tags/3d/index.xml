@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D on AM</title>
+    <link>http://localhost:1313/fr/tags/3d/</link>
+    <description>Recent content in 3D on AM</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 26 Sep 2017 00:00:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pot de fleurs génératifs</title>
+      <link>http://localhost:1313/fr/pots-de-fleurs-g%C3%A9n%C3%A9ratifs/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:08 +0000</pubDate>
+      <guid>http://localhost:1313/fr/pots-de-fleurs-g%C3%A9n%C3%A9ratifs/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Flower pots&#34; src=&#34;http://localhost:1313/images/pots-fleurs.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Pots de fleurs parametriques&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Pots de fleurs programmés à l’aide du logiciel &lt;a href=&#34;http://www.openscad.org/&#34;&gt;OpenSCAD&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Fabriqué avec &lt;a href=&#34;http://cirion.tumblr.com&#34;&gt;Quentin Orhant&lt;/a&gt; pour &lt;a href=&#34;http://idlv.co/&#34;&gt;Indiens Dans La Ville&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Écrire un objet permet de plus facilement le modifier par la suite, dans ce cas, il suffit de modifier la taille, les diamètres ou le nombre de faces pour générer un nouvel objet. L’objet numérique créé, il ne reste plus qu’à l’imprimer en 3D.&lt;/p&gt;&#xA;&lt;h5 id=&#34;sources&#34;&gt;Sources:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/files/3D/vaseFixed.scad&#34;&gt;VasesFixed.scad&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/files/3D/vase.scad&#34;&gt;Vase.scad&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/files/3D/vase-2.scad&#34;&gt;Vase-2.scad&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

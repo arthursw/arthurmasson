@@ -2,7 +2,9 @@
 
 Install [Hugo](https://gohugo.io/getting-started/quick-start/)
 
-Download the main theme [`minimo`](https://minimo.netlify.app/docs/installation/) by initializing and updating the submodule (the minino theme in `themes/minimo/`) : run `git submodule init` to initialize your local configuration file, and `git submodule update` to fetch all the data from that project and check out the appropriate commit listed in your superproject.
+**Warning**: the theme `minimo` is out-of-date and cannot be compiled with the latest version of hugo. Therefore, it is not a submodules anymore, but it is copied instead.
+
+> Download the main theme [`minimo`](https://minimo.netlify.app/docs/installation/) by initializing and updating the submodule (the minino theme in `themes/minimo/`) : run `git submodule init` to initialize your local configuration file, and `git submodule update` to fetch all the data from that project and check out the appropriate commit listed in your superproject.
 
 Both  `cvfr/` and `cv/` use the same theme [hugo-orbit-theme](https://github.com/aerohub/hugo-orbit-theme). You might have to clone it in `cv/themes/` and create a symlink in `cvfr/themes/` by going to `cvfr/` and running `ln -s ../cv/themes themes`.
 

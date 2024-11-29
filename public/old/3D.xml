@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<threedmedia>
+	<item>
+		<name>Bot</name>
+		<description>$</description>
+		<images>
+			<link>Bot1.jpg</link>
+			<link>Bot2.jpg</link>
+			<link>Bot3.jpg</link>
+			<link>Bot4.jpg</link>
+			<link>Bot5.jpg</link>
+		</images>
+	</item>
+	
+	<item>
+		<name>Cartoon</name>
+		<description>I modeled this cartoon-style map for testing a videogame with the Napalm 3D engine. This design is based on Crash Bandicoot first levels.</description>
+		<images>
+			<link>Cartoon1.jpg</link>
+			<link>Cartoon2.jpg</link>
+		</images>
+	</item>
+	
+	<item>
+		<name>Concombre</name>
+		<description>$</description>
+		<images>
+			<link>Concombre1.jpg</link>
+			<link>Concombre2.jpg</link>
+		</images>
+	</item>
+	
+	<item>
+		<name>IMT</name>
+		<description>This is a level I modeled for the Immersive Mine Train game IMT. This game is developped for an immersive cave with a head tracking system.The player is in a wagon that follows tracks in a Mine, the aim is to avoid obstacles. I developped some scripts to export the IMT levels into 3Ds max, and then to position objects into the 3D scene. Then I developped other scripts to export back the 3Ds max scene to an IMT level.  </description>
+		<images>
+			<link>IMT1.jpg</link>
+			<link>IMT2.jpg</link>
+			<link>IMT3.jpg</link>
+		</images>
+		<videos>
+			<link>IMT.f4v</link>
+			<link>Usine.f4v</link>
+		</videos>
+	</item>
+	
+	<item>
+		<name>Napalm</name>
+		<description>$</description>
+		<images>
+			<link>Napalm1.jpg</link>
+			<link>Napalm2.jpg</link>
+			<link>Napalm3.jpg</link>
+		</images>
+	</item>
+	
+	<item>
+		<name>NapalmPalace</name>
+		<description>To test the Napalm 3D engine, I modeled this building that required a lot of texturing work.</description>
+		<images>
+			<link>NapalmPalace1.jpg</link>
+			<link>NapalmPalace2.jpg</link>
+			<link>NapalmPalace3.jpg</link>
+			<link>NapalmPalace4.jpg</link>
+		</images>
+	</item>
+</threedmedia>

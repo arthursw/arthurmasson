@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Action-Script on AM</title>
+    <link>http://localhost:1313/tags/action-script/</link>
+    <description>Recent content in Action-Script on AM</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jun 2010 00:00:49 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/action-script/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logic Circuit Simulator</title>
+      <link>http://localhost:1313/logic-circuit-simulator/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:49 +0000</pubDate>
+      <guid>http://localhost:1313/logic-circuit-simulator/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Simulateur de circuits logiques&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-17.34.38.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My second year project at ESIR was a &lt;a href=&#34;http://localhost:1313/old/LogicGateSimulator.html&#34;&gt;logical circuit simulator&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I developed a dynamic version which show of logical signals propagate in the circuits.&lt;/p&gt;&#xA;&lt;p&gt;The work area is small, but it is possible to navigate on the canvas to create complexe circuits.&lt;/p&gt;&#xA;&lt;p&gt;I could then build this 4 bits adder :&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Simulateur de circuits logiques&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/logic-gate-simulator.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>arthurmasson.perso</title>
+      <link>http://localhost:1313/arthurmasson-perso/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:11 +0000</pubDate>
+      <guid>http://localhost:1313/arthurmasson-perso/</guid>
+      <description>&lt;p&gt;I created a &lt;a href=&#34;http://localhost:1313/old/index.html&#34;&gt;personal website&lt;/a&gt; in 2010. At this time, flash was far from being abandoned, it seemed to have a great future !&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;arthurmasson&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/arthurmasson.perso-2088x1396.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I enjoyed working with ActionScript 3.0, this language is simple, powerful and somehow portable and complete. Those qualities are rarely met within a single technology. However, this language almost disappeared from the web since it requires to compile, does not give the possibility to distribute the source codes by design and does not respect web standards. I do not regret it since it was replaced by html, css and javascript for the best of the open web philosophy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PG-Lease</title>
+      <link>http://localhost:1313/pg-lease/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:10 +0000</pubDate>
+      <guid>http://localhost:1313/pg-lease/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;PG Lease&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-19.09.08.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I developed a &lt;a href=&#34;http://pglease.com/&#34;&gt;small flash website&lt;/a&gt; for PG_Lease, a small brokerage company.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comme une fée</title>
+      <link>http://localhost:1313/comme-une-fee/</link>
+      <pubDate>Thu, 30 Jul 2009 00:00:53 +0000</pubDate>
+      <guid>http://localhost:1313/comme-une-fee/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Comme un fée&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/CommeUneFee.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I created an e-commerce website with a flash version and a Joomla / Virtuemart version in 2009.&lt;/p&gt;&#xA;&lt;p&gt;This job required me to develop different skills : graphic designer, web developer, UX designer etc. This project was intense, very interesting and rewarding :-)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Graphic design</title>
+      <link>http://localhost:1313/fr/graphic-design/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:47 +0000</pubDate>
+      <guid>http://localhost:1313/fr/graphic-design/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Graphic Design&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-18.42.18.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For my first year at engineering school, I had fun working on a &lt;a href=&#34;http://localhost:1313/old/GraphicDesign.html&#34;&gt;flash presentation about graphic design&lt;/a&gt; for my english course, and this is the result. As you can see, I was not a graphic designer, but I do like graphic design.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spick</title>
+      <link>http://localhost:1313/spick/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:21 +0000</pubDate>
+      <guid>http://localhost:1313/spick/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Spick&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-18.53.54.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/old/Spick.html&#34;&gt;Spick&lt;/a&gt; is probably the second application which I developped in ActionScript.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this tool is to organize ideas with multiple types of hierarchy. This experiment is similar to mind-mapping apps, but at this time is was not democratized and I didn&amp;rsquo;t know anything about it.&lt;/p&gt;&#xA;&lt;p&gt;Each text box can be :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;simple paragraphs&lt;/li&gt;&#xA;&lt;li&gt;comments&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;folders&amp;rdquo; which contains a sub-network of boxes (which can also contain other sub-boxes)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Sound generator</title>
+      <link>http://localhost:1313/sound-generator/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:47 +0000</pubDate>
+      <guid>http://localhost:1313/sound-generator/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;sound generator&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-18.36.14.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This &lt;a href=&#34;http://localhost:1313/old/WaveGenerator.html&#34;&gt;sound generator&lt;/a&gt; was one of my very first application.&#xA;It is very simple, but can theoretically simulate any sound since it is possible to add an &amp;ldquo;infinite&amp;rdquo; amount of sine waves :-)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

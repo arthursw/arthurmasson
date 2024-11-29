@@ -1,9 +1,5 @@
 - id: education
-<<<<<<< HEAD
-  translation: Étues
-=======
   translation: Études
->>>>>>> revert3
 - id: experiences
   translation: Expériences
 - id: interests

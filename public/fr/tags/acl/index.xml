@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acl on AM</title>
+    <link>http://localhost:1313/fr/tags/acl/</link>
+    <description>Recent content in Acl on AM</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/acl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flan</title>
+      <link>http://localhost:1313/fr/flan/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:04 +0000</pubDate>
+      <guid>http://localhost:1313/fr/flan/</guid>
+      <description>&lt;p&gt;Flou + Lent = &lt;a href=&#34;https://arthursw.github.io/Flan/&#34;&gt;Flan&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Flan&#34; src=&#34;https://camo.githubusercontent.com/ee5dbda4218ec595bcdb0f01b1664d67fbfa72d5/68747470733a2f2f732d6d656469612d63616368652d616b302e70696e696d672e636f6d2f6f726967696e616c732f30392f33312f36612f30393331366133636436343463313038363663623962643065363665343266622e6a7067&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Que devient un son lorsqu&amp;rsquo;il est flouté ?&lt;/p&gt;&#xA;&lt;p&gt;L&amp;rsquo;application &lt;em&gt;Flan&lt;/em&gt; vise à répondre à cette question en générant deux éléments :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;des motifs &lt;em&gt;NETS&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;des sons correspondant à ces motifs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;La correspondance entre motifs et sons est assez triviale :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;symboles triangles : sons basés sur des &lt;a href=&#34;https://fr.wikipedia.org/wiki/Signal_triangulaire&#34;&gt;signaux triangles&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;symboles ronds : sons basés sur des signaux sinusoïdaux,&lt;/li&gt;&#xA;&lt;li&gt;symboles rectangles : sons basés sur des signaux carrés,&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Chaque ligne de motif génère un son. La position verticale de chaque ligne va impacter la hauteur du son (fréquence du signal sonore). Les signaux sonores sont &lt;a href=&#34;https://fr.wikipedia.org/wiki/Modulation_de_fr%C3%A9quence&#34;&gt;modulés en fréquence&lt;/a&gt;. Le nombre de motif sur une ligne va impacter la fréquence de l&amp;rsquo;onde porteuse. La hauteur des motifs influe sur le volume du signal sonore correspondant.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Engrenage musical</title>
+      <link>http://localhost:1313/fr/engrenage-musical-musical-game-of-life/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:24 +0000</pubDate>
+      <guid>http://localhost:1313/fr/engrenage-musical-musical-game-of-life/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Création de : Arthur Masson  &amp;amp; Gaëtan Hervé&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Engrenage musical&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-14.19.04.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arthursw.github.io/dx7-gears/&#34;&gt;Engrenage musical&lt;/a&gt; est une oeuvre qui s&amp;rsquo;inspire du &lt;a href=&#34;https://fr.wikipedia.org/wiki/Jeu_de_la_vie&#34;&gt;jeu de la vie&lt;/a&gt; imaginé par &lt;a href=&#34;https://fr.wikipedia.org/wiki/John_Horton_Conway&#34; title=&#34;John Horton Conway&#34;&gt;John Horton Conway&lt;/a&gt; en &lt;a href=&#34;https://fr.wikipedia.org/wiki/1970&#34; title=&#34;1970&#34;&gt;1970&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Cet algorithme rendit Conway rapidement célèbre mais il ouvrit aussi un nouveau champ de recherche mathématique, celui des automates cellulaires. En effet, les analogies du jeu de la vie avec le développement, le déclin et les altérations d’une colonie de micro-organismes, le rapprochent des jeux de simulation qui miment les processus de la vie réelle.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

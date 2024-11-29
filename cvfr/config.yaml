@@ -12,12 +12,9 @@ disableRSS: true
 disableSitemap: true
 disable404: true
 
-<<<<<<< HEAD
-=======
 relativeURLs: true
 canonifyURLs: false
 
->>>>>>> revert3
 params:
     # Meta
     description: CV Arthur Masson
@@ -54,13 +51,8 @@ params:
         list:
             -   class: email
                 icon: fa-envelope
-<<<<<<< HEAD
-                url: 'mailto: arthur.sw@gmail.com'
-                title: arthur.sw@gmail.com
-=======
                 url: 'mailto: arthurmasson@protonmail.com'
                 title: arthurmasson@protonmail.com
->>>>>>> revert3
             -   class: phone
                 icon: fa-phone
                 url: 'tel:+33652874225'
@@ -132,20 +124,12 @@ params:
         title: Experiences
     jobs:
         list:
-<<<<<<< HEAD
-            -   position: Ingénieur de recherche
-=======
             -   position: Ingénieur de recherche à Sairpico
->>>>>>> revert3
                 dates: Octobre 2023 - Présent
                 company: 'Inria, Rennes'
                 details: "J'ai passé le concours externe Inria pour intégrer le Service d'Expérimentation et Développement de l'Inria de manière permanente. Je suis actuellement affecté dans l'équipe SAIRPICO pour prendre en charge le développement de BioImageIT, un gestionnaire de workflow conçu pour l'analyse d'images en Biologie."
 
-<<<<<<< HEAD
-            -   position: Ingénieur de recherche
-=======
             -   position: Ingénieur de recherche à Empenn
->>>>>>> revert3
                 dates: Juillet 2019 - Octobre 2023
                 company: 'Inria, Rennes'
                 details: "Mes permières missions dans l'équipe [Empenn](https://team.inria.fr/empenn/) ont consisté à intégrer l'outil [Boutiques](http://boutiques.github.io/) aux logiciels [medInria](https://med.inria.fr/) et [Shanoir](https://project.inria.fr/shanoir/).

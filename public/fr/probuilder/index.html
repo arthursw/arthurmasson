@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang='fr'>
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='
+J&rsquo;ai travaillé pendant 18 mois sur ProBuilder, un plugin Unreal Engine pour modéliser des objets 3D directement depuis l&rsquo;éditeur. L&rsquo;objectif du projet est de fournir un grand nombre de fonctionnalités tout en conservant une simplicité d&rsquo;utilisation.
+Implemented features
+Shape creation mode
+3D Shapes
+
+The shape creation mode enable to create with the mouse different shapes:
+
+Line
+Rectangle
+Circle
+Plane
+Ring
+Box
+Cylinder
+TruncatedCone
+Cone
+Dodecahedron
+Icosahedron
+Octahedron
+Tetrahedron
+Sphere
+Torus
+TorusKnot
+Tube
+Capsule
+Prism
+Pyramid
+Stairs
+
+It is possible to precisely choose the dimensions and parameters of the current shape with the corresponding sliders.'>
+
+<meta property='og:title' content='ProBuilder • AM'>
+<meta property='og:description' content='
+J&rsquo;ai travaillé pendant 18 mois sur ProBuilder, un plugin Unreal Engine pour modéliser des objets 3D directement depuis l&rsquo;éditeur. L&rsquo;objectif du projet est de fournir un grand nombre de fonctionnalités tout en conservant une simplicité d&rsquo;utilisation.
+Implemented features
+Shape creation mode
+3D Shapes
+
+The shape creation mode enable to create with the mouse different shapes:
+
+Line
+Rectangle
+Circle
+Plane
+Ring
+Box
+Cylinder
+TruncatedCone
+Cone
+Dodecahedron
+Icosahedron
+Octahedron
+Tetrahedron
+Sphere
+Torus
+TorusKnot
+Tube
+Capsule
+Prism
+Pyramid
+Stairs
+
+It is possible to precisely choose the dimensions and parameters of the current shape with the corresponding sliders.'>
+<meta property='og:url' content='http://localhost:1313/fr/probuilder/'>
+<meta property='og:site_name' content='AM'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post'><meta property='article:tag' content='application'><meta property='article:tag' content='from1to18months'><meta property='article:published_time' content='2017-02-01T00:00:49Z'/><meta property='article:modified_time' content='2017-02-01T00:00:49Z'/><meta name='twitter:card' content='summary'>
+
+<meta name="generator" content="Hugo 0.139.2">
+
+  <title>ProBuilder • AM</title>
+  <link rel='canonical' href='http://localhost:1313/fr/probuilder/'>
+  
+    <link href="/fr/probuilder/" rel="alternate" type="application/rss+xml" title="AM" />
+  
+  <link rel='alternate' hreflang='fr' href='http://localhost:1313/fr/probuilder/'><link rel='alternate' hreflang='en' href='http://localhost:1313/probuilder/'><link rel='alternate' hreflang='x-default' href='http://localhost:1313/probuilder/'>
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.7a50ccd3.css'><link rel='stylesheet' href='/assets/css/custom.css'>
+</head>
+
+
+<body class='page type-post'>
+  <div class='site'>
+
+    <a class='screen-reader' href='#main'>Aller au contenu</a>
+
+    <header id='header' class='header-container'>
+      <div class='header site-header'>
+        <nav id='main-menu' class='main-menu-container' aria-label='Menu principal'><ul class='main-menu'>
+  <li>
+      <a href='/fr/'>AM</a>
+    </li>
+  <li>
+      <a href='/fr/contact/'>Contact</a>
+    </li>
+  <li>
+      <a href='/fr/cv/'>CV</a>
+    </li>
+  
+  </ul>
+
+  <ul class='tags-menu main-menu'>
+    <li>
+        <a href='/fr/tags/application/'>Applications</a>
+      </li>
+    <li>
+        <a href='/fr/tags/artwork/'>Art</a>
+      </li>
+    <li>
+        <a href='/fr/tags/experiment/'>Expériences</a>
+      </li>
+    <li>
+        <a href='/fr/tags/reflection/'>Réflexions</a>
+      </li>
+    <li>
+        <a href='/fr/tags/website/'>Sites web</a>
+      </li>
+    
+  </ul>
+
+  <ul class='co-menu main-menu'>
+    <li>
+        <a href='/fr/tags/idlv/'>IDLV</a>
+      </li>
+    <li>
+        <a href='/fr/tags/lasophiste/'>La Sophiste</a>
+      </li>
+    
+  </ul>
+
+  <ul class='workamount-menu main-menu'>
+    <li>
+        <a href='/fr/tags/from1to18hours/'>1 à 18 heures</a>
+      </li>
+    <li>
+        <a href='/fr/tags/from1to18days/'>1 à 18 jours</a>
+      </li>
+    <li>
+        <a href='/fr/tags/from1to18months/'>1 à 18 mois</a>
+      </li>
+    
+  </ul>
+
+  
+  <ul class="main-menu translations">
+      
+      <li>
+          <a href="http://localhost:1313/probuilder/">English</a>
+      </li>
+      
+  </ul>
+  
+
+</nav>
+
+      </div>
+    </header>
+
+
+<main id='main' class='main'>
+  <article lang='fr' class='entry'>
+    <header class='header-container'>
+  <div class='header entry-header'>
+    <div class='header-info'>
+      <h1 class='title'>ProBuilder</h1>
+      
+
+    </div>
+    
+<div class='meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader'>Publié le </span>
+  <time class='date' datetime='2017-02-01T00:00:49Z'>2017, Feb 01</time>
+</span>
+
+  
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+5 minutes de lecture
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+    
+    
+
+    <div class='entry-content'>
+  <p><img alt="ProBuilder 1" src="/wp-content/uploads/2017/06/Capture-ecran-2017-06-23-a-17.42.44.png"></p>
+<p>J&rsquo;ai travaillé pendant 18 mois sur ProBuilder, un plugin Unreal Engine pour modéliser des objets 3D directement depuis l&rsquo;éditeur. L&rsquo;objectif du projet est de fournir un grand nombre de fonctionnalités tout en conservant une simplicité d&rsquo;utilisation.</p>
+<h3 id="implemented-features">Implemented features</h3>
+<h4 id="shape-creation-mode">Shape creation mode</h4>
+<h5 id="3d-shapes">3D Shapes</h5>
+<p><img alt="line-tool" src="/images/probuilder/04-all-tool.jpg"></p>
+<p>The shape creation mode enable to create with the mouse different shapes:</p>
+<ul>
+<li>Line</li>
+<li>Rectangle</li>
+<li>Circle</li>
+<li>Plane</li>
+<li>Ring</li>
+<li>Box</li>
+<li>Cylinder</li>
+<li>TruncatedCone</li>
+<li>Cone</li>
+<li>Dodecahedron</li>
+<li>Icosahedron</li>
+<li>Octahedron</li>
+<li>Tetrahedron</li>
+<li>Sphere</li>
+<li>Torus</li>
+<li>TorusKnot</li>
+<li>Tube</li>
+<li>Capsule</li>
+<li>Prism</li>
+<li>Pyramid</li>
+<li>Stairs</li>
+</ul>
+<p>It is possible to precisely choose the dimensions and parameters of the current shape with the corresponding sliders.</p>
+<h5 id="2d-surfaces">2D surfaces</h5>
+<p>The line, rectangle and circle tool will automatically adapt and interesct with existing geometry.</p>
+<p>For example, when drawing a rectangle over a cube, the rectangle will be aligned with the face on which the user draws, and its edges will be merged with the existing face edges.</p>
+<p><img alt="line-tool" src="/images/probuilder/00-line-tool.jpg">
+<img alt="rectangle-tool" src="/images/probuilder/01-rectangle-tool.jpg">
+<img alt="circle-tool" src="/images/probuilder/02-circle-tool.jpg"></p>
+<h4 id="select--transform-mode">Select &amp; Transform mode</h4>
+<p>In the select &amp; transform mode, there are 4 modes : Object, Face, Edge and Vertex mode.</p>
+<h5 id="general">General</h5>
+<p>It is always possible to delete the selected items, to detach part of the object (for example exclude a group of faces from one object and create another one from it) and to transform (translate, rotate or scale) the selected part.</p>
+<h5 id="object-mode">Object mode</h5>
+<p>The object mode enables to change the selected object parameters (for example to increase the number of faces of a sphere), to regenerate a modified object, to convert the object to a Unreal Engine static mesh or to export it to an FBX file.</p>
+<h5 id="face-mode">Face mode</h5>
+<p>The face mode has many features :</p>
+<img style="width: 400px" src="/images/probuilder/08-panel.png" alt="Face panel">
+<h6 id="extrudes-and-insets--offsets">Extrudes and insets / offsets</h6>
+<p><img alt="extrude-tool" src="/images/probuilder/06-extrude-group-tool.jpg"></p>
+<p>It is possible to extrude an object by shift dragging a selected face or group of faces (with the 3D widget/gizmo), or by using the corresponding buttons in the UI.</p>
+<p>The extrusion can be grouped (the new extrusion will be in one block) or separated by face (each face will be extruded independently), and the extrusion can be parallel to the selected faces or not.</p>
+<p>When extruding inside a cube, if the extrusion goes entirely through the object (and the option is checked) a hole is automatically created by cutting the destination face.</p>
+<p>In all cases, the intersections between the new face and the existing faces can be computed to create new vertices where necessary.</p>
+<p>An inset/offset button enables to create inner or outer faces.</p>
+<p><img alt="inset-offset-tool" src="/images/probuilder/07-inset-offset-tool.jpg"></p>
+<p>In the same way, intersections between new and old faces can be computed.</p>
+<h6 id="invert-subdivide-merge-flip-triangle-face">Invert, subdivide, merge, flip triangle face</h6>
+<p>It is possible to invert the face normal, to subdivide a face into mutliple faces (one face per edge), merge neighbour faces, and flip the two triangles inside quadrangular faces.</p>
+<h6 id="uvs">UVs</h6>
+<p>UVs are automatically generated when creating geometry.</p>
+<p>The UI enable to modify the parameters used to generate those UVs:</p>
+<ul>
+<li>translate, rotate or scale UVs,</li>
+<li>tile, fit or stretch UVs the face,</li>
+<li>flip along U or V coordinates, or swap U and V coordinates,</li>
+<li>use world space or local space.</li>
+</ul>
+<p>A full UV editor was developped (but not totally finished) to modify UVs manually (by translation, rotating, scaling UV vertices by hand).</p>
+<h5 id="edge-mode">Edge mode</h5>
+<p><img alt="edge-panel" src="/images/probuilder/09-panel-edge.PNG"></p>
+<p>It is possible to merge colinear edges (and remove the remaining vertices), to intersect selected edges (and create vertices at the intersections), and to create a new face from selected edges (if edges are coplanar).</p>
+<p>One can select edges by loop, ring or hole.</p>
+<h5 id="vertex-mode">Vertex mode</h5>
+<p><img alt="vertex-panel" src="/images/probuilder/11-panel-vertex.PNG"></p>
+<p>In vertex mode, one can choose to create a vertex inside a face and connect it to all other vertices to create multiple faces.
+The &ldquo;Collapse vertices&rdquo; button enables to merge selected vertices into a single one, automatically merging neighbour faces if necessary, keeping the geometry as clean as possible.
+&ldquo;Move vertices on grid&rdquo; enables to snap the vertices on the grid.</p>
+<h3 id="retrospective">Retrospective</h3>
+<p>I stopped this project because Epic Games started releasing 3D modeling tools when I acheive a very big amount of work (18 months) but nothing was fully tested and ready to be released.</p>
+<p>My first task was to learn and understand how Unreal Engine (and the editor) work. This was not easy since I did not know the engine before and the editor plugin side is not fully documented.</p>
+<p>At first, I worked with C++ and I spent a huge amount of time compiling my entire project at every single change.</p>
+<p>After about five months, I started porting my project to Typescript thanks to Unreal.js (ProBuilder is a c++ plugin running javascript scripts). This solved the compile time problem and I felt release of a heavy weight.</p>
+<p>Since I gained freedom, I started developing complex features such as a fully featured UV editor and complexe 2D surface intersection algorithms. This took me quite a lot of time to implement, and basic tools were still not completely working.</p>
+<p>I also worked on the in-game modeling feature, which reaquires a good knowledge of the game engine.</p>
+<p>After almost a year, I started re-implementing basic tools with different algorithm to polish what was already working in early propotypes, but not ready to be released.</p>
+<p>With hindsight, I know that I should have start building, testing and releasing simple tools one-by-one, instead of trying to directly create a fully-featured and advances 3D modeling and texturing plugin. The time I spent compiling C++ code, and working on the UV editor or other secondary features was the time we missed to release our product in time.</p>
+<p>In conclusion, I can say that I gain a good experience in project management. This project reminds me to always be humble and to plan and do simple things first.</p>
+
+</div>
+
+    
+<footer class='entry-footer-container'>
+  <div class='entry-footer'>
+  <div class='tags'>
+  <span class='taxonomyTerm-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M20.59,13.41l-7.17,7.17a2,2,0,0,1-2.83,0L2,12V2H12l8.59,8.59A2,2,0,0,1,20.59,13.41Z"/>
+  <line x1="7" y1="7" x2="7" y2="7"/>
+  
+</svg>
+</span>
+  <span class='screen-reader'>Tags: </span><a class='tag' href='/fr/tags/application'>application</a>, <a class='tag' href='/fr/tags/from1to18months'>from1to18months</a></div>
+
+  </div>
+</footer>
+
+
+  </article>
+  
+<nav class='entry-nav-container'>
+  <div class='entry-nav'><div class='prev-entry'>
+      <a href='/fr/ili/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Précédent</span>
+        <span class='screen-reader'>Billet précédent: </span>
+        <span class="prev-title">ili</span>
+      </a>
+    </div><div class='next-entry'>
+      <a href='/fr/idlv-co/'>
+        <span aria-hidden='true'>Suivant <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+        <span class='screen-reader'>Billet suivant: </span>
+        <span class="next-title">IDLV.co</span>
+      </a>
+    </div></div>
+</nav>
+
+  
+</main>
+
+    <footer id='footer' class='footer-container'>
+      <div class='footer'>
+        <div class='social-menu-container'>
+  <nav aria-label='Social Menu'>
+    <ul class='social-menu'><li>
+        <a href='https://github.com/arthursw' target='_blank' rel='noopener'>
+          <span class='screen-reader'>Ouvrir le compte Github dans un nouvel onglet</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:arthur.yves.robin@gmail.com' target='_blank' rel='noopener'>
+          <span class='screen-reader'>Contacter par mail</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</div>
+        <div class='copyleft'>
+  <p>
+  </p>
+</div>
+
+      </div>
+    </footer>
+
+  </div><script src='/assets/js/main.5871befd.js'></script><script src='/assets/js/custom.js'></script></body>
+
+</html>
+
