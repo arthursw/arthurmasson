@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drafts on AM</title>
-    <link>http://localhost:1313/fr/drafts/</link>
+    <link>http://arthurmasson.xyz/fr/drafts/</link>
     <description>Recent content in Drafts on AM</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Sat, 01 Nov 2008 00:00:47 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/drafts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://arthurmasson.xyz/fr/drafts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graphic design</title>
-      <link>http://localhost:1313/graphic-design/</link>
+      <link>http://arthurmasson.xyz/graphic-design/</link>
       <pubDate>Sat, 01 Nov 2008 00:00:47 +0000</pubDate>
-      <guid>http://localhost:1313/graphic-design/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Graphic Design&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-18.42.18.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;En première année d&amp;rsquo;école d&amp;rsquo;ingénieur, je me suis amusé à faire &lt;a href=&#34;http://localhost:1313/old/GraphicDesign.html&#34;&gt;une petite présentation flash sur le graphisme&lt;/a&gt; pour un cours d&amp;rsquo;anglais, et &lt;a href=&#34;http://localhost:1313/old/GraphicDesign.html&#34;&gt;voila le résultat&lt;/a&gt; 🙂 Je pense qu&amp;rsquo;on peut voir que je ne suis pas graphiste, mais que j&amp;rsquo;aime le graphisme.&lt;/p&gt;</description>
+      <guid>http://arthurmasson.xyz/graphic-design/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Graphic Design&#34; src=&#34;http://arthurmasson.xyz/wp-content/uploads/2017/06/Capture-ecran-2017-06-20-a-18.42.18.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;En première année d&amp;rsquo;école d&amp;rsquo;ingénieur, je me suis amusé à faire &lt;a href=&#34;http://arthurmasson.xyz/old/GraphicDesign.html&#34;&gt;une petite présentation flash sur le graphisme&lt;/a&gt; pour un cours d&amp;rsquo;anglais, et &lt;a href=&#34;http://arthurmasson.xyz/old/GraphicDesign.html&#34;&gt;voila le résultat&lt;/a&gt; 🙂 Je pense qu&amp;rsquo;on peut voir que je ne suis pas graphiste, mais que j&amp;rsquo;aime le graphisme.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

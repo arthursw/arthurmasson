@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Makers on AM</title>
-    <link>http://localhost:1313/tags/makers/</link>
+    <link>http://arthurmasson.xyz/tags/makers/</link>
     <description>Recent content in Makers on AM</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 10 Jun 2017 17:49:04 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/makers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://arthurmasson.xyz/tags/makers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tipibot</title>
-      <link>http://localhost:1313/tipibot/</link>
+      <link>http://arthurmasson.xyz/tipibot/</link>
       <pubDate>Sat, 10 Jun 2017 17:49:04 +0000</pubDate>
-      <guid>http://localhost:1313/tipibot/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Tipibot&#34; src=&#34;http://localhost:1313/wp-content/uploads/2017/06/DCD_P4vUIAAngI1.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://idlv.co/tipibot/&#34;&gt;Tipibot&lt;/a&gt; is an open source vertical plotter to draw images with different tools (pencils, felt pen, marker, spray paint, etc.)&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://idlv.co/robograff/&#34;&gt;http://idlv.co/robograff/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://idlv.co/grande-synthe/&#34;&gt;http://idlv.co/grande-synthe/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://arthurmasson.xyz/tipibot/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Tipibot&#34; src=&#34;http://arthurmasson.xyz/wp-content/uploads/2017/06/DCD_P4vUIAAngI1.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://idlv.co/tipibot/&#34;&gt;Tipibot&lt;/a&gt; is an open source vertical plotter to draw images with different tools (pencils, felt pen, marker, spray paint, etc.)&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://idlv.co/robograff/&#34;&gt;http://idlv.co/robograff/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://idlv.co/grande-synthe/&#34;&gt;http://idlv.co/grande-synthe/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>BrailleRap</title>
-      <link>http://localhost:1313/braillerap/</link>
+      <link>http://arthurmasson.xyz/braillerap/</link>
       <pubDate>Sat, 22 Oct 2016 00:00:21 +0000</pubDate>
-      <guid>http://localhost:1313/braillerap/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;BrailleRap&#34; src=&#34;http://localhost:1313/images/braille-rap.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The goal of &lt;a href=&#34;https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-fr.md&#34;&gt;the BrailleRap project&lt;/a&gt; is to use a 3D printer to write braille on a sheet of paper.&lt;/p&gt;&#xA;&lt;p&gt;A software converts text into braille and gcode instructions to control the nozzle of a 3D printer to print the corresponding dots. A custom printer head was designed with OpenSCAD and 3D printed to hold the perfect pin to obtain better results.&lt;/p&gt;&#xA;&lt;p&gt;This project took place at the &lt;a href=&#34;http://myhumankit.org/actualite/fabrikarium-2016-au-croisement-des-mondes/&#34;&gt;Fabrikarium&lt;/a&gt; organized by &lt;a href=&#34;http://myhumankit.org/&#34;&gt;My Human Kit&lt;/a&gt; at Airbus in Toulouse.&lt;/p&gt;</description>
+      <guid>http://arthurmasson.xyz/braillerap/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;BrailleRap&#34; src=&#34;http://arthurmasson.xyz/images/braille-rap.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The goal of &lt;a href=&#34;https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-fr.md&#34;&gt;the BrailleRap project&lt;/a&gt; is to use a 3D printer to write braille on a sheet of paper.&lt;/p&gt;&#xA;&lt;p&gt;A software converts text into braille and gcode instructions to control the nozzle of a 3D printer to print the corresponding dots. A custom printer head was designed with OpenSCAD and 3D printed to hold the perfect pin to obtain better results.&lt;/p&gt;&#xA;&lt;p&gt;This project took place at the &lt;a href=&#34;http://myhumankit.org/actualite/fabrikarium-2016-au-croisement-des-mondes/&#34;&gt;Fabrikarium&lt;/a&gt; organized by &lt;a href=&#34;http://myhumankit.org/&#34;&gt;My Human Kit&lt;/a&gt; at Airbus in Toulouse.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

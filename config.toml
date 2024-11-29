@@ -7,6 +7,7 @@ theme = "minimo"
 
 disqusShortname = ""
 googleAnalytics = ""
+publishDir = "docs/"
 
 [pagination]
   pagerSize = 16

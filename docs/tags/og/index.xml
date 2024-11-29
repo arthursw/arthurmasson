@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opengraph on AM</title>
-    <link>http://localhost:1313/tags/og/</link>
+    <link>http://arthurmasson.xyz/tags/og/</link>
     <description>Recent content in Opengraph on AM</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="http://localhost:1313/tags/og/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://arthurmasson.xyz/tags/og/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

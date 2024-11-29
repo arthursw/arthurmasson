@@ -2,7 +2,7 @@
   <ul class="main-menu translations">
       {{ range .Translations }}
       <li>
-          <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
       </li>
       {{ end}}
   </ul>
